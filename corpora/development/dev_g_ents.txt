@@ -1,0 +1,3528 @@
+ADH2 2-1 GO_0001523
+TGR5 GO_0038184
+farnesyltransferase GO:0004311
+outward rectifier K+ channel GO:0008282
+3-keto-5-ene-steroid isomerase GO:0004769
+amyloid β-protein GO:0018032
+ETB receptor GO:0042654
+ATP8A1 GO_0140331
+porcine heart malate dehydrogenase GO:0008863
+rat amylin GO_0007189
+C/EBPbeta GO_0006355
+platelet-derived growth factor receptor beta GO:0036119
+hH1 GO_0006814
+basic fibroblast growth factor GO:0035766
+MDR1 GO_0006886
+iNOS GO_0017148
+opiate receptor GO:0000268
+17beta-hydroxysteroid-dehydrogenase type 1 GO:0003845
+ICAM2 GO_0007155
+pTEFb GO_0001895
+TGFβ GO_0045597
+Grb2 GO_0008286
+light-gated ion channel GO:0005244
+guinea pig calcitonin receptor GO:0031716
+K23_I24insIDK GO:0042465
+Prohormone convertase-1 GO:0005184
+serum alanine/aspartate transaminase GO:0004069
+transaminase GO:0006412
+colonic tumor necrosis factor-α GO:0005164
+mammalian alcohol dehydrogenase GO:0004022
+Apo-alpha-lactalbumin GO:0071432
+KARs GO_0002276
+plasmin GO_0006468
+p42 GO_0030433
+ATP-sensitive potassium (KATP) channels GO:0008282
+u-PA GO_0010469
+alpha-, zeta- and gamma T-thrombin GO:1901015
+myosin-18Aα and -18β GO_0010629
+Nrf1 GO_0006357
+PYK2 GO_0010595
+NAGK GO_0006044
+IgG GO_0006506
+N-methyl-D-aspartate (NMDA), D(2) and 5-HT(2) receptors GO:0097114
+myosin-IIA GO:0007135
+hNETs GO_0009913
+β2-adrenergic receptor GO:0031690
+CD15 GO_0009311
+Pro42Ala GO_0017157
+translocator protein GO:0015031
+cav-1 GO_0007204
+ADH2 1-1 GO_0010628
+intracellular adhesion molecule-1 GO:0098631
+glycoprotein GO:0036525
+(AMPA) receptor GO:0032281
+serum- and glucocorticoid-regulated kinases GO:2000849
+AMY(1(a)) GO_0006355
+FRS GO_0008543
+TNFα GO_0000122
+kappa receptor GO_0006470
+pyridoxal phosphate-dependent transaminases GO:0019163
+PRB GO_0043550
+vesicular glutamate transporters 1 and 2 GO:0060199
+Bax GO_0001783
+PTP epsilon GO_0006654
+liver X receptors GO:0016933
+H(+)-coupled monocarboxylate transport system GO:0015718
+vesicular monoamine transporter-2 GO:0015844
+dopamine D(2) GO_0006672
+T-bet GO_0000122
+torafugu PPARbeta and gamma GO:0038094
+PARP GO_0006471
+resistin GO_0006508
+interleukin (IL)-1β GO:0019955
+mu-receptor GO:0030273
+synaptophysin GO:0030290
+COX-2 promoter GO:0001046
+Krüppel-like factor GO:0005159
+phosphatidylinositol 3-kinase GO:0014065
+ocal adhesion kinase GO:0048041
+transferrin receptor GO:0035624
+antithrombin III GO:0015643
+GRK2 GO_0007217
+P450 enzymes GO:0050196
+protein kinases GO:0018293
+Peptide hormone receptors GO:0030072
+STAT5 GO_0038026
+CD58 GO_0034113
+K+ channel GO:0022831
+PS-recognizing receptors GO:0001881
+Ntcp GO_0015721
+FGF-1 GO_0001934
+mouse urinary KIM-1 GO:0031514
+Mammalian type I and II gonadotropin-releasing hormone (GnRH) receptors GO:0031530
+mTAAR1 GO_0007186
+ColIV GO_0001510
+TSHbeta GO_0007165
+keyhole limpet hemocyanin GO:0046283
+PGH synthase-2 GO:0061483
+intragenic progesterone receptor-binding sites GO:0033142
+K44A GO_0016577
+TNF- α GO_0000122
+sodium channels GO:0022831
+hydroxylases GO:0004497
+DQB1 GO_0007029
+tumor necrosis factor-alpha GO:0032640
+P2C protein GO_0048023
+vascular endothelial growth factor receptor GO:0010573
+extracelluar signal-regulated kinase GO:0004707
+prostaglandin endoperoxide synthase-1 GO:0060584
+CREB GO_0006468
+rTRPM3 GO_0006812
+tumor necrosis factors (TNF)α GO:0032640
+Drosophila GABA-gated chloride channel GO:0005247
+DGK GO_0006654
+D2 receptors GO:0001614
+ferritins GO:0097707
+NADH cytochrome b5 reductase GO:0004128
+Erk-1/-2 GO_0008150
+peroxidases GO:0016689
+H1-receptor GO_0045893
+D (2) GO_0031397
+lipases GO_0006954
+CAR GO:0005826
+panx1 GO_0006812
+hCCS Domain 1 GO_0006919
+C-myc GO_0000122
+alpha2 adrenergic receptor GO:0071875
+IL-1RI GO_1905606
+NET GO_0015844
+humanised SP receptor GO:0005129
+G-CSF receptor GO:0043113
+mammalian peroxiredoxin-1 GO:0008615
+C2C neoepitope GO_0006470
+nociceptin/orphanin FQ (N/OFQ) receptor GO:0001626
+Type II metabotropic glutamate receptors GO:0031798
+Nedd4 GO_0006511
+G12/13 GO_0043123
+topoisomerase (Top) I GO:0003918
+NAT GO_0006357
+VDAC-1 GO_0016567
+mucin GO_0050829
+D2 presynaptic autoreceptors GO:0140238
+phosphodiesterase 4 GO:0008081
+carcinoembrionic antigen GO:1990831
+5-HT(2A) receptors GO:0004993
+L263F GO_0032986
+c-Src GO_0018108
+CysLT1 GO_0007218
+somatostatin GO:0070253
+gamma-H2AX GO_0043536
+diacylglycerol kinase-theta GO:0006651
+B domain GO_0010951
+Ser/Thr protein phosphatases GO:0004722
+D835Y GO_0006952
+uc002mbe.2 GO_0006695
+PS flippase ATP8A1 GO:0140303
+alkaline phosphatase GO:0010446
+human mineralocorticoid receptor GO:0035931
+Nox2 GO_0006801
+thyroid hormone receptor GO:0035929
+Torpedo californica acetylcholinesterase GO:0003990
+human mGlu receptors GO:0061742
+CCAAT/enhancer-binding protein (C/EBP) homologous protein GO:0044183
+dopamine D2 GO_0006672
+DNA methyltransferase 1 GO:0043791
+M phase proteins GO:0004722
+neurotrophins GO_0010976
+D1-like receptor GO:0005041
+AMPA receptors GO:0032281
+siNrf2 GO_0006511
+CD32 GO_0006898
+rab7 GO_0022615
+phospholipase C GO:0004622
+WNT6 GO_0010628
+p-glycoprotein GO:0034436
+D2-like receptor GO:0005041
+ERK GO_0006468
+Platelet fibrinogen GO:0030220
+histaminergic H(1) receptor GO:0031807
+adrenoceptors (alpha1 GO:0004937
+PSS2 GO_0006659
+alpha(2A)-autoreceptors GO:0032281
+IGFBP-rPs GO_0043567
+Go GO_1905515
+protein phosphatase-1 GO:0004722
+GAD65 PLP-binding domain GO:0030165
+Cdk1 GO_0006468
+IRE1 GO_0001935
+endothelial ET(B) receptors GO:0031708
+PPAR-alpha GO_0007059
+Wnt GO_0008284
+somatostatin receptors GO:0070253
+ghrelin GO_0001937
+cyanobacterial toxin GO:0019835
+cyclin B1 GO:0016538
+β-gal GO_0010737
+P2X GO_0006811
+proteoglycan GO_0050901
+beta-adrenergic GPCR GO:0031697
+cannabinoid CB1 receptor GO:0004949
+cytochrome b(5) GO:0016175
+proton pumps GO:0005889
+Albumin GO_0045893
+tissue-type plasminogen activator GO:0031639
+relaxin GO_0007411
+serum- and glucocorticoid-dependent kinase 1 GO:0043843
+aggrecan GO:0035973
+preprotachykinin-A GO:0007217
+VHL GO_0016567
+D28k GO_0045590
+glycogen synthase kinase 3β GO:0050321
+recombinant tissue plasminogen activator GO:0030377
+CxxC- motif GO_0015865
+Erg1 GO_0035690
+beta 1-adrenoceptors GO:0004939
+cleavable platelet receptor GO:0001621
+5-HT(1B/1D) receptors GO:0004993
+79/81 Br-Phe5 GO_0042325
+Cyp3a25 GO_0002933
+lysozyme GO:0003796
+human Cav3.2 GO_0042391
+hα3β4 and hα4β2 receptor GO:0005102
+P450 3A4 GO_0002933
+PRbs GO_0006275
+PLA(2) GO_0006413
+α-smooth muscle actin GO:0006939
+Stat5 GO_0038026
+LDH GO_0019915
+Human TWIK-1 GO_0035725
+γ-glutamylcysteine synthetase GO:0017109
+G(i/o) proteins GO:0017038
+GFAP GO_0045109
+organic cation transporter 3 GO:0015695
+PETNR GO_0022604
+2D6 GO_0006955
+Bid GO_0001836
+c-Fos GO_0007179
+serotonin transporter GO:0006837
+monocyte chemotactic protein-1 GO:0071605
+CD52 GO_0007204
+DRD2 E8 GO_0007195
+R740S GO_0007165
+KATP channel GO:0016286
+vitamin D receptor GO:0033280
+P2Y GO:0045028
+coagulase GO:0050817
+Although torafugu PPARs GO:0006451
+Myrosinase GO:0010169
+OCT3 GO_0006836
+N-methyl-D-aspartate (NMDA) receptor GO:0097114
+adenosine monophosphate-activated protein kinase GO:0003876
+FN GO_0001932
+hepcidin GO_0010951
+nAChRs GO_0006421
+HMGB1 GO_0002218
+S-adenosylhomocysteine hydrolase GO:0019510
+IL-1 GO:0005149
+FGF23 GO_0010966
+mu1 GO_0006977
+vaginal aminopeptidase GO:0050365
+g>a GO_0007076
+IL-1 beta GO_0009636
+DeltahPPAR-alpha GO_0001819
+extracellular-signal-regulated kinase GO:0004707
+mGlu5 receptor GO:0004896
+PDK-1 GO_0006955
+phospho-GSK-3-β GO_0035630
+CA GO:0033968
+SERT GO_0008150
+adiponectin GO_0001934
+LDL GO_0030299
+D2 GO_0032729
+RRM1 GO_0009263
+serotonin or dopamine transporters GO:0006837
+inositol requiring enzyme 1α GO:0032073
+5-Lipoxygenase GO:0019372
+A GO_0071475
+bacterial NAD synthetase GO:0008795
+early growth response factor 2 GO:0070848
+angiotensin II type 1 receptor GO:0031702
+progesterone receptor GO:0042701
+P2Y1 GO_0007200
+extracellular E-loop GO:0006858
+aspartate aminotransferase GO:0004069
+Top2 GO_0006265
+cyclic nucleotide phosphodiesterase GO:0051342
+Acsl4 GO_0001676
+5-LOX GO_0019370
+Serotonin transporter GO:0006837
+rat GnRHR GO_0007186
+glutamic acid decarboxylase GO:0017187
+adrenocorticotropic hormone GO:0051458
+integrin αIIbβ3 GO:0005178
+SIRT1 GO_0000122
+MAC25 GO_0007155
+Kir6.2 GO_0033198
+p65 GO_0000122
+MreB GO_0006493
+ErbB3 GO_0007162
+human CYP GO_0000413
+p-PI3K GO_0016310
+PAOh1 GO_0006598
+COP9 signalosome subunit 5 GO:1990909
+TNF GO_0000122
+NOP receptor GO:0001626
+interleukin-10 GO:0032613
+PKAR1A GO_2000480
+Top2β GO_0006265
+carbonic anhydrase I GO:0004089
+DISC1 GO_0000226
+mouse SCD-1 gene promoter GO:0001109
+transcription initiation site GO:0006352
+galanin GO_0010737
+5-HT2A GO_0006874
+5-lipoxygenase GO:0019372
+glucagon(1-29) GO_0000302
+endorphins GO_0043277
+squalene epoxidase GO:0004506
+selenocysteine enzymes GO:0016259
+serotonin 5-HT(4) receptor GO:1904602
+5HT1B GO_0007193
+NADH-dehydrogenases GO:0052874
+Nuclear Factor κB1 GO:0005721
+SAMHD1 GO_0000724
+I(Kr) GO_0000724
+AKT GO_0001934
+pro-IL-1β GO_0019725
+C-peptide GO_1902093
+signal transducer and activator of transcription-3 GO:0097677
+interleukin 5 GO:0032634
+TβR1 GO_0001501
+phospho-Akt GO_0035630
+human kappa-opioid receptor GO:0038048
+T-type channels GO:0008332
+protein kinase B GO:0017007
+alefacept GO_0009966
+NADPH Oxidase NOX5-S GO:0008753
+thioredoxin GO:0015038
+ubiquitin E1 GO:0010992
+transthyretin GO:0140617
+AMPKα GO_0008610
+dopamine D2-receptors GO:0014046
+serine proteases GO:0004298
+ANP GO_0006182
+SR-BI GO_0010886
+mitochondrial branched-chain amino acid aminotransferase GO:0043840
+human, mouse and bovine TLR8 GO:0002938
+Cav3.2 GO_0042391
+5-HT6 GO_0032008
+miR-21 GO_0001819
+5-aminolevulinate synthase GO:0003870
+EboV glycoprotein GO:0036525
+R316H GO_0045893
+estrogen receptor α GO:0035937
+phospholipases GO:0004622
+F420L GO_0006357
+histamine H1 receptors GO:0001821
+insulins GO:0042465
+JAK3 GO_0035771
+ryanodine receptors GO:0001881
+serotonin 5-HT2A receptors GO:0031830
+TLR3 GO_0007252
+TSH-releasing hormone GO:0009725
+D3 receptor GO_0006469
+A66G GO_0016241
+mucin 2 GO_0007155
+Rho kinase GO_0010564
+protein-tyrosine-phosphatase-meg1 GO:0007260
+K(+) channel GO:0022831
+High-mobility group protein 1 GO:0031519
+Apolipoprotein E3 GO:0071828
+TMH7 GO_0002026
+non-receptor cytoplasmic kinase GO:0007253
+flavin-containing monooxygenases GO:0004499
+AVT GO_0003333
+PI3K GO_0016310
+proline-42-to-alanine GO:0010446
+humans, GPx6 GO_0001781
+AMPK alpha2 GO_0006627
+glutathione-S-transferases (GST)-α GO:0004364
+IgG1 GO:0071735
+CSN subunit 3 GO:0022627
+uPAs GO_0006218
+PAR1 GO_0007202
+Gli1 GO_0001649
+Bile acid-coenzyme A:amino acid N-acyltransferase GO:0047963
+human iNOS promoter GO:0001112
+insulin receptor GO:0030073
+CYP3A GO_0002933
+LXRs GO_0006429
+interleukin-1 receptor antagonist GO:0004896
+CD66b GO_0007157
+nerve growth factor-beta GO:0032455
+beta 2-adrenoceptors GO:0004939
+neutral endopeptidase GO:0045148
+AIF GO_0006919
+PBGS GO_0006783
+amyloid-β 1-42 GO_0035195
+estrogen receptor GO:0035937
+RhoA GO_0007266
+A1 and A2 adenosine receptors GO:0031686
+CES1 GO_0006695
+angiotensin-converting-enzyme GO:0002035
+glutamic acid transporters GO:0015849
+cre GO_0006355
+aP2 GO_0015909
+Human recombinant Interferon-alpha(2a) GO:0035455
+survivin GO_0006468
+OATP1B1 GO_0015721
+5-HT(2C) GO_0001819
+STAT3 GO_0006355
+ovalbumin GO_0048713
+phosphoenolpyruvate carboxykinase GO:0004612
+β-galactosidase GO:0004336
+human BAAT GO_0035771
+steroid receptors GO:0004930
+dopamine D3 receptor GO:0014046
+activator protein-1 GO:0006473
+nicotinic acetylcholine receptor GO:0005892
+topo II GO_0000209
+beta(1)-adrenocepto GO:0004939
+D1 GO_0030838
+CA I GO_0038166
+Heat Shock Protein 27 GO:0006986
+ASCT2 GO_0006868
+5-HT1B GO_0007193
+Ala119Gly GO_0001829
+mitochondrial Amidoxime Reducing Component GO:0051562
+interleukin-1 receptor type I GO:0070555
+DPP-4 GO_0035556
+C-propeptide of type II procollagen GO:0034344
+Insulin receptors GO:0030073
+rodent VMAT-1 GO:0043791
+Ca(v)3.2 GO_0045892
+rat brain CYP2D GO:0001765
+methyltransferase GO:0047152
+RET GO_0030155
+gamma-glutamyltraspeptidase GO:0061672
+alpha-adrenergic GO:0004936
+PrP(C) GO_0000209
+P2 receptors GO:0001614
+angiotensin GO:0001525
+NGF-beta GO_0008543
+flippase GO:0045332
+alanine serine cysteine transporter 1 GO:1904557
+α7 and non-α7 subtypes of nAChRs GO:0036519
+molecular chaperones GO:0034663
+TH GO_0001666
+steroid receptors-binding sites GO:0031886
+Kdr GO_0001934
+tumor necrosis factor GO:0005164
+Thymidylate synthase GO:0004799
+human PANX1 GO_0016042
+CB1 GO_0007188
+tetra-aspartate motif GO:0006531
+T-type channel GO:0008332
+chymotrypsin C GO_0010951
+Pin1 GO_0000413
+protein phosphatases GO:0006468
+rat TRR GO_0016578
+C-type lectins GO:0045058
+calcineurin homologous protein 1 GO:0031108
+Lratb GO_0042572
+D5 GO_0031295
+apoE3 GO_0001937
+human muscle acetylcholine receptors GO:0031789
+rTAAR1 GO_0007186
+protease domain GO:0022611
+SSAT2 GO_0006596
+proton pump GO:0005889
+carbohydrate/insulin response elements GO:0005975
+OCT1 GO_0006836
+K23R GO_1902093
+Pcsk1 GO_0043043
+phospho-CREB GO_0035630
+glucose transporter 4 GO:0042946
+phosphatidylinositol glycan-complementation class A GO:0097651
+β-receptor GO:0004930
+MK2/3 GO_0035335
+SLC38 GO_0006829
+human Hsp60 GO_0002755
+BDNF GO_0007416
+WNT GO_0008284
+glypicans GO_0030200
+P2Y(2) GO_0090091
+rat 5-HT1A GO_0007198
+B-type natriuretic peptide GO:0043043
+CTHBP GO_0006954
+GPx4 GO_0019369
+ALDH2 GO_0005975
+aminopeptidases GO:0050365
+cathepsin K GO:0005503
+histamine H1 receptor GO:0001821
+5-HT1A/1D GO_0007198
+Cytokine GO:0000910
+Trypsin GO_0000070
+renin GO_0008104
+plant sulfite oxidase GO:0019418
+e2 domain GO:0045121
+MET GO_0001886
+papain GO_0000027
+Cp GO_0006826
+CDKN1A GO_0000082
+TcAChE GO_0006581
+hTRPM2 GO_0051289
+neurotensin GO_0045745
+Trx1 GO_0044648
+calmodulins GO_0006913
+GCN5 GO_0006338
+BiP GO_0042149
+PTPmeg1 GO_0006470
+PAR4 GO_0006396
+alpha 1B-adrenoceptor GO:0004936
+BMP4 GO_0000122
+CD42b GO_0007155
+Go2 GO_0010501
+D(1) GO_0007165
+CD66acde GO_0001915
+cytokine GO:0000910
+muscarinic M2 receptor GO:0097113
+GSTO1 GO_0010880
+TC GO_0002726
+Myc GO_0000122
+glutamate dehydrogenase GO:0004352
+inducible nitric oxide synthase GO:0051001
+DNA topoisomerase I GO:0003918
+hsp-90 GO_0035418
+tumor necrosis factor (TNF) alpha GO:0032640
+AKR1B1, 1B10, 1C1, 1C2, and 1C3 GO_0060074
+CD3-zeta (zeta) chain GO:0036366
+ETA receptor GO_0035881
+cytochrome P450 GO:0019825
+BrBK GO_0007260
+Human and rat renin GO:0007390
+G-protein-coupled receptors GO:0007186
+mouse ODC GO_0001501
+human serotonin, dopamine, and norepinephrine transporters GO:0005334
+2-Cys Prxs GO_0031915
+pTyr-STAT3 GO_0006355
+NaDC-1 GO_0071422
+AKR1C3*2 GO_0006693
+IL-10 GO_0001818
+G protein-coupled receptor GO:0002031
+Proline Rich Membrane Anchor GO:0043495
+cTnI GO_0000079
+CSN3 GO_0000338
+Myosin-18Aα-S1 and -18Aβ-S1 GO_0035195
+IL-5 GO_0071803
+AGS3 GO_0006401
+norepinephrine transporter GO:0015874
+Protease-activated receptor (PAR) 1 GO:0001648
+mitogen-activated protein kinase GO:0042313
+Col2-3/4 GO_0001934
+BCAT(m) GO_0009098
+alpha 1a-adrenoceptor GO:0004936
+organic cation/carnitine transporter 1 GO:0015695
+asb-9 GO_0016567
+nicotinic-receptor GO:0043113
+JAM-C GO_0001525
+PNPO GO_0042823
+X-box binding protein 1 GO:0044877
+ERG1 GO_0035690
+potassium-chloride cotransporter GO:0006821
+H(1)R GO_0000122
+human nAChR GO_0009838
+human WNT6 promoter GO:0001112
+nuclear factor of activated T-cells GO:0006924
+PDIA3 GO_0006457
+cynomolgus FMO GO:0000735
+annexin II GO:0005243
+vesicular glutamate transporter 1 GO:0016192
+MAGL GO_0005980
+FVII GO_0007597
+mammalian type I and type II gonadotropin-releasing hormone (GnRH) receptors GO:0031530
+hephaestin GO:0004322
+fasting C-peptide GO:0001519
+cholesterol 24-hydroxylase GO:0033781
+fly Ago1 GO_0000956
+CDK2 GO_0006468
+Dopamine D2-receptor GO:0014046
+TRAP GO_0007010
+MCT2 GO_1901475
+Cardiac natriuretic Peptide GO:0003061
+lysophosphatide acyltransferase GO:0047184
+ISRE GO_0006355
+P-selectin GO_1904153
+AT1A GO_0051289
+IRF5 GO_0019221
+peroxisome proliferator-activated receptor-alpha GO:0035357
+CRF GO_0001963
+alpha1-adrenoceptor GO:0004937
+BDZ receptor GO:0001632
+arginine vasopressin GO:0030103
+Human alpha(2A)-adrenoceptors GO:0004936
+ACTH-releasing hormone GO:0017045
+constitutive androstane receptor GO:0001609
+cyclooxygenase GO:0019371
+Bsep GO_0008206
+DRD2 GO_0007195
+κ-receptors GO:0004930
+glutamate decarboxylase GO:0004591
+eNOS GO_0017148
+human dopamine transporter GO:0015872
+RAS GO_0007265
+OATP2B1 GO_0015711
+RORα GO_0006355
+dihydrofolate synthetase GO:0006761
+Galpha(i3)/betagamma GO:0033842
+mPGES2 GO_0006629
+p64 GO_0008594
+T-cell receptor GO:0045058
+LTA(4)H-h GO_0006879
+EL3 GO_0045892
+ZnF-UBP domain GO:0006222
+constitutive active/androstane receptor GO:0031871
+D3 GO_0043433
+human FMO1-5 GO:0033772
+α7 nAChR GO:0022848
+retinoic acid receptor beta GO:0048384
+channelrhodopsin-2 GO:0022831
+uPA GO_0006974
+A2 receptors GO:0001614
+sterol response element binding protein (SREBP)-1c GO:0035103
+BrBK1-7 GO_0010592
+beta 1-adrenoceptor GO:0004939
+WNT6 promoter GO:0004047
+hAR GO_0006427
+TAZ GO_0008284
+ADH5 GO_0010430
+SREBP-1 GO_0032933
+ligand-binding domain GO:0030165
+DMT1 GO_0006825
+CD80 GO_0050731
+hRRM1 GO_0009263
+phosphoinositide 3 (PI3) kinase GO:0005942
+5-hydroxytryptamine1A receptor GO:0004993
+human NADH cytochrome b5 reductase GO:0004128
+rCYP GO_0000413
+β-2 Adrenergic G Protein Coupled Receptor GO:1990172
+A1298C GO_0032268
+matrix metalloproteinase 1 GO:0008237
+Human progesterone receptor GO:0042701
+Nuclear Receptor GO:0043113
+copper (I) transporter GO:0006825
+Tyr823Asp GO_0007010
+PLP1 GO_0021762
+NGF GO_0008625
+DA D(1)-like receptor GO:0005041
+Kv11.1 GO_0035690
+human GSTO1-1 GO_0030166
+yeast protein Drs2 GO:0008559
+cycloxygenase-1 GO:0019371
+epidermal growth factor receptor GO:0070849
+beta(2)-adrenergic receptor GO:0071875
+Cytochrome b5 GO:0008121
+phospholipid hydroperoxide glutathione peroxidase GO:0047066
+kappa-receptor GO_0006470
+alpha-thrombin GO_0035701
+μ-opioid receptor GO:0001626
+DGK-theta GO_0006654
+retinoid X receptor GO:0001881
+acidic fibroblast growth factor GO:0035766
+human LDH-X GO_0005975
+PPARalpha2 GO_0007098
+Neurog3 GO_0000122
+mGluRs GO_0007186
+signal transducers and activators of transcription GO:0097677
+sprouty4 GO_1900025
+Alcohol dehydrogenase 5 GO:0004022
+complex I GO_0016079
+PKC GO:0004697
+polySia-NCAM GO:0018989
+UDP-glucuronosyltransferase 1A1 GO:1904223
+sigma-1 receptors GO:0001609
+calcium-binding protein GO:1901876
+human NRF2 promoter GO:0001112
+24-hydroxylase GO:0031545
+CD68 GO_0002437
+neutral amino acid transporters GO:0015804
+muscarinic cholinergic receptors GO:0031789
+beta 4-adrenoceptor GO:0004939
+pSer-STAT3 GO_0006355
+cytosolic group IV-PLA(2) GO:0016176
+calcium channel GO:0008331
+PXR GO_0006355
+ASK-1 GO_0034220
+glucocorticoid receptor GO:0035933
+GPxs GO_0008610
+Ig module II GO:0036038
+T. thermophilus PRODH GO:0009638
+interleukin-6 GO:0032635
+CDK4 GO_0006468
+Type-I Interferons GO:0034340
+angiotensin II receptor GO:1990776
+Janus kinases GO:0004715
+activator protein (AP)-1 GO:0042313
+ER GO_0001819
+arrestin-2 GO_0045116
+maltodextrin phosphorylase GO:0004645
+thromboxane A2 receptor GO:0031870
+A-disintegrin and metalloprotease (ADAM) 10 GO:0008191
+Amylin GO_0007189
+extracellular signal regulated kinase (ERK)-2 GO:0070371
+light chain of factor VIII GO:1905286
+Abl GO_0009306
+Gi2 GO_0016192
+p-cdc2 GO_0000727
+cysteine desulfurases GO:0031071
+epiarginase GO:0015021
+BCR GO_0090630
+kainate receptor GO:0010011
+dCK GO_0006220
+Cdc2 GO_0000731
+molecular chaperone GO:0034663
+serine protease GO:0004298
+alpha 2A-adrenoceptors GO:0004936
+Mus musculus myosin-18A GO:0016461
+CYP3A4 GO_0002933
+α-Carbonic Anhydrase GO:0004089
+CD11a I-domain GO:0021628
+minK GO_0071320
+GLP-1(7-36) GO:0003998
+Smo GO_0006598
+rodent TAAR1s GO_0010459
+calcium/calmodulin-dependent protein kinase (CaMK)-IV GO:0005954
+RCAN1 GO_0070885
+alpha-2 adrenoceptor GO:0004936
+factor XIa GO:0003810
+proto-oncogene GO:0044295
+estrogen receptor alpha GO:0030284
+Adenine phosphoribosyltransferase GO:0003999
+GnRH receptor GO:0001626
+human IgG1 hinge, C(H)2, and C(H)3 domains GO:0030466
+cardiac natriuretic peptides GO:0003061
+delta-opioid receptor GO:0038046
+enoyl-CoA hydratase GO:0004300
+glucocerebrosidase GO:0004348
+pore-forming domains GO:0030436
+Pannexin (Panx) 1 GO:0043670
+lratb GO_0042572
+matrix metalloproteinase-9 GO:0008237
+cysteinyl-aspartate specific protease GO:0016929
+coagulation factor VIII GO:0002542
+suppressors of cytokine signaling (SOCS) proteins GO:0097678
+MAO GO_0006576
+alpha(1L)-adrenoceptor GO:0004936
+HbA1C GO_0010942
+mammalian DHFR GO_0006936
+human TGR5 GO_0008150
+pentaerythritol tetranitrate reductase GO:0018954
+aldehyde dehydrogenase family 1 member A1 GO:0004029
+PLP enzyme GO:0050196
+DPP-IV GO_0006508
+XBP1 GO_0000122
+alpha 1-adrenoceptor GO:0004936
+FXa GO_0030968
+Ppp3cb GO_0006470
+CYP11A1 GO_0006700
+sterol regulatory element binding protein-1 GO:0035103
+ectodomain GO:0001705
+D2 receptor GO_0006469
+mGlu1/5 GO_0007186
+p50 GO_0010629
+fibronectin GO_0001934
+reverse transcriptase GO:0001171
+5-HT2 receptors GO:0004993
+Hsd11b1 GO_0006706
+IDE GO_0006508
+thrombospondin GO_0001934
+peptide transporter 2 GO:0015833
+SSAT1 GO_0015804
+glucose oxidase GO:0106407
+Gi protein-coupled receptor GO:0002031
+cardiac ion channel GO:0003207
+B-RAF GO_0000165
+ICAM-3 GO_0035666
+domains A3-C1-C2 GO:0071616
+calcineurin 1 GO_0033004
+ANXA1 GO_0002548
+SOD1 GO_0000303
+P5CDH GO_0006560
+DRD3 GO_0002031
+human GSTO1 GO_0010880
+aminopeptidase A GO:0045148
+TGF-β GO_0045597
+C-BLG GO_0006974
+AKRs GO_0008285
+IGFBP-rP1 GO_0043567
+human PAOh1 GO_0035307
+AMY GO_0043065
+5-HT(1B/D) receptor GO:0004993
+heparin-binding growth factors GO:0048406
+CHDH GO_0042426
+glypicans 1, 2, 3 and 5 GO:0042973
+megalin GO_0000209
+G306R GO_0006508
+human nucleoside equilibrative transporter 1 GO:0015395
+muscarinic acetylcholine receptor GO:0061526
+delta-6 desaturase GO:0050601
+AKt GO_0001934
+histamine H3 receptor GO:0001821
+PR-BDeltaSH3 GO_0070262
+P2X3 receptor GO:0004931
+renal Na+/H+ exchanger GO:0043486
+RISC GO_0042573
+alpha-2D adrenoceptor GO:0004936
+PPARgamma GO_0000122
+Arg-Gly-Asp GO_0007264
+intercellular adhesion molecule-2 GO:0098631
+Src GO_0018108
+Inosine 5'-monophosphate dehydrogenase 2 GO:0003938
+TGF-β1 receptor GO:0004940
+CD13 GO_0006508
+pyridoxal phosphate-dependent transaminase GO:0009443
+leucyl-tRNA synthetase GO:0004823
+KLH GO_0002089
+estrogen receptors GO:0035937
+human HO-1 GO_0008284
+progesterone receptors A and B GO:0050847
+ERα GO_0001819
+C677T GO_0006790
+monoamine transporters GO:0015844
+homeodomain transcription factor Pitx3 GO:0070897
+cholinesterases GO:0008126
+α/β hydrolase GO:1990206
+11beta-hydroxysteroid dehydrogenase type 1 GO:0003845
+GST-P GO_0006469
+hsp-70 GO_0051056
+group II metabotropic glutamate (mGlu) receptors GO:0001639
+hypoxia inducible factor GO:0097411
+GPx1a GO_0006749
+Dl-like receptor GO:0005041
+NHRs GO_0002088
+Necturus TRalpha GO_0006355
+human alpha(2A)-adrenoceptor GO:0004936
+human ether-a-go-go-related gene (HERG) potassium channel GO:0045163
+cytokeratin 1-19 GO_0030155
+rat ACE GO_0019254
+glycogen phosphorylase GO:0004645
+α-synuclein GO_0045103
+Rho-kinase GO_0010564
+rat CYP GO_0019254
+beta-1 adrenoceptor GO:0004939
+postprandial C-peptide GO:0006465
+alpha 1A-adrenoceptor GO:0004936
+DA transporter GO:0051027
+serum protein inter-alpha-inhibitor GO:0032687
+Dopamine D3 receptor GO:0014046
+cyclooxygenase-1 GO:0019371
+isovaleryl-CoA dehydrogenase GO:0043958
+SR-B GO_0010886
+Beta 2-Adrenoceptor GO:0004939
+LPA1 GO_0007202
+amiloride-sensitive luminal sodium channel GO:0015280
+cationic trypsinogen GO:0032023
+GGT --> GTT GO_0031638
+VEGFR-3 GO_0001934
+HDL GO_0009072
+dynamin GO_0030534
+human 5'-methylthioadenosine phosphorylase GO:0017061
+alpha(1A)-, alpha(1B)- and alpha(1D)-adrenoceptors GO:0004936
+PPAR-alpha/-gamma GO_0006627
+IL-4 GO_0000122
+5-HT1C GO_0007198
+caspase-9 and 3 GO:0051322
+connective tissue growth factor GO:0032601
+mu- and kappa-receptor GO:0004972
+Pl(A) GO_0033280
+histidyl-tRNA synthetase GO:0004821
+rat CESs GO:0016032
+alpha(2A)-adrenoceptor GO:0004936
+PGHS GO_0019371
+heme oxygenase-1 GO:0004392
+β-amyloid peptide GO:0001519
+bovine serum albumin GO:0030317
+(tumor necrosis factor)-α GO:0032640
+troponin C GO_0043086
+purinergic P2X(7) receptor GO:0001614
+basic helix-loop-helix GO:0042148
+glucose-dependent insulinotropic polypeptide GO:0038192
+PtdSer synthase 1 and 2 GO:0061579
+ALT, GO_0006011
+NCCT GO_0006814
+asparagine synthetase GO:0006529
+human nonpancreatic secretory phospholipase A(2) GO:0004623
+rab5 GO_0006897
+delta-receptor GO:0001632
+retinoic acid receptors alpha, beta GO:0048384
+human ribonucleotide reductase subunit hRRM2 GO:0005971
+γ-GT GO_0006487
+ERE GO_0001819
+rat brain microsomal long-chain fatty acyl-CoA synthetases GO:0035338
+PKAI GO_0010469
+PDE4 GO_0007165
+ATM GO_0006468
+Escherichia coli maltodextrin phosphorylase GO:0008859
+cat-1 gene promoter GO:0001109
+VCAM-1 GO_0000460
+xanthine dehydrogenase GO:0004022
+CD59 GO_0030449
+human alpha2-adrenoceptor GO:0004938
+Canine COX-2 GO_0002237
+PKA GO:0004691
+gastric mucin GO:0035482
+monoamine transporter GO:0015844
+Nuclear receptors GO:0043113
+P2X1 GO_0006811
+p15 GO_0006357
+small proline-rich protein-2A GO:0005732
+urokinase GO_0010564
+acetylcholinesterase GO:0051630
+rat ADH5 GO_0010430
+CD16 GO_0007166
+nectin-3 GO_0007156
+T-channel GO:0022831
+exendin-4 GO:0048222
+Organic cation transporter GO:0015695
+Proline-rich tyrosine kinase 2 GO:0004713
+monocyte chemoattractant protein-1 GO:0071605
+OCT GO_0030334
+beta-adrenoceptors GO:0004939
+TLRs GO_0006355
+N125I GO_0000209
+BRCA2 GO_0000724
+CUB domain GO_0010951
+ICAM-1 GO_0035666
+FMO3 GO:0004499
+PKCζ GO_0006468
+PIICP GO_0001580
+Wingless-type MMTV integration site family members GO:0071627
+Tyrosine kinases GO_0000070
+proline dehydrogenase GO:0018249
+Steroid receptors GO:0004930
+Erk GO_0006468
+hCA XIV GO_0015701
+protein kinase C GO:0070528
+CKMT1 GO_0046314
+hNET GO_0002812
+creatine kinase U-type GO:0032147
+hyaluronan GO:0005540
+ASK1 GO_0000165
+MDH GO:0030060
+5-HT1F GO_0007193
+JAK2 GO_0007259
+ACC1 GO_0006084
+Fc gamma RIII GO_0043536
+human MetAP2 GO_0016485
+cGPx GO_0000122
+ubiquitin ligase GO:0010992
+NT2 receptors GO:0005053
+Pitx-3 GO_0007283
+dopamine receptors GO:0014046
+GP IIb/IIIa GO_0099149
+c-KIT GO_0002551
+Gastric mucin GO:0035482
+Human AKR GO_0035771
+retinoid X receptor alpha GO:0004879
+Human serum butyrylcholinesterase GO:0004104
+PP2A GO_0010991
+OAT GO_0010121
+PR-A GO_0010498
+phenylalanine hydroxylase GO:0004505
+beta(1)-adrenoceptor GO:0004939
+dihydrofolate reductase GO:0004146
+D4 receptors GO:0005041
+src GO_0018108
+A-II GO_0038166
+LSC6A4 GO_0009636
+thioltransferase GO:0047152
+retinoblastoma (Rb) protein GO:0003735
+octn1 GO_0015697
+GLP-2 GO_0031398
+human SCD-1 gene promoter GO:0008889
+PDGFRA GO_0008284
+caspase GO_0016485
+apoptosis inducing factor GO:0006915
+c-Jun N-terminal kinase GO:0007254
+dopamine (DA) transporter GO:0015872
+Single-minded 2 GO:0019976
+KCC2 GO_0006811
+p-ERK GO_0007009
+activating transcription factor 4 GO:0031564
+human cardiac (hH1) GO:0003207
+beta2-adrenergic receptors GO:0071875
+Penk GO_0007218
+Cytosolic Thyroid Hormone-Binding Protein GO:0042404
+WNTs GO_0007218
+MK GO_0006695
+AKR1C1 GO_0007586
+NETs GO_0009913
+hCA I GO_0038166
+5-HT(1B/D) GO_0001819
+butyrylcholinesterase GO:0004104
+type-1 copper ion-binding site GO:0031771
+YLR205c GO_0006366
+TS GO_0006231
+LBD GO_0010467
+hCA II GO_0038166
+Vacuolar H(+) -ATPase GO:0046962
+akt GO_0001934
+ferredoxin reductase GO:0008937
+P-type ATPases GO:0140358
+angiotensin AT1 receptors GO:0002003
+NLRP3 GO_0032088
+Cytosolic glutathione peroxidase GO:0006751
+extracellular signal-regulated kinases GO:0004707
+MAPK GO:0004707
+thymidylate synthase GO:0004799
+GluK2 GO_0050804
+PI3 k GO_0018149
+amyloid-β GO_0007189
+hematopoietic class III receptor tyrosine kinase (RTK) Flt3 GO:0038083
+hemoprotein GO_0010907
+CYP1B1 GO_0006805
+sulfite oxidase GO:0019418
+caspase-9 GO_0016485
+canine cyclooxygenase (COX)-1 and -2 GO:0018576
+serotonin (5-HT)1B receptor GO:0031822
+Prorelaxin GO_0001501
+melanocortins GO_0007602
+CYP-3A4 and -3A5 GO:0030552
+alpha(1)-adrenoceptors GO:0004936
+domains A1-A2-B GO:0106006
+lymphocyte function-associated antigen GO:0032620
+carboxylesterase GO:0052689
+peroxisome proliferator-responsive element GO:0016559
+mPC2 GO_0006850
+alpha-synuclein GO_0001921
+AFP GO_0006810
+PBP 3 GO_0031640
+transcobalamin GO:0006412
+fibroblast growth factor-23 GO:0090269
+lox GO_0018057
+PAS GO:0000407
+OATP2B-Short GO:0015867
+HSA GO_0006953
+5-HT(1/2/5/7)-receptor GO:0004993
+beta amyloid GO:0034205
+CCBL GO_0070189
+folylpolyglutamate synthetase GO:0004326
+ubiquitin-specific protease 22 GO:2000152
+human angiotensinogen GO:0002003
+PGHS-2 GO_0019371
+lectins GO_0046718
+glutathione peroxidase GO:1901370
+pRb GO_0043550
+P2 receptor GO:0001614
+calcitonin-gene-related peptide GO:1990408
+GLUT1 GO_0065003
+Aβ25-35 GO_0007186
+HLA-DQB GO_0019886
+tumor necrosis factor-related apoptosis-inducing ligand GO:0036463
+Choline dehydrogenase GO:0010240
+FMO1 GO_0006082
+denitrosylase GO:0018119
+mGluR2 GO_0051896
+porphobilinogen synthase GO:0004852
+decarboxylases GO:0004609
+cytochrome c GO:0008121
+nuclear transcription factors GO:0098781
+S-adenosylmethionine decarboxylase GO:0033353
+muscarinic M3 receptor GO:0097113
+PKC inhibitory domain GO:0008426
+cysteine S-conjugate beta-lyase GO:0047804
+BrBK1-5 GO_0010592
+pyruvate kinase GO:0042866
+sigma receptors GO:0006509
+glucose transporter GO:0042946
+IL-33 GO:0002112
+acyl-CoA:cholesterol acyltransferase 2 GO:0034736
+RAMP1 GO_0001525
+OPA3 GO_0007601
+H3K4me3 GO_0002181
+GI-GPx GO_0006979
+HSD17beta5 GO_0006693
+5-LO-activating protein GO:0042313
+beta(4)-adrenoceptor GO:0004939
+MMP-13 GO_0006457
+DA receptor GO_0006469
+RTKs GO_0009617
+amyloid GO_0007189
+transamidinase GO:0015067
+CR1 GO_0001971
+p75 GO_0051044
+aromatase GO_0006710
+beta-ADHs GO_0006396
+5-hydroxytryptamine1B GO:0051610
+Histamine H3 receptor GO:0001821
+ATP binding cassette transporter A1 GO:0140359
+aryl hydrocarbon receptor GO:0120253
+monocarboxylate transport system GO:0015718
+GSTO2 GO_0006805
+gIV-PLA(2) GO_0001516
+Gz GO_0006654
+PGESs GO_0001516
+PTP GO_0008284
+dihydropyrimidine dehydrogenase GO:0017113
+AMPK GO_0008610
+MTAP GO_0006738
+ATP-binding cassette (ABC) transporters GO:0140359
+Cip1 GO_0006884
+ubiquitin-protein ligases GO:0085020
+alpha2-adrenoceptor GO:0004938
+PIM-1 GO_0015770
+class III RTKs GO:0004638
+extracellular signal-regulated kinase (ERK) 1/2 GO:0070371
+hMR GO_0002042
+human dopamine D2 receptor E8 GO:0031749
+α-melanocyte-stimulating hormone GO:1990680
+GST-π GO_0007186
+CYP2B6.6 GO_0006805
+CYP2A7 GO_0006082
+cTnC GO_0009611
+inducible nitric-oxide synthase GO:0051001
+rat alphaCGRP GO_0007266
+hedgehog GO_0006309
+neuregulin receptor GO:0031623
+Nanog GO_0001714
+beta2-adrenoceptor GO:0004941
+Immune Cell Transcription Factor GO:0036369
+heterochromatin protein 1α GO:0070208
+domain III of albumin GO:1900627
+neurotensin NT1 receptors GO:0031846
+cholesterol side-chain cleavage p450 enzyme GO:0008386
+COX I and II GO_0016079
+beta1ARs GO_2000116
+HMGB2 GO_0001938
+PtdSer synthases GO:0019322
+cytochrome P450 1A1/2 GO:0033781
+SMO GO_0006598
+5-HT(1A/1B)-receptor GO:0004993
+Gi protein GO_0048023
+Rab11A GO_0016192
+Diacylglycerol kinase GO:0034196
+vasopressin V1 receptor GO:0030103
+GABA transaminase GO:0032144
+oxidase GO_0007346
+mouse serine racemase GO:0018365
+Adenosine deaminase GO:0006169
+UG GO_0097510
+D(1) receptors GO:0001605
+Fas GO_0001649
+adenosine deaminase GO:0006169
+plasminogen activator inhibitor type 1 GO:0031639
+Bile acid coenzyme A:amino acid N-acyltransferase GO:0047963
+histamine receptors (H1 GO:0001821
+low-density lipoprotein (LDL) receptor GO:0090495
+SH3 domain GO:0045121
+cAMP response element GO:0051591
+Ndufb7 GO_0032981
+receptor for advanced glycation end products GO:1904603
+kinases GO_0010564
+WGPTCDGL(I)D GO:1990265
+metal transporters GO:0030001
+complex IV GO_0016079
+human α3β4 or α4β2 nicotinic acetylcholine receptors GO:0005892
+GSK-3 GO_0008219
+CD3-zeta chain GO:0046911
+beta-lyases GO_0016925
+mouse Panx1 GO_0007283
+MTH1 GO_0006152
+apolipoprotein E GO:0071828
+aminopeptidase N GO:0050365
+Endothelial NO synthase GO:0051767
+transferases GO:0000150
+Grb3-3 GO_0007520
+human alpha(2A)-adrenoceptors GO:0004936
+ABCG5/8 GO_0010949
+adenosine receptors GO:0032238
+K-Cl cotransporter GO:0015876
+mPC1 GO_0006850
+glutamate carboxypeptidase GO:0009002
+Apolipoprotein A- GO:0005319
+cyclo-oxygenase 1 GO:0019371
+Insulin-like growth factor (IGF)-binding protein (IGFBP)-related proteins GO:0090362
+mTRPV4 GO_0006816
+D2/D3 receptors GO:0001614
+polymerase GO:0003968
+GSTO2-2 GO_0006805
+metabotropic glutamate receptor GO:0006536
+hCTR1 GO_0006878
+EphB1 GO_0001525
+N-acetyl-β-glucosaminidase GO:0015764
+HPA-1 GO_0090630
+PPAR-gamma GO_0061136
+intercellular adhesion molecule-1 GO:0098631
+serotonin receptors GO:0001820
+BNP GO_0034504
+SOD1-specific chaperone GO:0042393
+nucleotide-binding folds GO:0021503
+NFκB GO_0045893
+proteasome GO:0000502
+Cdc25C GO_0000086
+Anti-Müllerian Hormon GO:1990262
+GPIIb/IIIa GO_0099149
+alpha2B GO_0000226
+human CCS GO_0008150
+Insl3 GO_0010634
+FGF-2 GO_0000122
+BNP-32 GO_0006915
+beta-1 receptors GO:0001632
+Br-Phe5 GO:0035369
+hypoxia-inducible transcription factor GO:0097411
+PPARalpha1 GO_0007098
+rat Ctr1 GO_0016192
+NF-L GO_0045944
+angiotensinogen GO:0002003
+CYP3A5 GO_0002933
+SCD-1 GO_0001938
+Rdl GO_0008209
+catalase GO_0001676
+retinoic acid-related orphan receptor α GO:0048385
+juxtamembrane domain GO:0022406
+BiP binding site GO:0019962
+CYP2B6.1 GO_0006805
+GM-CSF GO_0008284
+HER GO_0080111
+rab5A GO_0006897
+human PRODH GO_0006066
+Aldo-keto reductases GO:0004033
+protein kinases A and C GO:0018293
+ATX-II GO_0006103
+NFE2L2 GO_0010499
+CD132 GO_0035723
+amylin GO_0007189
+alpha(2)-autoreceptors GO:0032281
+ADH GO_0007165
+Carbonic anhydrase GO:0004089
+rBaat GO_0002152
+p75 Neurotrophin Receptor GO:0032898
+CRP-ductin GO:0000003
+human recombinant SSAT2 GO:0045190
+neurotensin receptor GO:0043113
+pro-hormone convertase 1/3 GO:0008208
+bcl-2 GO_0000209
+amyloid beta peptides (1-40, 1-42 and 1-40_1-42) GO:0106003
+X-inactive-specific transcript GO:0045893
+alpha(1A)-adrenoceptors GO:0004936
+prostaglandin E synthase-1 GO:0034695
+von Willebrand factor GO:0006268
+platelet-derived growth factor receptor GO:0036119
+Src homology region 2 domain-containing tyrosine phosphatase-1 GO:1903614
+NifS GO_0018283
+Asb GO_0001666
+MCT1 GO_0015718
+Cyclooxygenase GO:0019371
+KIT activation loop GO:0042113
+TCR GO:0006283
+Actin GO_0032088
+E-selectin GO:0043366
+prostacyclin-stimulating factor GO:0001921
+mitochondrial respiratory chain complex IV GO:0032981
+hENT1 GO_0001510
+hApoA-I GO_0006641
+Acsl GO_0009058
+Poly (ADP-ribose)-Polymerase GO:0003950
+D(1) receptor GO:0001605
+TRs GO_0006435
+TSPO-associated protein 7 GO:0043621
+HMGCoA GO_0009887
+Delta(1)-pyrroline-5-carboxylate dehydrogenase GO:0003842
+Eph receptor GO:0042654
+PRiMA GO_0042135
+intragenic binding sites GO:0038057
+cyclin-dependent kinases GO:0004693
+caspase-3 GO_0016485
+5-HT3 receptor GO:0004993
+AMP-activated protein kinase GO:0042313
+neuromedin B GO_0045745
+D3 dopamine receptor GO:0014046
+5-HT4 GO_0007187
+syndecan-1 GO_0016477
+alpha(1D)-adrenoceptor GO:0004936
+11β-HSD GO_0045944
+fibroblast growth factors GO:0090269
+ADH2 GO_0001523
+Bcl-2 GO_0000209
+D(1)-receptor GO:0001605
+VWF GO_0007155
+Flt3-ITD GO_0030097
+Histamine H1 receptor GO:0001821
+α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptor GO:0032281
+KIM-1 GO_0032759
+cardiac sodium channel GO:0005432
+osteocalcin GO_0007155
+factor VIII GO_0006355
+Notch GO_0007219
+P2Y12 GO_0007186
+acyl-CoA oxidase PPAR response element GO:0004803
+ATR GO_0010951
+GP GO_0012501
+Peroxidase GO:0016689
+interleukin-5 GO:0032634
+PPAR GO_0000122
+beta-lyase GO_0016925
+organic anion transporter 1 or 3 GO:0015711
+junctional adhesion molecule C GO:0098631
+PP GO_0006796
+cytochrome b5 GO:0008121
+Aβ42 GO_0006879
+SLC6A3 GO_0015844
+Stearoyl-CoA desaturase-1 GO:0004768
+gamma-glutamyltransferase GO:0047945
+cytochrome P450 (CYP) 3A GO:0004796
+DHFR GO_0017148
+integrin αiibβ GO:0005178
+SCD-1 gene promoter GO:0001109
+Protein kinase C GO:0070528
+T cell receptor GO:0045058
+STAT GO_0008203
+dopamine receptors (D1 GO:0014046
+ALDH GO:0004030
+Caspase-3 GO_0016485
+AMH GO_0001880
+sex steroid binding globulin GO:0001018
+OCTN2 GO_0015697
+topoisomerase I GO:0003918
+histone modification activation marks GO:0061647
+murine P4-ATPase GO:1990531
+H2 GO_0010628
+Lhcgr GO_0042700
+ST3 GO_0006952
+TAAR1 GO_0007186
+D2L GO_0043123
+Methylenetetrahydrofolate reductase GO:0004489
+mitogen activated protein kinase GO:0042313
+Pdx1 GO_0061732
+beta 2-ADH GO_1901379
+peroxisome proliferator activated receptor (PPAR)α GO:0035357
+5-HT1A GO_0007198
+β-amyloid GO_0007189
+xanthine oxidase GO:0009115
+dopamine receptor GO:0014046
+A2756G GO_0110156
+ID2 GO_0043433
+ZIP8 GO_0000122
+5-HT3 GO_0007165
+TSG-6 GO_0050728
+GluK1 GO_0035249
+brain microsomal Acsl GO:0000348
+interferon-stimulated responsive element GO:0035456
+human FMO6P GO:0031430
+betaine-homocysteine methyltransferase GO:0047150
+single-minded 2 GO:0019976
+K-FGF GO_0010463
+dynamin I GO_0006897
+RAMP2 GO_0001525
+IGFBPs GO_0043567
+SPACRCAN GO_0006508
+KAR GO_0035338
+zeta- and gamma T-thrombin GO:0006567
+ADH2 2-2 GO_0001523
+mCA XIII GO_0006730
+CD28 receptor GO:0001614
+Lck GO_0006468
+peptidase GO_0000413
+OVA GO_0000348
+(betaalpha)(8) barrel catalytic core domain GO:1904868
+extracellular signal-regulated kinase GO:0004707
+transmembrane transporters GO:0055085
+Hamp GO_0006879
+OCTs GO_0006285
+C146A GO_0000079
+VEGF receptor GO:0001881
+urease GO_0006218
+perilipin GO_0007186
+Pyk2 GO_0010595
+pre-beta high-density lipoprotein GO:0034384
+GABA-T GO_0009448
+PLP binding domain GO:0030165
+oxytocin GO:0004784
+rat cytochrome P450 GO:0019825
+SAGA GO_0006517
+cyclooxygenase-1 and -2 GO:0004052
+RunX2 GO_0045892
+mitogen-activated phosphokinase phosphatase 1 GO:0050084
+TC10 GO_0045944
+SSBG GO_0075522
+glial fibrillary acidic protein GO:0045098
+Ins2871C GO_0031647
+CYP2C*9 GO_0016098
+caspase-1 GO_0016485
+dopamine D(2) receptors GO:0014046
+GLUT2 GO_0015755
+GCPII GO_0006508
+insulin GO:0003777
+Angiotensin II GO:0002003
+ALA-T GO_0007178
+FGFR1 GO_0008284
+melanocortin GO_0007602
+YLR205 ORF GO_0007049
+interleukin-2 GO:0032623
+FGFR1IIIc GO_0008284
+acetyl-coenzyme A carboxylase 2 GO:0003989
+GPCR GO_0007193
+transforming growth factor (TGF)-beta GO:0071604
+VGLUT1 GO_0006820
+POD GO_0000302
+5-HT3 receptors GO:0004993
+GPX GO_0006749
+p16 GO_0000082
+T cell receptor (TCR) V GO:0033153
+gamma-glutamyltranspeptidase GO:0061672
+CB1 receptors GO:0001609
+pleiotrophin GO_0043123
+kex2 GO_0042981
+FVIII:C GO_0007597
+death receptor GO:0042654
+histone deacetylase GO:0016575
+2XALAS GO_0006783
+C57A GO_0010575
+IkappaB-alpha GO_0030308
+FcgammaRII GO_0002250
+HSP GO_0006457
+Peptidyl-prolyl cis/trans-isomerase A1 GO:0003755
+VALxG GO_0007165
+Oprm GO_0048149
+DHFS GO_0017148
+beta(2)-adrenergic GO:0004939
+chop GO_0000122
+WNK8 GO_0035330
+NBF2 GO_0006914
+hCCS GO_0018063
+P15 GO_0006606
+ACTH-(1-24) GO_0009636
+p28 GO_0000122
+EP1 receptors GO:0001609
+SKL GO_0000122
+5-HT1a GO_0007198
+α7 nicotinic ACh receptor GO:0005892
+yeast squalene epoxidase GO:0004506
+human multidrug resistance gene1 GO:0008559
+p75(NTR) GO_0006887
+corticotrophin-releasing factor GO:0043396
+TNFalpha GO_0042795
+PTPη GO_0008284
+prekallikrein GO_0007399
+sulfatases GO:0003943
+thrombin's GO_0000724
+organic anion transporter polypeptide 1B1 GO:0015711
+intronless open reading frame GO:0042306
+EROD GO_0007094
+human ether-a-go-go-related gene channel GO:0045162
+angiotensin II type 1 (AT1) receptor GO:0031702
+ankyrin GO_0090502
+beta1AR GO_2000116
+type II GnRHR GO:0045352
+Vesicular monoamine transporter-1 GO:0015844
+AT1R promoter GO:0001109
+PS1 GO_0006509
+estramustine binding protein GO:0044256
+LHRH GO_0000003
+prion protein PrP(C) GO:0140597
+arrestin GO_0045116
+Ribonucleotide reductase GO:1990516
+hCA XII GO_0038166
+salmon calcitonin GO:0036161
+HmTx GO_0007005
+Channelrhodopsin-2 GO:0022831
+PTPs GO_0006520
+mGlu5 receptors GO:0004896
+substance P receptor GO:1990772
+CD62P GO_0007159
+RGD GO_0007186
+human alpha 2C-adrenoceptor GO:0004936
+asparaginase GO:0004067
+KGF GO_0010463
+protein phosphatase GO:0006468
+Proline dehydrogenase GO:0018249
+glucose transporter 2 GO:0042946
+holocomplex IV GO:0030964
+Dipeptidyl peptidase-IV GO:0009002
+site A GO_0090305
+prorelaxin GO_0001501
+eukaryotic and bacterial monofunctional PRODHs GO:0006963
+5-HT1E GO_0007193
+tPA GO_0009143
+TGF-beta1 GO_0006954
+N-acetylase GO:0019807
+rat 5-HT1D GO_0007198
+fibroblast growth factor-7 GO:0090269
+substance P GO:1990772
+IFNAR2 GO_0035455
+TWIK-1 GO_0035725
+nuclear receptor GO:0043113
+estrogen sulfotransferase GO:0004027
+PGH synthase-1 GO:0061483
+human alpha-lactalbumin GO:0004866
+adenosine triphosphate-binding cassette (ABC) transporter GO:0004111
+ENaC GO_0006865
+carboxylesterases GO:0052689
+type I and type II GnRHRs GO:0009008
+alpha2C AR GO_0007155
+melatonin receptor GO:0031623
+Estramustine binding protein GO:0044256
+alpha2B-adrenoceptor GO:0004938
+rat skeletal (mu1) muscle sodium channels GO:0015280
+β2AR GO_0002032
+high-mobility group protein B2 GO:0031519
+PrPs GO_0008150
+sex hormone-binding globulin GO:0030492
+PAI-1 GO_0018108
+apical membrane anion transporters GO:0098656
+tyrosine kinase domain GO:1990782
+lecithin:cholesterol acyltransferase GO:0004607
+CEA GO_0007565
+HC2 GO_0071320
+KCC GO_0016310
+apolipoprotein C-III GO:0071828
+cynomolgus FMO6 GO:0000735
+ATF-2 GO_0009636
+PR-B GO_0006508
+Bcl2 GO_0000209
+hemoglobin GO:0005344
+heme oxygenase 1 GO:0004392
+green monkey GnRHR-2 GO:0097210
+beta-lactamases GO:0008800
+HSD17beta7 GO_0006703
+plasma prolactin GO:0045495
+3β-hydroxysteroid dehydrogenase GO:0030283
+LFA-3 GO_0007155
+methionine aminopeptidase-2 GO:0004298
+cyclin E GO:0016538
+caveolin-1 GO_0030433
+L-glutamate decarboxylase GO:0006540
+human androgen receptor GO:0050681
+Norepinephrine transporter GO:0015874
+N-acetyl glucosamine kinase GO:0015764
+calreticulin GO_0000122
+bradykinin GO:0009823
+transforming growth factor-β1 GO:0036363
+PAK1 GO_0006357
+mGlu2 GO_0051896
+TNF-α GO_0000122
+CYP2C9 GO_0008210
+Argonaute GO_0006710
+aldehyde dehydrogenase GO:0004029
+AML1 GO_0030097
+PSS1 GO_0006659
+nuclear factor κB GO:0005721
+p-CREB GO_0000122
+group I metabotropic glutamate receptors GO:0001639
+TKs GO_0000209
+immunoglobulin E GO:0003823
+IL-2 receptor GO:0004896
+rabbit alpha(2A)-adrenoceptor GO:0004936
+Serum amyloid A GO:0106003
+heparan sulphate 2-sulfotransferase GO:0004394
+Na(+)/H(+) exchanger GO:0043486
+IL-27 GO_0001938
+Ras homologous protein A GO:0035825
+cdc2 GO_0000731
+Glycated β-Lactoglobulins GO:0004866
+cholecystokinin GO:0061847
+Moco-sulfurase GO:0004781
+mitochondrial SOD GO:0006839
+VMAT GO_0015842
+zinc metallopeptidase GO:1990773
+Rb GO_0043550
+Slc16a1 GO_0015718
+cyclic adenosine monophosphate response element binding protein GO:0008140
+nuclear factor-kappa GO:0005721
+phosphatase GO:0016791
+dopamine and serotonin receptors GO:1904602
+IGFBP-rP3 GO_0001933
+dopamine d3 receptor GO:0014046
+Mouse ornithine decarboxylase GO:0033056
+adenylate cyclase GO:0007190
+P-glycoprotein GO:0008559
+angiotensin II GO:0002003
+H3K9K14ac GO_0006508
+alpha 1- and alpha 2 adrenoceptors GO:0004936
+hH1 channel GO:0022831
+OTCase GO_0018149
+Kidney injury molecule-1 GO:0098631
+AKR1C3 GO_0006693
+PDHC GO_0046929
+porcine and human TLR7 GO:0031779
+dopamine D2 receptor (DRD2) exon 8 GO:0031749
+cytochrome c oxidase GO:0018063
+actin GO_0032088
+D22G GO_0030100
+pJAK2 GO_0007259
+GARFT GO_0006164
+xenobiotic/endobiotic-sensing nuclear receptors GO:0006805
+cytokine signaling box protein GO:0043491
+D816V GO_0008104
+human adenine phosphoribosyltransferase GO:0003999
+topoisomerase-II GO:0003918
+beta-amyloid precursor protein GO:0042982
+holo-alpha-lactalbumin GO:0006457
+PSMA ectodomain GO:0045121
+HER2 GO_0007165
+phosphodiesterase GO:0008081
+dipeptidyl peptidase-IV GO:0009002
+C-reactive protein GO:0030091
+IGF-I GO_0001775
+IFN-gamma GO_0006974
+Liver X receptors GO:0016933
+prothrombin GO_0140042
+Oxytocin GO:0004784
+PGES GO_0001516
+L-selectin GO_0046718
+c-jun-N-terminal kinase GO:0007254
+myocardin-related transcription factor (MRTF)-A GO:1901483
+progesterone response element GO:0032570
+Human Organic Anion Transporting Polypeptide 2B1 GO:0015698
+histamine H2-receptor GO:0001821
+oxidized Prx1 GO:0043132
+COX20 GO_0033617
+cyclin-D1 GO_0000082
+glycogen synthase kinase-3 GO:0050321
+IL-1ra GO:0005152
+alpha 1B-adrenergic receptor GO:0071875
+BACE1 GO_0006508
+folate receptor alpha GO:0061714
+D2/D3 receptor GO:0001614
+dopamine D4 receptor GO:0014046
+RNA polymerase II GO:1990115
+GluK5 GO_0035249
+p55 GO_0043161
+phosphorylated Akt GO:0031289
+rt-PA GO_0009838
+mPGES-2 GO_0000122
+LH GO_0007186
+Apoe GO_0001937
+Thermus thermophilus PRODH GO:0097536
+hypoxia-inducible factor (HIF)-1α GO:0097411
+sodium iodide symporter GO:0006814
+γ-secretase GO_0051480
+Chk1 GO_0000077
+dopamine transporter GO:0015872
+SCN5A GO_0006814
+alpha-2 adrenoceptors GO:0004936
+ODC GO_1990550
+MMP-9 GO_0001569
+factor Xa GO:0003810
+RAMP GO_0008150
+TGF-β1 GO_0007173
+MMP9 GO_0006508
+CSN1 GO_0000338
+BrBK4-8 GO_0007178
+CYP2B6*1 GO_0006805
+S252F GO_0030514
+superoxide dismutase GO:0004784
+Xanthine dehydrogenase GO:0004022
+atr GO_0010951
+ASCT1 GO_0015808
+hH1 channels GO:0022831
+Prostate-specific membrane antigen GO:0036029
+High density lipoprotein GO:0034380
+myosin heavy chain IId/x GO:0016905
+hGR GO_0001886
+troponin I GO_0043086
+glucuronidases GO:0036234
+PPRE GO_0046627
+retinoblastoma protein GO:0003735
+5-HT receptors GO:0004993
+cytokine receptors GO:0034097
+factor XI apple 3 domain GO:0002542
+mammalian alcohol dehydrogenase 5 GO:0004022
+cystathionine-gamma-lyase GO:0003962
+cyclin dependent kinase 2 GO:0004693
+TSPO GO_0006626
+HSP70 GO_0016192
+Pol II GO_0043536
+VKORC1 GO_0042373
+leptin GO_0010466
+human red blood cell CA I GO:0034101
+NPC1L1 GO_0071501
+amyloid precursor protein GO:0042982
+NF-E2-related factor 2 GO:0120232
+ABCG8 GO_0010949
+FGFR GO:0005007
+VE-cadherin GO_0007155
+dopamine D1 receptor GO:0014046
+hnps-PLA(2) GO_0006629
+Raldh2 GO_0002138
+GFP GO_0045109
+rat Baat GO_0002152
+WAF1 GO_0000082
+creatine kinase GO:0043798
+Phosphodiesterase type 5 GO:0008081
+proprotein convertase subtilisin/kexin type 1 GO:0032481
+fructose-1,6-bisphosphatase GO:0030388
+nociceptin/orphanin FQ receptor GO:0001626
+B Cell Lymphoma-2 GO:0001782
+Topoisomerase IIβ GO:0003918
+T198A GO_0007131
+low-density lipoprotein GO:0034383
+P450 GO_0043161
+PDE6 GO_0007165
+ALP GO_0019731
+DNA topoisomerase II GO:0003918
+NeuN GO_0000381
+arginase GO_0051607
+P16 GO_0000082
+CRP GO_0006383
+D(2)-like receptor GO:0005041
+pannexin-1 GO:0043670
+DA D(1) receptors GO:0001605
+alphaAR GO_0010951
+pGPX GO_0019369
+Human type 2 preprorelaxin GO:0042092
+trypsin-like serine proteases GO:0008236
+NR2B GO_0000122
+heat shock protein GO:0006986
+AT1 GO_0030509
+P2X3 GO_0070207
+μ-Opioid GO_0007606
+opioid receptors GO:0001626
+raldh2 GO_0002138
+SERCA2 GO_0000045
+gastrointestinal GPx GO:0050892
+nestin GO_0008285
+CYP1A1 GO_0002933
+Asmt GO_0030187
+annexin A1 GO:0043670
+c-Myc GO_0000122
+eukaryote ODCs GO:0005664
+Pro122Ser GO_0030335
+LolA GO_0018057
+T cell mitogen GO:0072678
+LTA(4)H GO_0008544
+PGH synthase isozymes-1 and -2 GO:0008116
+endothelin ET(B) receptor GO:1990839
+atrial and brain natriuretic peptides GO:0006964
+immune cell transcription factor GO:0036369
+CSE GO_0006508
+neuropeptide GO_0010976
+AtRNR1 GO_0007399
+RAR alpha GO_0007155
+low-, medium- and high molecular weight neurofilament subunits GO:0060052
+Go1 GO_0000956
+rhodopsin GO_0007186
+HSF1 GO_0000122
+positive elongation factor GO:0048767
+MRTF GO_0010735
+ACE GO_0042447
+Niemann-Pick C1 GO_0015747
+protease-activated receptors (PAR) 1 GO:0001648
+dehydrogenase GO:0008901
+Glutathione peroxidase GO:1901370
+aspartate transaminase GO:0019465
+rat kappa-opioid receptor GO:0038048
+EP2 receptors GO:0001614
+plasma membrane PS transporter GO:0006849
+farnesoid X receptor GO:0005049
+phosphatidylinositol-3-kinase GO:0014065
+cytosolic TH binding protein GO:0044877
+COX GO_0006091
+GPx GO_0006749
+histamine H1 GO:0034971
+C-Y-W-E-L-E-W-L-P-C-A GO:0042747
+alpha2A- and alpha2C-adrenoceptor GO:0004938
+SREBP-1c GO_0032933
+glutathione S-transferase GO:0034635
+TRR GO_0009086
+α-carbonic anhydrase GO:0004089
+5-HT(2B/2C)-receptor GO:0004993
+5-HT2 GO_0006874
+PGHS-1 GO_0019371
+IGFBP-rP1 and 2 GO_0043567
+myosin-2 GO_0006897
+HERG GO_0035690
+guinea-pig and mouse splenic alpha 1B-adrenoceptors GO:0031692
+glycinamide ribonucleotide formyltransferase GO:0004642
+Squalene epoxidase GO:0004506
+Checkpoint kinase 1 GO:0031573
+human acetylcholinesterase GO:0061526
+dopamine D2 receptors GO:0014046
+Lys-Asp-Glu-Leu GO:0008810
+FCP GO_0006470
+tissue plasminogen activator GO:0031639
+PTPsigma GO:1990413
+rat brain aldosterone receptors GO:0032342
+MR77 GO_1903671
+Transforming growth factor beta GO:0036363
+chondroitinase ABC GO:0030341
+RR GO_0007186
+human NaDC-3 GO_0007249
+enkephalin GO_0009637
+copper transporter 1 GO:0006825
+insulin-like growth factor-binding protein-related proteins (IGFBP-rPs) 1, 2, and 3 GO:1990314
+cyclooxygenase 1 GO:0019371
+I(Ks) GO_0002230
+USP22 GO_0016574
+phosphatidylserine synthase GO:0006659
+Toll-like receptors GO:0005121
+thioredoxin reductase GO:0004791
+human SOD1 GO:0004784
+electron transport proteins GO:0034436
+NOX5-S GO_0001935
+Cdx2 GO_0000122
+HO-1 GO_0006788
+IKr GO_0000724
+RAR beta GO_0035881
+HBP-4 GO_0019730
+solute carrier 1 GO:0015291
+PEVKEK GO_0006983
+5-HT2B GO_0001819
+nicotinic receptors GO:0140463
+p-Histone H3 GO:0034970
+angiotensin II (A-II) type 1 (AT1) receptor GO:0031702
+AChRs GO_0048630
+serine racemase GO:0003941
+BAX GO_0001783
+histone GO_0000045
+A1 receptors GO:0001609
+B isoform of PR GO:0036498
+N111G GO_0016567
+Prx GO_0006979
+apoptosis-inducing factor GO:0006915
+PGIS GO_0001516
+TEL GO_0000122
+DGK-delta GO_0046486
+Raf-1 GO_0007190
+Na+-K+-2Cl- cotransporter GO:0031317
+H2AX GO_0007005
+aminopeptidase-N GO:0050365
+PDE5 GO_0007165
+AT1R GO_0007186
+H3 GO_0007165
+HMGB1/2 GO_0002218
+gIV-PLA2 GO_0006650
+retinoid X receptors GO:0046965
+bovine pancreatic ribonuclease A GO:0004522
+A243V GO_0001580
+cytochrome C GO:0008121
+αvβ3 GO_0002250
+NKCC1 GO_0015696
+AChE GO_0006581
+creatine kinase B GO:0043798
+beta(2)-Adrenoceptor GO:0004939
+c-jun GO_0000122
+IL-1β GO_0001819
+bacterial nitrogenase GO:0004108
+ferritin light chain GO:0005858
+human protein phosphatase-1c (gamma isoform) GO:0004721
+chondroitin sulfate ABC lyase GO:0030207
+FMOs GO_0007179
+cyanotoxins GO:0000910
+prostaglandin H synthase GO:0034695
+ABCA1 GO_0007040
+nuclear hormone receptor GO:0004879
+alpha-subunit of the sodium channel GO:0008282
+ATPase GO_0009134
+RNA polymerase II large subunit GO:0008353
+secretin GO:0046659
+noradrenaline transporter GO:0015853
+A2 and A2 receptors GO:0030370
+c-fos GO_0007179
+Alefacept GO_0009966
+hkor GO_0006955
+α-MSH GO_0007189
+MAP kinase GO_0010564
+thromboplastin GO:0009705
+endoproteinase Lys-C GO:0004175
+GGAGTCTCCC GO_0042219
+OSTβ GO_0051056
+SHBG GO_0001525
+D281A GO_0001775
+TRPM7 GO_0070266
+leukotriene A4 hydrolase GO:0004463
+L-type Ca(2+) channels GO:0008331
+Cav1 GO_0009617
+factor VIII B domain GO:0039718
+NMDA receptor GO:0004972
+SUR1 GO_0098662
+glucose transporter isoform 4 GO:0042946
+F433S GO_0006357
+Hsp27 GO_0001932
+IκBα GO_0006974
+mouse TAAR1 GO_0000122
+GLP-1 receptors GO:0001635
+keratinocyte growth factor GO:0032605
+Factor VIII GO_0006355
+Cholinesterase GO:0015871
+brain microsomal long-chain fatty acyl-CoA synthetases GO:0035336
+5-HT(2) receptors GO:0004993
+VEGF GO_0000122
+Yeast epiarginase GO:0001878
+leci-thin:retinol acyltransferase GO:0047173
+NHE2 GO_0051453
+(t-PA GO_0045893
+cytidine deaminase GO:0009972
+ionotropic glutamate receptor GO:0035235
+PLC-beta GO_0048015
+pyridox(am)ine-5'-phosphate oxidase GO:0004733
+Mtrr GO_0009086
+pJNK GO_0006468
+Alcalase GO_0002532
+delta-5 desaturase GO:0050601
+alpha-AR GO_0007155
+mGlu5 GO_0007216
+FCGR3A GO_0007166
+Homer GO_0051592
+SCN1A GO_0086002
+5-HT(1A) GO_0001819
+incretin hormones GO:0046879
+human alpha2C-adrenoceptor GO:0004938
+transmembrane receptor kinase GO:0004888
+calcium/calmodulin-dependent serine protein kinase GO:0099004
+alpha 2-adrenoceptor GO:0004936
+Lectin GO_0046718
+hSOD1 GO_0000303
+interleukin-1 GO:0032612
+Flt-1 GO_0006357
+retinoic acid receptor alpha GO:0048384
+HRE GO_0000122
+mitochondrial superoxide dismutase GO:0004784
+EMBP GO_0007010
+heme binding protein GO:0017007
+BHMT GO_0006577
+TLR8 GO_0007249
+AMPA receptor GO:0032281
+mu-opioid receptor GO:0004979
+bcl-x GO_0001836
+Aβ(42) GO_0007186
+β1-integrin GO:0016539
+transcription factor Pitx3 GO:0042793
+microsomal PGES1 GO:0016712
+Caudal-type homeobox 2 GO:0004129
+serum and glucocorticoid regulated kinase GO:2000849
+chaperone GO_1902416
+hyaluronan binding protein GO:0030213
+366-amino acid seven-transmembrane domain protein GO:0089718
+SLCO GO_0001768
+alpha(1)-Adrenoceptor GO:0004936
+alpha-ketoglutarate- and branched-chain alpha-keto acid dehydrogenase complexes GO:0017086
+ionotropic glutamate receptors GO:0035235
+tumor necrosis factor (TNF)-alpha GO:0032640
+major diabetes autoantigen GO:0046968
+Myeloperoxidase GO:0004601
+LTA GO_0006915
+Dipeptidyl Peptidase 4 GO:0050568
+PPARγ coactivator 1α GO:0005663
+CDC42 GO_0030036
+I-domain GO:0045121
+dopamine D1 receptors GO:0014046
+TRalpha GO_0006605
+G protein-coupled P2Y1 GO:0032991
+calcineurin GO:0004723
+P2Y2 receptor GO:0045028
+torafugu PPARalpha2 and gamma GO:0038094
+endogenous opioid peptides GO:0009726
+cyclo-oxygenase-2 GO:0019371
+PPAR-γ GO_0000122
+aldo-keto reductases GO:0004033
+Trx GO_0009314
+Activator of G protein signaling 3 GO:0010737
+tumor suppressor protein p53 GO:0051726
+TR-β GO_0007004
+ferritinL GO_0007155
+D(2) GO_0031397
+cAMP response element binding protein GO:0035103
+OATP2B1-FL GO_0015711
+Gs GO_0042981
+proline-rich tyrosine kinase 2 GO:0004713
+HDACs GO_0000122
+CYP2D GO_0006805
+glucagon-like peptide-1 GO:0120022
+E2F1 GO_0006355
+hOGG1 GO_0006979
+ODCs GO_1990550
+Beta2-adrenergic receptors GO:0071875
+90-kDa heat shock protein GO:0006986
+dehydroascorbate reductase GO:0045174
+phospholipase A(2) GO:0004622
+PGC-1α GO_0006091
+cyclin B GO_0007269
+fibrinogen receptor GO:0008227
+sphingosine-1-phosphate type 1 receptor GO:0003376
+VMAT-1 GO_0045666
+TCN GO_0015889
+Shp GO_0007623
+leukotriene receptor GO:0071716
+human renal NCCT GO:0030325
+OCT2 GO_0006836
+LXR GO_0002768
+AChR GO_0048630
+Rho A GO_0007186
+rTRPV1 GO_0034605
+MUC2 GO_0030277
+TrkA GO_0006468
+VGlut2 GO_0098700
+neurotensin receptors GO:0007220
+stromelysin 3 GO_0048193
+DNMT1 GO_0010216
+albumin GO_0045893
+hydroxysteroid-dehydrogenases GO:0003845
+3-methylglutaconyl-CoA hydratase GO:0004490
+caspase-3 or -9 GO:0051591
+interferon regulatory factor 5 GO:0004905
+sigma1 receptor GO:0006509
+NCoR GO_0046329
+Monoamine transporter GO:0015844
+alpha2A GO_0010951
+imidazoline receptor GO:0004972
+monocarboxylate transporter GO:0015718
+NOX5 GO_0001935
+PRL GO_0001937
+Human Serum Albumin GO:0015690
+peroxidase GO:0016689
+CSF3R GO_0019221
+group I mGlu receptors GO:0001635
+5-LOX activating protein GO:0042313
+Axin2 GO_0034613
+peroxisome proliferator-activated receptor alpha GO:0035357
+ACC GO_0006084
+CFTR GO_0015701
+prostacyclin synthase GO:0008116
+CALU GO_0008150
+osterix GO_0001649
+caspase-8 GO_0006508
+Creatine phosphokinase GO:0004111
+D19A GO_0007155
+PKA3 GO_0012501
+CRH GO_0001963
+vesicular monoamine transporter 2 GO:0015844
+BrBK2-8 GO_0006468
+nitric-oxide synthase GO:0035732
+prostaglandin synthase-1 GO:0034695
+tumor necrosis factor-(TNF)-α GO:0032640
+CYP17A1 GO_0008202
+NF-H GO_0032722
+pro-caspase-1 GO:0004722
+opiate receptors GO:0000268
+FGFR ectodomain GO:0045121
+PSGL-1 GO_0050900
+BLG GO_0006915
+myeloperoxidase GO:0004601
+TRAIL GO_0043065
+MCT4 GO_0015718
+Tropomyosin Receptor Kinase A GO:0048011
+pancreatic and duodenal homeobox gene 1 GO:0003322
+kinase GO_0010564
+retinal dehydrogenase 2 GO:0004022
+myosin GO_0032233
+human gene FAM36A GO:0007276
+High mobility group box 1 GO:0035868
+AP-1 GO_0045944
+REV-ERBα GO_0000122
+RXR GO:0004879
+human lung glucocorticoid receptors GO:0042921
+serotonin (2A) receptors GO:0001820
+proteasomes GO:0000502
+thiol isomerase GO:0052884
+selenoprotein GO_0006646
+Niemann-Pick C1 Like 1 GO:0020018
+DUBm GO_0042420
+p44 GO_0006955
+cytosolic glutathione peroxidase GO:0006751
+PPARβ/δ GO_0000122
+Erk1/2 GO_0006468
+alpha(1A)- and alpha(1D)-adrenoceptors GO:0004936
+dopamine D2-receptor GO:0014046
+alpha 1A- and alpha 1B- adrenoceptors GO:0004936
+plasma membrane hemichannel GO:0045026
+FAM36A GO_0033617
+IgE GO_0006910
+receptor tyrosine kinase GO:0001571
+D(2) receptor GO:0001614
+collagen IV GO_0010951
+human PPAR-alpha GO_0006627
+endothelin ET(A) receptors GO:0086100
+cytochrome P450 3A GO:0019825
+myosin light chain kinase GO:0004687
+PDGFR-beta GO_0016045
+Na,K-ATPase beta1 GO:0140358
+midkine GO_0007060
+Factor VIII:C GO:0003810
+CASK GO_0010839
+PKCδ GO_0006468
+Sdhaf2 GO_0006121
+neurotrophic factors GO:0080185
+human calcitonin GO:0036161
+human placental 3 beta-hydroxy-5-ene-steroid dehydrogenase GO:0003854
+trefoil factor-1 GO:0062241
+glutathione reductase GO:1901370
+receptor kinase GO:0005220
+GIP GO_0008284
+NF-κB binding elements GO:0032422
+heme oxygenase GO:0140061
+vascular endothelial growth factor receptors -2 and -3 GO:0010573
+TREK-1 GO_0071805
+glutathione synthase GO:1901370
+IGFBP-rP2 GO_0042104
+protein kinase A (PKA) inhibitory protein GO:0006469
+spermidine/spermine-N(1)-acetyltransferase GO:0004145
+P450scc GO_0006700
+steroid 5----4-ene-isomerase GO:0004769
+GLP-1 GO_0000122
+15-lipoxygenase GO:0140062
+ET-1 GO_0030578
+Tyrosine kinase GO_0000070
+KGFR GO_0008284
+Eph receptors GO:0042654
+norepinephrine (NE) transporter GO:0015874
+PDGFbeta-receptor GO:0000268
+ABCG5 GO_0010949
+activated factor X GO:0002542
+cdc25C GO_0000086
+alpha2- versus alpha1-adrenoceptor GO:0004937
+inhibitor of kappaBα GO:0032088
+KIT, GO_0002551
+group III phospholipase A(2) GO:0032431
+monoamine uptake transporters GO:0015844
+nonglycated BLG GO:0046295
+ABCG1 GO_0008203
+Acsl4 promoter GO:0001109
+h-rChTAAR1 GO_0007186
+rCYP3A4 GO_0002933
+WNKs GO_0000209
+bacterial actin-like protein GO:0002778
+Bcl-2 associated X protein GO:0043621
+cyclic peptides GO:0043171
+Aurora kinase GO:0033674
+bacterial lipoprotein GO:0032493
+FLT3 GO_0030097
+hexokinase GO:0004396
+neuronal vesicular monoamine transporter GO:1990048
+CD120b GO_0051044
+D(2) and 5-HT(2A) receptors GO:0004993
+MAP-Kinase GO_0010564
+MMP7 GO_0006508
+alpha 2-adrenoceptors GO:0004936
+SLC22 GO_0015755
+phytohemagglutinin A GO:0000752
+ACLY GO_0006085
+Flavin-containing monooxygenases GO:0004499
+mu and kappa opioid receptor GO:0038048
+ADP receptors GO:0032281
+transferrin receptor 1 and 2 GO:0031870
+PS-specific receptor GO:0016562
+kainate receptors GO:0010011
+PPT-A GO_0000122
+PP-1c GO_0006470
+NF-kappaB GO_0010629
+retinoid and thyroid-hormone receptors GO:0046966
+glutathione peroxidases GO:1901370
+mPGES1 gene promoter GO:0001109
+β2-adrenoceptor GO:0004941
+L- and P-selectin GO:0002339
+amyloid β-peptide transporter GO:0006857
+calbindin GO:0031005
+adrenomedullin GO_0030154
+human CD2 GO_0008150
+squalene epoxidases GO:0004506
+Hsp90 GO_0001934
+syndecans GO_1903543
+Gi1 GO_0090315
+FGFs GO_0008285
+Grp78 GO_0042149
+FGF8 GO_0060563
+CYP2D6 GO_0008210
+LOX GO_0018057
+cytokines GO:0000910
+cystic fibrosis transmembrane conductor regulator GO:0005260
+Abeta GO_0006357
+SRC GO_0018108
+CD11b GO_0032930
+methylmalonyl-CoA mutase GO:0004494
+Smad3 GO_0000122
+Bcrp GO_0032218
+Toll-like receptor (TLR)1-9 GO:0034130
+mTOR GO_0001558
+Slc16a3 GO_0015718
+IMPDH2 GO_0006183
+Egr2 GO_0045944
+Ca(2+)ATPase GO_0042776
+kinase domain GO:0045121
+human TRPA1 GO_0071475
+Angiomodulin GO_0006913
+mu receptor GO:0030273
+SGLT1 GO_0000017
+CHK1 GO_0000077
+pancreatic polypeptide GO:0036322
+Aurora kinase A GO:0033674
+NHE1 GO_0006883
+Omega class of cytosolic glutathione transferases GO:0004364
+CBG GO_0010951
+plasma GPx GO:0045495
+alpha(1A)-adrenoceptor GO:0004936
+p38MAPK GO_0006468
+α7 subtype of nAChRs GO:0034054
+gmGnRHR-2 GO_0007186
+peroxisome proliferator-activated receptor gamma GO:0035357
+Sterol transporters GO:0015918
+immunoglobulin (Ig)-like module II GO:0002377
+glucosylceramide synthase GO:0006679
+pore domains GO:0046931
+voltage-dependent anion chanel GO:0005244
+P-gp GO_0000086
+NAD synthetase GO:0009435
+transmembrane serine proteases GO:0046875
+pattern-recognition receptors GO:0002221
+prostaglandin E synthases GO:0034695
+mAChR GO_0006508
+LAV GO_0075522
+calcium binding loop GO:0000404
+annexin-1 GO_0030195
+sodium dicarboxylate cotransporter GO:0017153
+retinoid receptors GO:0001881
+JNK1 GO_0006468
+N-acetylglutamate synthetase GO:0004358
+5HTTLPR GO_0007229
+RNase A GO_0051607
+cyclooxygenase-2 GO:0019371
+E-cadherin GO_0000902
+HIF-1α GO_0010569
+histone deacetylases GO:0016575
+mu and the kappa opioid receptors GO:0031852
+5-HT(2A/2B/2C)-receptor GO:0004993
+muscarinic M1 receptor GO:0097113
+estrogen receptor beta GO:0035937
+orphan receptor GO:0001626
+nitrate reductase GO:0044799
+brain natriuretic peptide GO:0030651
+mitochondrial aspartate aminotransferase GO:0032976
+3-hydroxy-3-methylglutaryl coenzyme A reductase GO:0004420
+MTR GO_0009086
+ASNS GO_0006529
+γ-GCS GO_0006679
+IQ motif GO_0006953
+cortisol binding globulin GO:0051424
+ACC2 GO_0006084
+P2Y2 GO_0006873
+arginine vasotocin GO:0006526
+type I collagen GO:0070603
+OATP2B1 variant promoter GO:0003968
+ion transporters GO:0006811
+thyrotropin GO:0010274
+mGlu1a GO_0007186
+Cycloxygenase-2 GO:0019371
+plasma membrane-bound bile acid receptor GO:0120031
+NQO1 GO_0006979
+mouse ornithine decarboxylase GO:0033056
+hypoxia-inducible factor-1α GO:0097411
+Panx1 GO_0006812
+proton-pump GO:0005889
+P2X4 GO_0007165
+phospholipid-hydroperoxide glutathione peroxidase GO:0047066
+MRTF-B GO_0010735
+eCG GO_0008543
+MMP-3 GO_0007010
+endothelin-1 type A and B receptors GO:0031707
+mammalian TWIK-1-related K+ channel GO:1902606
+delta receptors GO:0001632
+CYP GO_0070527
+vascular endothelial growth factor receptor 2 GO:0010573
+glycogen synthase kinase-3β GO:0050321
+SH3 domain binding motif GO:0032093
+APP GO_0001934
+TcCA GO_0001680
+Histamine H(1) GO_0001934
+SNAT2 GO_0015804
+Lipases GO_0006954
+PTN GO_0007229
+Angiotensin AT1 receptor GO:0002003
+beta-amyloid GO:0034205
+pro-hormone convertase 2 GO:0008208
+β-secretase GO_0051480
+FGF GO_0008543
+Human stearoyl-CoA desaturase 1 GO:0004768
+CBP GO_0035556
+methionine adenosyltransferase-1a GO:0004478
+alpha-fetoprotein GO:0043543
+cyclin A GO_0031146
+cytochrome-C-oxidase GO:0018063
+adenosine triphosphate-binding cassette A1 GO:0043531
+NF-κB1 GO_0010629
+MMP-1 GO_0006457
+AMY(3(a)) GO_0008150
+glyceraldehyde-3-phosphate dehydrogenase GO:0004365
+Fibrinogen GO:0005577
+pro-IL-18 GO_0001525
+GPx1b2 GO_0006749
+cytochrome P450 (CYP) 2B6 GO:0004796
+IRS-1 GO_0008286
+plasmepsin II GO_0060088
+H4 GO_0006334
+PDGFRbeta GO_0008284
+P2X3 receptors GO:0004931
+RXRs GO_0006420
+CD50 GO_0007155
+estrogen, progesterone, glucocorticoid, androgen, and mineralocorticoid receptor GO:0031944
+Vascular endothelial growth factor GO:0010573
+FXI GO_0007596
+FPGS GO_0006536
+PARP-1 GO_0006471
+S100 GO_0043123
+pyridox(am)ine 5'-phosphate oxidase GO:0004733
+human ADH5 GO_0035771
+IRF-1 GO_0008284
+mPGES1 GO_0000463
+PRAB GO_0006406
+c-Jun GO_0000122
+N133I GO_0015693
+AUH GO_0006635
+glutathione S-transferase omega 1 GO:0004364
+interferon-gamma (IFN-gamma) regulatory factor-1 GO:0039557
+MtPLA(2) GO_0031295
+quinone reductase GO:0050109
+amyloid-β peptides GO:0001519
+SAA GO_0001819
+SNAT4 GO_0006474
+inter-alpha-inhibitor GO_0035556
+human recombinant COX-1 GO:0070467
+holesterol transport-related proteins GO:0032374
+human norepinephrine transporter GO:0015874
+ERalpha GO_0006355
+CD40 GO_0023035
+GST GO_0007186
+CCAAT/enhancer-binding protein beta GO:0005080
+D6D GO_0006629
+Bcl-xL GO_0001836
+caspase 3 GO_0016485
+Progesterone receptor GO:0042701
+calcitonin receptor GO:0036161
+cyclo-oxygenase 2 GO:0019371
+G-proteins GO_0048023
+CPR GO_0070979
+vasopeptidase GO:0045148
+rat alcohol dehydrogenase GO:0010257
+alpha2C GO_0000226
+L251F GO_0006412
+methionine synthase reductase GO:0030586
+Mitogen Activated Protein Kinase GO:0042313
+lactate dehydrogenase GO:0004352
+TATA GO_0007283
+AT(1) receptor GO:0004993
+interleukin-1 beta GO:0032611
+nion transporter GO:0006811
+cyt b5 GO_0000122
+Hypoxia-inducible factor-1alpha GO:0097411
+ATP-gated channel P2X1 GO:0022829
+sigma-1 receptor GO:0001609
+metalloprotease GO:0008237
+PGH synthase-1 and -2 GO:0008116
+factor IX GO_0006355
+C5a GO_0010575
+NHE GO_0051453
+SRC-1 GO_0000435
+PBPs 2 and 3 GO:0043888
+Na(+)-transporter GO:0043132
+D1-like receptors GO:0005041
+hCG GO_0006873
+With no lysine kinases GO:0003723
+CSN GO:0008180
+neurogenin 3 GO:0022008
+HIF GO_0010571
+Ki-67 GO_0002084
+dipeptidyl peptidase-4 GO:0050568
+PHGPx GO_0019369
+human LFA-1 GO_0006364
+RARs GO_0006420
+mucin domain GO:0045121
+zeta-thrombin GO:0033437
+Intercellular adhesion molecule-2 GO:0098631
+β-lactoglobulins GO:0010287
+PI3-kinase GO_0010564
+MU GO_0009615
+αvβ5 integrins GO:0005178
+Rdl GABA receptor GO:0001632
+mu and delta classes of opioid receptors GO:0038046
+CD3e GO_0010628
+Hsd17b3 GO_0006694
+NHE3 GO_0098719
+G(i/o) into alpha and betagamma GO:0005132
+janus kinases GO:0004715
+beta 2-adrenoceptor GO:0004939
+Butyrylcholinesterase GO:0004104
+human interphotoreceptor matrix hyaluronan-binding proteoglycan GO:1905859
+RXR alpha GO_0030032
+BCDHC GO_0008152
+11β-HSD1 GO_0045944
+IL-8 GO_0002237
+rat insulin 2 promoter GO:0032868
+CESs GO_0006695
+topoisomerase II GO:0003918
+MetAP2 GO_0016485
+GPx1b1 GO_0006749
+T-type Ca(2+) channels GO:0008332
+drug transporter GO:0033227
+hemoglobin A(1c) GO:0042540
+ADAM-10 GO_0030198
+Akt GO_0001934
+lactoferrin GO:0003993
+inosine 5'-monophosphate dehydrogenase GO:0003938
+basic FGF GO_0008285
+NADPH oxidase GO:0008753
+Trx reductase GO:0050580
+AtWNK8 GO_0006268
+nuclear factor-κB GO:0005721
+selectins GO_1904153
+multikinase GO:0150086
+GR GO_0000122
+R316C GO_0006396
+omega class of glutathione transferases GO:0004364
+Activated coagulation factor XI GO:0002542
+protein disulfide isomerase family A member 3 GO:0003756
+VEGFR-2 GO_0001934
+Cyp27a1 GO_0006699
+glutamate synthase GO:0051935
+D2R GO_0046330
+Na+-HCO3- cotransporter GO:0051031
+serotonin 5-HT1a receptor GO:0031830
+bovine rhodopsin GO:0016063
+Oct4 GO_0000122
+NCAM GO_0071679
+interleukin (IL)-1beta GO:0019955
+hypoxia-inducible factor-1alpha GO:0097411
+acyl-binding pocket GO:0120227
+apolipoprotein E3 GO:0071828
+Nrf2 GO_0010499
+angiotensin receptor GO:1990776
+Cyp7a1 GO_0006699
+human ABCA1 GO:0006540
+polyamine oxidase GO:0052899
+5HT1B/1D GO_0007193
+LFA-1 GO_0007155
+adrenocorticotropic hormone 1-24 GO:0051458
+dopamine, norepinephrine, or serotonin transporter GO:0005334
+cyclic AMP responsive element binding protein (CREB)-1 GO:0008140
+c-jun N-terminal kinases GO:0007254
+ADM GO_0001570
+SOD GO:0004784
+amiloride-sensitive epithelial sodium channel GO:0015280
+CCS GO_0019430
+glycogen-synthase-kinase-3 GO:0050321
+HuBChE GO_0050783
+CTGF GO_0045597
+mammalian ADHs GO_0006936
+integrin GO_0072344
+factor XI A3 domain GO:0002542
+lipase GO_0006954
+MK2 GO_0036289
+bHLH GO_0006357
+5-HT(2A/2C) GO_0001819
+tyrosine kinase GO_0000070
+Metabotropic Glutamate Receptors GO:0006536
+TRbeta GO_0005993
+CES2 GO_0006695
+angiotensin II AT1 receptor GO:0031701
+HMG-CoA reductase GO:0004420
+aFGF GO_0008543
+Insulin GO:0003777
+-1639G>A GO_0030449
+BChE GO_0050783
+N-acetyl-beta-D-glucosamidase GO:0008422
+CYP27A1 GO_0006699
+CD88 GO_0038178
+choline dehydrogenase GO:0010240
+A1 domain GO_0035556
+GAPDH GO_0001819
+human, mouse and bovine TLR7 GO:0002938
+μ-receptor GO:0004930
+c1173t GO_0008150
+fibrinogen recognition exosite GO:0044405
+cyclo-oxygenase GO:0019371
+Platelet P-selectin GO:0043698
+glucuronosyltransferases GO:0032001
+NF-AT GO_0045944
+ABCA12 GO_0006672
+5-HT1 GO_0007198
+mammalian isoforms I-XIV GO:0021608
+alpha-2A adrenoceptor GO:0004936
+Gq GO_0006469
+uKIM-1 GO_0032759
+p75 neurotrophin receptor GO:0032898
+AT1 receptor GO:0005052
+CAG --> CAA GO_0042391
+CYP2B6*6 GO_0006805
+HCN2 GO_0071320
+glutamine synthetase GO:0006542
+glucagon GO_0006680
+prostacyclin receptor GO:0031869
+HNF4A GO_0006357
+Ascl2 GO_0000122
+5-HT2C GO_0006874
+clathrin GO_0017156
+hepatocyte nuclear factor 4 alpha GO:0070630
+Monoacylglycerol Lipase GO:0047372
+MTRR GO_0009086
+Growth Hormone GO:0035265
+α7 nicotinic acetylcholine receptor GO:0005892
+NADPH-cytochrome P450 reductase GO:0050592
+extracellular loop 3 GO:0006858
+CKB GO_0021762
+porcine TLR7 GO:0033421
+S GO_0005975
+alpha2C-adrenoceptor GO:0004938
+A1C GO_0050821
+SH2 domain GO:0045121
+Ang II GO_0038166
+Fxr GO_0006357
+Wnt6 GO_0010628
+leukotriene A(4) hydrolase GO:0004463
+C2C GO_0006956
+afadin GO_0010628
+histone acetyltransferases GO:0016573
+tyrosinase GO:0004175
+rTRPV2 GO_0009266
+nuclear receptors GO:0043113
+Cynomolgus FMO1 GO:0000735
+siHO-1 GO_0006788
+annexin A7 GO:0005243
+GPx4a1, a2 and b GO:0004617
+FNTA GO_0018343
+alpha-lactalbumin GO_0006955
+SLC22A5 GO_0015697
+PDGFRα GO_0007165
+EP2 GO_0061844
+tumour necrosis factor-α GO:0032640
+F402L GO_0006357
+sulfonylurea receptor GO:0017098
+D4 GO_0001934
+dopamine D2 and D4 receptors GO:0001591
+CD31 GO_0006909
+Peroxisome proliferator-activated receptor GO:0035357
+NBFs GO_0007422
+PLA2 GO_0002227
+tumor necrosis factor α GO:0032640
+RadA GO_0006974
+KDEL GO_0016485
+C/EBPα GO_0006355
+VEGFR GO_0001934
+MTHFR GO_0031060
+GnRH GO_0000003
+Escherichia coli LeuRS GO:0008859
+3β-HSD GO_0070286
+GPx1a, 1b1 and 1b2 GO_0060074
+cofilin GO_0045103
+Tissue Factor GO:0060033
+human isoform CYP2D6 GO:0009805
+efflux transporters GO:0042044
+StAR GO_0006182
+EGFR GO_0001934
+α1 catalytic subunit of AMPK GO:0004693
+PDGFR GO_0007165
+PDE GO_0006081
+NMDA receptor subunits NR1 and NR2B GO:0031835
+human renin GO_0035307
+urokinase plasminogen activator GO:0038195
+lipoxygenase GO:0019372
+GnRHs GO_0000003
+p53R2 GO_0009263
+RAD51 GO_0000724
+GST fold GO_0051958
+GABA-transaminase GO:0032144
+Adrenomedullin GO_0030154
+Walker A and B motifs GO:0006699
+phospholamban GO_0007611
+ATPase II GO_0009134
+Top1 GO_0006265
+PPARbeta GO_0000226
+alpha 1B-adrenoceptors GO:0004936
+5-hydroxytryptamine (5HT)1B/1D GO:0051378
+urokinase-type plasminogen activator GO:0038195
+alanine aminotransferase GO:0003867
+gonadotrophin-releasing hormone GO:0097210
+Slc2a1 GO_0065003
+GSK-3β GO_0008219
+SERCA2a GO_0000045
+COPS5 GO_0000338
+porcine TLR8 GO:0033421
+cyclin D1 GO_0000082
+sulfotransferases GO:0004062
+phosphodiesterase type 5 GO:0008081
+PKCI GO_0006468
+Dopamine (DA) receptor GO:0014046
+norepinephrine re-uptake transporter GO:0015874
+phospholipase A2 GO:0004622
+aldosterone receptor GO:0035932
+HIV capsid GO:0039625
+CTRC GO_0006508
+Gi GO_0001666
+proline utilization A GO:0015976
+GSTO GO_0010880
+5-HT(2B ) GO_0001819
+rat trace amine-associated receptor 1 GO:0005102
+NM23 GO_0043388
+V-ATPase GO_0009134
+rat ETA receptors GO:0042654
+Sim2 GO_0006357
+bFGF GO_0008284
+P- and L-selectin GO:0002339
+Slc16a7 GO_1901475
+eIF2 GO:0005850
+PPARalpha1 and alpha2 GO_0002587
+GRK GO_0022400
+thymidine phosphorylase GO:0016310
+yeast mitochondrial LeuRS GO:0006839
+prothrombinase GO:0004175
+ubiquitin GO:0031386
+multidrug resistance-associated protein 2 GO:0008559
+p-Cdc2 GO_0000727
+TLR4 GO_0006909
+Na+/H+ exchange GO:0043486
+sodium-coupled neutral amino acid transporter 1 GO:0015804
+Acyl-CoA synthetase 4 GO:0004467
+lymphotoxin-alpha GO:0062048
+ferredoxin GO:0006124
+LPL GO_0006631
+kappa-opioid receptor GO:0038048
+TrxR GO_0045454
+PHGPX GO:0047066
+EL3-proximal transmembrane helix 7 GO:0046875
+NCAM-140 GO_0002891
+CB(1) GO_0030041
+myelin oligodendroglial glycoprotein peptide GO:0043218
+TSC GO_0006417
+human butyrylcholinesterase GO:0004104
+transient receptor potential (TRP) channels GO:0007171
+H(1) GO_0007283
+phosphodiesterase (PDE) 4 GO:0008081
+interferon regulatory factor 5 protein GO:0032648
+G protein coupled receptor GO:0002031
+Trace amine-associated receptor 1 GO:0031748
+monoamine oxidase-A GO:0008131
+human NET GO:0140645
+Acetyl-coenzyme A carboxylase GO:0003989
+transient receptor potential melastatin 7 GO:0004714
+ornithine aminotransferase GO:0004587
+calpain GO_0002250
+cis-acting DNA elements GO:0071946
+hCCSD1 GO_0007041
+proteolipid protein 1 GO:0030091
+gmGnRH-2 GO_0000003
+human inosine 5'-monophosphate dehydrogenase 2 GO:0003938
+FCGR2A GO_0007166
+ERK1/2 GO_0006468
+purine receptors GO:0043113
+Heteromtoxin GO:0015976
+dopamine D4 receptors GO:0014046
+cytosolic PGES GO:0061725
+PRR GO:0038187
+mu1 channels GO:0022831
+2-cys peroxiredoxin GO:0032542
+Ala70Thr GO_0006783
+chemokines GO:0042466
+AMY(2(a)) GO_0006936
+steroid hormone receptor GO:0035929
+P2Y13 GO_0007186
+Val654Ala GO_0070536
+PTEN GO_0001933
+CysLt1 GO_0007218
+human cationic trypsinogen GO:0032023
+Somatostatin GO:0070253
+serine and cysteine proteases GO:0008236
+CDKN2B GO_0000079
+aldo-keto reductase (AKR) 1C1 GO:0004033
+human MDR1 GO_0006066
+IL-6 GO_0001781
+Mcl-1 GO_0034097
+BSA GO_0006357
+CGGGACACCC GO_0007204
+Glutathione peroxidases GO:1901370
+carbonic anhydrase GO:0004089
+Gag GO_0042981
+somatostatin receptor GO:0070253
+5-HT5 GO_0007187
+p-21 activated kinase-1 GO:0004707
+phosphor c-Jun GO:0007258
+β-Amyloid GO_0007189
+TMEM70 GO_0033615
+OSCAR GO_0030316
+35-kDa glycoprotein GO:0008559
+mGlu3 GO_0007216
+GPx1 GO_0006749
+glutathione S-transferase placental form GO:0004364
+Vesicular monoamine transporter 1 GO:0015844
+UPR GO_0006222
+Snca GO_0001921
+MAO type B GO_0032310
+G protein-coupled P2Y receptors GO:0007186
+torafugu PPARalphas GO_0016045
+S100A4 GO_0043123
+acyl-CoA synthetase 4 GO:0004467
+activator of G protein signaling 3 GO:0010737
+ACBD3 GO_0006694
+R4Q GO_0007186
+c.154A>C GO_0032464
+BACE-1 GO_0000122
+activated factor IX GO:0002542
+Renal renin GO:0003092
+Cdc25c GO_0000086
+SCN GO_0051480
+hyaluronan-binding motif GO:0005540
+aromatic L-amino acid decarboxylase GO:0015801
+Cyp2a4 GO_0006082
+bikunin GO_0007060
+endocytic receptors GO:0006898
+AT1 receptors GO:0005052
+alpha(1a)-, alpha(1b)- and alpha(1d)-adrenoceptors GO:0004936
+inducible NO synthase GO:0044673
+Na,K-ATPase GO:0005391
+solute carrier family 2 (facilitated glucose transporter), member 2 GO:0005351
+phospholipid hydroperoxide GPx GO:0055091
+PR GO_0034765
+guanine nucleotide-binding protein (G-protein)-coupled receptor GO:0002031
+nephroblastoma overexpressed GO:0007406
+CT receptor GO:0043113
+alpha 2B- (and alpha 2C)-adrenoceptor GO:0004936
+CTR1 GO_0006878
+neural cell adhesion molecule GO:0007158
+hERG GO_0035690
+AST GO_0015739
+glycosylated hemoglobin GO:0005833
+rat and human 5-hydroxytryptamine receptor GO:0031830
+ATF4 GO_0031667
+alpha-spectrin GO_0070244
+MRP2 GO_0007130
+CIP1 GO_0006884
+Flt3 GO_0030097
+rat 5-HT1B GO_0007198
+interleukin-8 GO:0032637
+Kainate receptors GO:0010011
+ABC GO_0006357
+dihydroorotate dehydrogenase GO:0017113
+FSH GO_0007186
+hTRPM8 GO_0120162
+human leukotriene A(4) hydrolase GO:0004463
+TEC GO_0007229
+interferon-alpha2a GO:0032607
+FMO1-5 GO_0006082
+high density lipoprotein GO:0034380
+muscarinic receptor GO:0043113
+ETV6 GO_0000122
+collagenase GO_0010951
+Microsomal Prostaglandin E Synthase-1 GO:0047017
+Mouse brain serine racemase GO:0018365
+D5D GO_0006636
+Adenosine receptor GO:0032238
+phosphodiesterase-4 GO:0008081
+alpha4-containing nicotinic acetylcholine receptors GO:0022848
+Drebrin GO_0002032
+metalloenzyme GO:0140384
+α7 receptors GO:0004930
+5'-nucleotidase GO_0006487
+pertussis toxin GO_0007155
+PEPT2 GO_0140206
+pancreatic lipase GO:0004530
+A-type natriuretic peptide GO:0030651
+Foxp3 GO_0001818
+a29809g GO_0061136
+Thr670Ile GO_0002718
+CCSD1 GO_0045892
+plasma protease GO:0043248
+Ala302-->Ser GO_0006605
+matrix metalloproteinase GO:1990773
+PFYAVKC GO_0006955
+apoptosis signal-regulating kinase 1 GO:0023056
+beta(2)-adrenoceptor GO:0004939
+class III RTK GO:0004638
+phospho-Histone H3 GO:0035408
+Extracellular loop 3 GO:0006858
+Atp8a1 GO_0140331
+pyridox(am)ine phosphate oxidase GO:0004733
+(CT((a))) GO_0010951
+PDE7 GO_0007165
+endothelin-1 GO_0030433
+KATP channels GO:0016286
+monoamine oxidase GO:0004503
+p-AKT GO_0001934
+von Hippel-Lindau GO:0035805
+Nox4 GO_0006801
+TK GO_0018108
+liver nuclear receptors GO:0004879
+mammalian GP GO_0006654
+prohormone convertase-processing enzymes GO:1901259
+SHP GO_0007623
+desipramine and cocaine binding sites GO:0038101
+protein kinase A regulatory subunit 1α GO:0010738
+factor XI GO_0006355
+HSPA8 GO_0042026
+mineralocorticoid receptor GO:0035931
+alpha 1 receptors GO:0032281
+sigma1 receptors GO:0006509
+GnRH-II GO_0018279
+TH receptor GO:0004930
+adenosine A1 receptor GO:0032238
+glucagon receptor GO:0070091
+low-affinity monocarboxylate transporter GO:0015718
+cox-2 GO_0006123
+5-HT receptor GO:0004993
+EP receptors GO:0001609
+NF-M GO_0033693
+arginine/lysine transporter GO:0031460
+VEGFR2 GO_0001934
+tyrosine kinases GO_0000070
+5-HT(2) GO_0001819
+Cannabinoid CB1 receptors GO:0004949
+KCC3 GO_0006811
+pyruvate dehydrogenase complex GO:0010257
+KEAP1 GO_0006511
+BAAT GO_0002152
+Pitx3 GO_0002088
+Galpha(i) GO_0030032
+BH3 cleft GO:0030992
+vitamin K epoxide reductase complex 1 GO:0047057
+yeast kex2 GO_0007218
+Ppp3ca GO_0006470
+RNA-induced silencing complex GO:0016442
+protein tyrosine phosphatase 1B GO:0007260
+NOV GO_0000122
+anion channel GO:0044325
+NBF1 GO_0006631
+COX2 GO_0001516
+B-cell lymphoma 2 GO:0001782
+human DHFR GO_0001916
+A1 and A2 receptors GO:0030370
+GAD67 GO_0007268
+MAPK-activated protein kinases 2 and 3 GO:0042313
+MAPKAPK2/3 GO_0018105
+Carboxylesterase-2 GO:0052689
+ATP-gated P2X3 receptors GO:0001621
+A2m GO_0001869
+ATP-sensitive K+ channels GO:0008282
+JAK GO_0038110
+p75(ICD) GO_0001817
+P2Y11 GO_0007186
+interferon-γ GO:0005133
+peroxisome proliferator-activated receptor (PPAR)-alpha GO:0035357
+HDAC GO_0000122
+acyl-coenzyme A (CoA) oxidase GO:0003997
+NIS GO_1904200
+vasopressin GO_0010951
+cycloxygenase-2 GO:0019371
+cannabinoid receptors GO:0004949
+human TLR7 GO_0071475
+HIF-1alpha GO_0000302
+Prx1 GO_0006811
+calcitonin gene-related peptide GO:1990408
+NK-1R GO_0005975
+aldosterone synthase GO:1904044
+CCK-A receptor GO:0004951
+GPx2 GO_0006979
+V-ATPase a3 GO_0042776
+angiotensin II (AII) type 1 (AT(1)) receptor GO:0031702
+hNaDC-3 GO_0071422
+dopamine D2 and serotonin 5-HT2 receptor GO:0031821
+ERbeta GO_0006355
+Catalase GO_0001676
+immunoglobulin GO:0003823
+endothelial NO synthase GO:0051767
+cyclin-dependent protein kinase inhibitor GO:0004861
+Cyp2D6 GO_0008210
+IL-13 GO_1903660
+hrChTAAR1 GO_0007186
+AKR1A1 GO_0044597
+phospholamban (1-36) GO_0007611
+cAMP-specific PDE4 GO:0031319
+Rho GO_0030032
+pyridoxal kinase GO:0042821
+cysteinyl leukotriene (CysLT) receptor GO:0031745
+GLP-1 receptor GO:0001635
+urokinase plasminogen activator receptor GO:0030377
+human alpha4 or beta2 neuronal nicotinic acetylcholine receptor GO:0005892
+bile acid-CoA:amino acid N-acyltransferase GO:0047963
+leucine aminopeptidase GO:0050365
+human platelet antigen-1 GO:0030168
+peroxisome proliferator-activated receptors GO:0035357
+IFNalpha(2a) GO_0006469
+Phospholipase C beta GO:0007202
+metal-responsive transcription factor-1 GO:0140297
+Ile24Val GO_0006915
+ETA receptors GO:0042654
+Slc39a8 GO_0006882
+Pepsin GO_0007186
+PAP7 GO_0006694
+C776G GO_0007130
+mGluR8 GO_0007193
+alpha-mating factor-converting enzyme GO:0015937
+BuChE GO_0050783
+constitutive receptor GO:0045054
+COX-1 GO_0006123
+LFA-1 alpha-chain GO_0006955
+17beta-hydroxysteroid dehydrogenase-7 GO:0030283
+p75NTR GO_0007266
+Leucyl-tRNA synthetase GO:0004823
+BrBK1-8 GO_0010592
+Br-Phe GO_0002092
+apoA-I GO_0006641
+class III metabotropic glutamate receptor GO:0001639
+cyclooxygenases GO:0019371
+STE20 kinases GO_0010564
+CD87 GO_0043388
+DC-STAMP GO_0071353
+COX-1 and -2 GO_0006629
+NEP GO_0006508
+M2-pyruvate kinase GO:0042866
+GAD65 GO_0007268
+Disrupted-In-Schizophrenia-1 GO:0048311
+human lung alcohol and aldehyde dehydrogenases GO:0050061
+specificity protein GO:0030908
+LIVER X RECEPTORS GO:0016933
+HER3 GO_0007162
+toll-like receptor 4 GO:0005121
+C5 GO_0010575
+mGlu GO_0007186
+tyrosine hydroxylase GO:0018336
+AR GO_0071475
+Beta1 adrenergic receptor GO:0071875
+beta2-integrins GO:0045114
+SERAC1 GO_0032367
+FpA GO_0018343
+mu opiate receptor GO:0032281
+IL-12/23p40 GO_0042509
+chloride channel GO:0031404
+arsenic methyltransferase GO:0000773
+topoisomerase IIβ GO:0003918
+HP1α GO_0045892
+alpha(1B)-adrenoceptor GO:0004936
+tBid GO_0001836
+high-density lipoprotein GO:0034380
+interleukin-1β GO:0019955
+Alcohol dehydrogenase GO:0004022
+MOR GO_0001558
+NAD(P)H:quinone oxidoreductase GO:0003955
+VGlut1 GO_0006820
+Baat GO_0002152
+kynureninase GO:0070189
+ferritinH GO_0007155
+cAMP regulatory element-binding protein GO:0035103
+SNAT1 GO_0015844
+interleukin 6 GO:0032635
+rat liver squalene epoxidase GO:0004506
+XBP GO_0002639
+mGlu1 GO_0007186
+GC box GO_0045663
+NADH-putidaredoxin-putidaredoxin reductase GO:0015039
+androgen receptor GO:0035935
+FMO5 GO_0017144
+carbohydrate antigen (CA) 19.9 GO:0016051
+protease-activated receptor (PAR)1 GO:0001648
+beta-lactamase GO:0008800
+anterior gradient-2 GO:0035288
+prion protein GO:0018342
+Sgk GO_0018105
+DAT GO_0015844
+PCP GO_0003085
+mkp3 GO_0071805
+Relaxin GO_0007411
+Opioid receptors GO:0001626
+human androgen receptors GO:0030521
+GSTs GO_0006693
+CD14 GO_0032760
+LeuRS GO_0006429
+glucose-6-phosphatase GO:0015760
+peroxisome proliferator-activated receptor (PPAR)γ GO:0035357
+M1766L GO_0010730
+serine hydroxymethyltransferase GO:0004372
+FAAH GO_0046513
+cytochrome P-450 GO:0008386
+mARC GO_0007010
+glycosylated haemoglobin GO:0005833
+EP1 GO_0006954
+histamine H1-receptor GO:0001821
+CT (calcitonin) receptor GO:0036161
+kappa-opioid receptors GO:0038048
+Janus kinase 3 GO:0004715
+Flt3 receptor tyrosine kinase GO:0001571
+CREB-binding protein GO:0017007
+p44/42MAPK GO_0035556
+Ig module I GO:0036038
+Oprk1 GO_0006955
+osteoprotegerin GO:0140368
+Ig module I or the IIIb and IIIc GO:0034046
+farnesoid x receptor GO:0005049
+DNAJC19 GO_0007601
+IL-18 GO_0001525
+sulfatase GO:0003943
+HbA(1c) GO_0090630
+PRODH GO_0010942
+nicotinic acetylcholine receptors GO:0006581
+Zrt-, Irt-related protein 8 GO:0004167
+retinoic acid receptors GO:0032526
+cystathionine-beta-synthase GO:1904041
+nuclear pregnane X receptor GO:0051457
+α7 receptor GO:0004930
+5-HT(2A) GO_0001819
+biogenic amine transporters GO:0015698
+tumor necrosis factor-α GO:0032640
+Paraoxonase1 GO_0006302
+Ataxia telangiectasia-mutated and Rad3-related GO:0014733
+5-HT(1B) GO_0001819
+human and hamster LDH-X GO:0004617
+hamster LDH-X GO_0034505
+Camk2a GO_0006468
+Melanocortin GO_0007602
+Bcr GO_0090630
+Pcsk2 GO_0006508
+VMAT-2 GO_0018009
+PutA GO_0070244
+C1-tetrahydrofolate interconverting enzymes GO:0035999
+prostaglandin E synthase GO:0034695
+mouse AGO2-RISC GO:0070922
+protease GO_0034213
+receptor tyrosine kinases GO:0001571
+aminopeptidase GO:0001519
+oxLDL GO_0045948
+nicotinic receptor GO:0043113
+FVIII GO_0007597
+FV GO_0006357
+CAT GO_0042744
+cannabinoid receptor GO:0004949
+Creatine phosphokinase MB GO:0004111
+TLR7 GO_0007252
+Nicotinic-receptor GO:0043113
+phosphoprotein phosphatase 2A GO:0043666
+Pertussis toxin GO_0007155
+photoreceptor GO:0010117
+Egr-1 GO_0007411
+bacteriorhodopsin GO:0016063
+aminopeptidase B GO:0045148
+KIT GO_0002551
+calcium-binding domains GO:1901876
+extracellular signal-regulated kinase1/2 GO:0004707
+Sp1 GO_0006355
+TR GO_0007004
+TH receptor-β GO:0004930
+Mesobuthus tamulus phospholipase A(2) GO:0032430
+prostacyclin (PGI2) synthase GO:0008116
+protein kinase A GO:0018293
+PI3 kinase GO_0010564
+G protein GO_0048023
+retinoic acid binding protein GO:0002138
+MS GO_0043545
+Ankyrin GO_0090502
+myristolated PKA inhibitory peptide GO:0018028
+alpha 1A-adrenoceptors GO:0004936
+troponin complex GO:0097180
+ribonucleotide reductase large subunit GO:0005971
+Steroid receptor coactivator 1 GO:0003707
+collagen GO_0010951
+inward rectifier K+ channel GO:0008282
+VMAT2 GO_0015842
+dipeptidyl peptidase 4 GO:0050568
+type I GnRHR GO:0045352
+MalP GO_0019731
+GRP78 GO_0042149
+sodium channel GO:0015280
+CII GO_0038166
+GPx3 GO_0042744
+FLAP GO_0019370
+Chat GO_0007274
+fatty acid amide hydrolase GO:0080132
+phosphoinositide 3-kinase GO:0005942
+H363Y GO_0016567
+COX1 GO_0019371
+LD GO_0010467
+hydrophobic alpha-helical domain GO:1901821
+hormone-binding domain GO:0089719
+Cav1.2 GO_0007204
+Cyp11a1 GO:0008386
+Flt3 juxtamembrane domain GO:0005886
+transmembrane domain GO:0022406
+mitochondrial respiratory chain complex I GO:0032981
+bile salt export pump GO:0030001
+ABL GO_0009306
+Flk2 GO_0030097
+MAO-B GO_0032310
+ALDH1A1 GO_0030392
+organic anion transporter(s) GO:0015711
+factor VIII A1 domain GO:0002542
+alpha(2A)-adrenoceptors GO:0004936
+porcine DPP-IV GO:0015677
+Pgp GO_0006508
+IFNAR1 GO_0060337
+GLU(K5) GO_0035249
+Aβ GO_0071475
+R229W GO_0007186
+PPARγ GO_0000122
+b5R GO_0007165
+5-HT(3/4)-receptor GO:0004993
+Ig module III GO:0036038
+DR5 GO_0034976
+Aurora B GO_0006968
+type II collagen GO:0030934
+steroidogenic acute regulatory protein GO:0050708
+alanine transaminase GO:0032328
+3 beta-Hydroxy-5-ene-steroid dehydrogenase GO:0030283
+NAG GO_0000956
+MCT GO_0015718
+FMO2 GO_0042737
+estrogen receptor subtypes alpha and beta GO:0031785
+calnexin GO_0030195
+N/OFQ GO_0006412
+alpha2A- and alpha2B-adrenoceptors GO:0004938
+heat shock factor GO:0006986
+GLUT-4 GO_0065003
+ACAT2 GO_0008203
+t-PA GO_0045893
+NHR GO_0016339
+KATP-channel GO:0016286
+D34A GO_0001894
+Lys27Gln GO_0006631
+cAMP-dependent protein kinase GO:2000479
+MCP-1 GO_0002548
+T-type Ca2+ channels GO:0008332
+osteopontin GO_0043086
+histamine-H1 receptor GO:0001821
+respiratory chain complex GO:0008535
+CYP2C19 GO_0016098
+L-PK GO_0006468
+Anks1b GO_0048013
+CCK GO_0001764
+GCN2 GO_0010998
+AngII GO_0007166
+ApoA-I GO_0006641
+corticosteroid-binding globulin GO:0051424
+transcobalamin II GO:0034204
+CD122 GO_0019221
+ACAT GO_0008203
+A3 domain GO:0031208
+ornithine decarboxylase GO:0033056
+choline-binding site GO:0036127
+HIV integrase GO:0051325
+somatostatinergic receptor GO:0070253
+beta-adrenoceptor GO:0004939
+neurotensin NT1 GO_0045745
+VDR GO_0000122
+human thrombin GO:0009088
+hBAAT GO_0002152
+human 5-HT1E GO_0007198
+CB2 GO_0007189
+G-protein GO_0048023
+A1-A2-B-A3-C1-C2 GO_0006457
+rat CYP1A1/2, 2A1/2, 2B1, 2C6/11/13, 2D1/2/4/18, 2E1, 3A2 GO:0018833
+FMO6 GO_0006082
+BSEP GO_0008206
+5-HT1D GO_0007193
+5-HT autoreceptor GO:0004993
+IgG1 C(H)2 domain GO:0045121
+human CES1 GO_0006695
+galanin receptors GO:0031763
+HIV-protease GO_0006508
+wnk8 GO_0035330
+Kaposi's sarcoma-derived fibroblast growth factor GO:0071774
+steroid hormone receptors GO:0035929
+SP GO_0018149
+human erythrocyte CA I GO:0034101
+TIMP1 GO_0008284
+thrombin GO_0006325
+nAChR GO:0022848
+vascular endothelial growth factor GO:0005172
+Thioredoxin GO:0015038
+A > G GO_0007076
+Calnexin GO_0030195
+human Panx1 GO_0016042
+ANXA7 GO_0006914
+Alpha-2 adrenoceptor GO:0004936
+Insulin-degrading enzyme GO:1901143
+beta adrenergic receptor GO:0071875
+GPCRs GO_0007193
+cyclic AMP regulatory element-binding protein GO:0035103
+delta-5 and delta-6 desaturases GO:0016213
+growth hormone GO:0005131
+β-lactoglobulin GO:0010287
+DCK GO_0006220
+CD3 GO_0002765
+threonine-to-alanine GO:0010446
+histamine H4 receptor GO:0001821
+hyaluronan binding proteins GO:0030213
+SGK1 GO_0018105
+BrBK2-9 GO_0006468
+-1639 G>A GO_0009615
+S-100 protein GO_0048023
+neurokinin-1 receptor GO:0031834
+death receptor 5 GO:0042654
+FCGR3B GO_0007166
+Thyroid hormone receptor GO:0035929
+SLC22A4 GO_0015697
+Sodium channel GO:0015280
+Chrna4 GO_0001666
+mouse and human SCD-1 gene promoter GO:0001046
+corticotropin GO:0051458
+Rag2 GO_0002331
+dopamine D2 receptor GO:0014046
+tumor necrosis factor alpha GO:0032640
+dp5 GO_0031334
+GluR5 GO_0035249
+Mrp4 GO_0032310
+HIF-1 GO_0010569
+deoxycytidine kinase GO:0006237
+cysteinyl-aspartate specific protease-1 GO:0016929
+alpha 2A-adrenoceptor GO:0004936
+serum amyloid A GO:0106003
+LeuRSs GO_0006429
+Src homology 2 domains GO:0035500
+complement receptor type 1 GO:1990851
+SXHK GO_0005975
+serum transaminase GO:0003810
+Angiotensin-converting enzyme GO:0002035
+NADH cytochrome b(5) reductase GO:0004128
+CK GO:0004111
+MEKK1 GO_0071260
+5-HT(3) GO_0006477
+BAT GO_0002152
+nuclear gene transcription factors GO:0009300
+Opioid receptor GO:0001626
+adenine phosphoribosyltransferase GO:0003999
+rTRPV3 GO_0042636
+CAs GO_0006606
+CD86 GO_0002639
+COP9 signalosome GO:0010387
+gamma-aminobutyric acid receptor GO:0014051
+Ptx GO_0000012
+polymorphic retinoic acid (RA) response elements GO:0042573
+inositol monophosphatase GO:0033271
+mammalian target of rapamycin GO:0038201
+p38 GO_0035556
+KCC1 GO_0140157
+Interluekin-8 GO:0019955
+estrogen response element GO:0043627
+C(Long mono) neoepitope GO:0035849
+human renal sodium dicarboxylate cotransporter GO:0017153
+NFE2L1 GO_0006357
+Fc gamma R GO_0043536
+protein kinase GO:0018293
+human CYP2D6 GO_0008210
+p21 GO_0010629
+endothelin type A (ET(A))-selective receptor GO:0004962
+AKR1A1, 1B1, 1B10, 1C1, 1C2, and 1C3 GO:0030896
+Mrp2 GO_0007130
+5-LO GO_0019370
+Tau GO_0000226
+Serine and Cysteine Protease GO:0008236
+Aurora A GO_0006355
+CYP3A7 GO_0002933
+Chk1/2 GO_0000077
+fibrinopeptide A GO:0001519
+5-HT7 GO_0007187
+thioether S-methyltransferase GO:0004790
+GM1 domain GO:0045121
+alpha(1)-adrenoceptor GO:0004936
+Bcl-XL GO_0001836
+phosphatidylinositol 3-kinases GO:0014065
+IL-2R GO:0004911
+myosin motor domain GO:1901121
+Substance P (SP) receptor GO:1990772
+polysialylated NCAM GO:0043629
+phosphorylated-p38 GO:0006192
+CYP2C8 GO_0002933
+CYP2B6 GO_0006805
+factor V GO:0039713
+Serotonin 5-HT(4) receptors GO:1904602
+L-type pyruvate kinase GO:0008986
+SHP-1 GO_0006470
+RRM2 GO_0009263
+ADH1 GO_0006069
+Asbs GO_0001666
+INS GO_0001819
+AII GO_0032088
+RISCs GO_0007264
+beta 1-adrenergic receptor GO:0071875
+glucose-6-phosphate dehydrogenase GO:0004345
+aldehyde oxidase GO:0008753
+Cat-1 GO_0015807
+activating protein-1 GO:0006473
+ornithine carbamoyltransferase GO:0004585
+transporters GO:0006810
+Aromatase GO_0006710
+tyrosine and serine/threonine kinases GO:0004712
+MAO-A GO_0046626
+human SCD-1 GO_0071320
+anticholinesterase GO:0004104
+Ago2-RISC GO_0043087
+RAMP3 GO_0001921
+histone H3 GO:0034970
+Histone 3 GO:0034970
+gonadotrophin-releasing hormone (GnRH) receptor GO:0031530
+cRGD GO_0034614
+ABCG GO_0008203
+CBS GO_0006563
+cholinesterase GO:0015871
+hRRM2 GO_0009263
+RNAP LS GO_0006508
+prostaglandin endoperoxide (PGH) synthase GO:0060584
+phosphotyrosine phosphatase GO:0004725
+bile acid coenzyme A:amino acid N-acyltransferase GO:0047963
+Krox20 GO_0045944
+T315I GO_0007155
+Nav1.5 GO_0006814
+SLC1 GO_0007218
+calmodulin GO_0006913
+I(1)-imidazoline receptors GO:0031702
+butrylcholinesterase GO:0004104
+NMDA GO_0016477
+Thrombin GO_0006325
+casein GO_0000122
+neurotensin NT2 receptors GO:0031846
+PDGFRB, GO_0007165
+glutamic acid decarboxylase-67 GO:0017187
+human glucocorticoid receptor GO:0035933
+PS flippase GO:0045332
+Ctr1 GO_0006878
+Mouse KIM-1 GO_0045880
+κ-opioid receptor GO:0001626
+IL-2 GO_0002366
+Na,K-ATPase beta GO:0140358
+cardiac ion channels GO:0003207
+N-methyl-D-aspartate (NMDA)-type receptors GO:0097114
+S70E GO_0006396
+acetyl-CoA carboxylase-2 GO:0046356
+amyloid fibrils GO:1990000
+myosin-18Aα GO_0030155
+c-Kit GO_0002551
+human b5R GO_0009653
+NK1-R GO_0007204
+GST-α GO_0007186
+human high affinity copper transporter GO:0098705
+novel organic cation transporters 1 and 2 GO:0015695
+Galpha(i3) GO_0006413
+SOCS box GO_0042532
+thyroid hormone receptors GO:0097066
+PPARα/β/γ GO_0000122
+eIF2alpha GO_0008543
+FXR GO_0006357
+interleukin (IL)-2 GO:0032629
+GLUT4 GO_0032869
+p53 GO_0006355
+methionine synthase GO:1904640
+NIS promoter GO:0001109
+NRF2 GO_0010499
+peptidyl-prolyl cis/trans-isomerase A1 GO:0003755
+DRD3 promoter GO:0008559
+lipoprotein GO:0017038
+MOG35-55 GO_0006915
+unfolded protein response GO:0006986
+beta2-adrenergic receptor GO:0071875
+GSTO1-1 GO_0006749
+OCTN1 GO_0015697
+CD25 GO_0000738
+fungal complex IV assembly factor GO:1905635
+β-catenin GO_0032088
+metallothionein GO_0008284
+GnRHRs GO_0007186
+Cyp17a1 GO_0008202
+betaAR GO_0006974
+alpha(2)-adrenoceptor GO:0004936
+KGDHC GO_0009051
+PutA PRODH domain GO:0071954
+78-kDa glucose-regulated protein GO:2000970
+HMG-CoA GO_0050821
+MUYTH GO_0006284
+I alpha I GO_0002250
+Gr GO_0000122
+TLR2 GO_0001775
+short OATP2B1 GO_0015711
+CD2 GO_0032729
+beta-amyloid peptide GO:1904645
+5-HT(1B/1D) GO_0001819
+Galanin GO_0010737
+coagulation factor V GO:0050817
+alpha 1-adrenoceptors GO:0004936
+COX-2 GO_0006123
+KDEL motif GO_0042908
+Ras homologous A protein GO:0035825
+cytosolic GPx GO:0016482
+sterol transporter GO:0015918
+prostate-specific membrane antigen GO:0036029
+FMO6P GO_0006469
+class B scavenger receptor GO:0005124
+TRPA1 GO_0051289
+connexins GO_0030195
+cytosolic cytochrome c GO:1903607
+FAK GO_0007179
+cat-1 GO_0015807
+Estrogen Receptor GO:0035937
+human serum albumin GO:0015690
+nerve growth factor GO:0032455
+signal transducer and activator of transcription GO:0097677
+NifU GO_0016226
+immunoglobulin-binding protein GO:0002377
+CAMK2G GO_0010975
+cdx2 GO_0000122
+KYNU GO_0019805
+Methionine aminopeptidase-2 GO:0004298
+5-LOs GO_0019370
+PSMA GO_0006508
+JNK GO_0006468
+Dl-like receptors GO:0005041
+pregnane X receptor GO:0008029
+TSH GO_0002764
+PTP1B GO_0030100
+Luteinizing hormone-releasing hormone GO:0032275
+tissue factor GO:0060033
+receptor activity modifying protein GO:0004930
+heat shock 70 kDa protein 8 GO:0006986
+neural NO synthase GO:0061751
+Superoxide dismutase 1 GO:0004784
+11β-hydroxysteroid dehydrogenase 1 GO:0003845
+GluA2 GO_0035235
+VEGF-A GO_0000122
+erythropoietin receptor GO:0036017
+Human High Affinity Cu Transporter GO:0009674
+proprotein convertase subtilisin/kexin type 2 GO:0032481
+FGF-7 GO_0001934
+vimentin GO:0045098
+LCAT GO_0006644
+CD35 GO_0001971
+beta(1)-adrenoceptors GO:0004939
+EC 4.2.1.1 GO:0000824
+TNF-alpha GO_0000122
+NPC1 GO_0006486
+choline acetyltransferase GO:0004102
+CYPs GO_0006690
+PON1 GO_0010875
+Acetylcholinesterase GO:0051630
+PPARs GO_0006433
+SWI/SNF complex GO:0016514
+LDH-X GO_0005975
+glucose regulated protein 78kDa GO:2000970
+glutamate receptors GO:0014047
+SH3 domains GO:0045121
+adenosine receptor GO:0032238
+alpha-adrenoceptors GO:0004936
+TATA box GO_0007283
+Anti-Müllerian Hormone GO:1990262
+sigma-receptor GO:0006509
+phosphoinositide-3-kinase GO:0005942
+Oxidized LDL GO:0019674
+Lipoxygenase GO:0019372
+glucocorticoid type II receptor GO:0051384
+myrosinase GO:0010169
+NF-κB GO_0006355
+Human MTAP GO:0004806
+Proto-oncogene GO:0044295
+histones GO:0009888
+human thiazide-sensitive sodium chloride cotransporter GO:1905151
+glutaminase GO:0004359
+mGluR5 GO_0007216
+BK GO_0007162
+CK-MB GO:0004111
+pERK1/2 GO_0002429
+ALAS GO_0006783
+PECAM-1 GO_0008360
+Cynomolgus FMO6 GO:0000735
+platelet receptors GO:0000268
+Omega class GSTs GO:0045190
+CDA GO_0009972
+rCtr1 GO_0009301
+Slc6a4 GO_0009636
+trypsin GO_0000070
+cynomolgus FMO3 GO:0031422
+glycoprotein IIb/IIIa GO:0019031
+mGlu5-receptor GO:0004896
+human cytochrome P450 GO:0045328
+opioid receptor GO:0001626
+CD63 GO_0034613
+glutathione-S-transferase GO:0034635
+human polyamine oxidase GO:0052899
+GnRH-I GO_0000003
+platelet P2 receptors GO:0001621
+angiotensin-converting enzyme GO:0002035
+annexin 1 GO_0030195
+NOX-4 GO_0006357
+protein deacetylase GO:0006476
+GABA-gated chloride ion channel GO:0005247
+NFATc1 GO_0033173
+enkephalins GO_0009637
+HNF4α GO_0006357
+Nes GO_0000086
+type-1 copper binding site GO:1903136
+P2X(7)R GO_0006511
+muscarinic M2 receptors GO:0097113
+NaDC-3 GO_0071422
+calumenin GO_0000122
+SOCS GO_0046854
+monoacylglycerol lipase GO:0047372
+cPGES GO_0001516
+STK1 GO_0030097
+5-HT(4) GO_0007402
+mPGES-1 GO_0006364
+PAR GO_1990966
+KvLQT1 GO_0035690
+prostasin GO_0010907
+bone morphogenetic protein-2 GO:0061974
+FxxA interaction motif GO:0044403
+(COX)-2 GO_0006123
+11β-hydroxylase GO:0018685
+nuclear factor-kappaB GO:0051092
+beta-adrenergic G protein-coupled receptor GO:1990172
+beta2AR GO_0007263
+myosin-18A GO_0030155
+pyridoxal phosphate (PLP) binding domain GO:0042823
+gamma-aminobutyrate (GABA)-transaminase GO:0003867
+Erb2 GO_0007165
+G protein-coupled receptors GO:0007186
+Bhmt GO_0006577
+ALT GO:0004021
+mitAspAT GO_0006533
+Asb-9 GO_0016567
+transferrin GO_0030036
+heat shock-like protein GO:0017003
+nuclear factor (NF)-kB GO:0007097
+human alpha(1a)- and alpha(1b)-adrenoceptors GO:0004936
+PDZ domain GO:0045121
+N GO_0046718
+IL-17A GO_0032731
+fibrinogen GO:0005577
+thialysine acetyltransferase GO:0004468
+sarco/endoplasmic reticulum Ca(2+)-ATPase (SERCA) 2 GO:0005388
+RAR gamma GO_0043536
+IFN-γ GO_0002250
+natriuretic peptide GO:0001519
+Fc gamma receptors GO:0032281
+nuclear hormone receptors GO:0004879
+colonic myeloperoxidase GO:0004601
+cytochromes P450 GO:0019825
+Glucagon receptor GO:0070091
+sigma-2 receptors GO:0038193
+AKR1A1*2 GO_0044597
+ACTH GO_0032720
+Adenosine receptors GO:0032238
+sterol efflux pumps GO:1990281
+proteasome alpha-6 GO:0043248
+P430S GO_0001937
+KCC4 GO_0140157
+FMO4 GO_0042737
+uteroglobin GO:0005344
+Microsomal PGES1 GO:0016712
+granzyme B GO:0071613
+apolipoprotein A-I GO:0071828
+cyclooxygenase (COX)-2 GO:0018577

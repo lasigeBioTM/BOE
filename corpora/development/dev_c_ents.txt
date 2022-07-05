@@ -1,0 +1,3135 @@
+dfbp-o CHEBI:173072
+Aldo-keto CHEBI:51838
+NaCl CHEBI:26710
+ω-tertiary amine CHEBI:32876
+diphenyl ditelluride CHEBI:68648
+guanyl-5'-yl imidodiphosphate CHEBI:48497
+S-(1,1,2,2-tetrafluoroethyl)-L-cysteine CHEBI:38866
+Copper CHEBI:28694
+TMA CHEBI:60567
+cotinine CHEBI:68641
+NH2 CHEBI:16048
+polyethylene glycol CHEBI:46793
+polystyrene CHEBI:53276
+21-carboxy CHEBI:29436
+monomethylarsonate CHEBI:1018
+Noradrenaline CHEBI:18357
+pentaerythritol tetranitrate CHEBI:25879
+Amidoxime CHEBI:65234
+Ile CHEBI:30009
+[+] and [-]-Hup A CHEBI:178022
+EUDRAGIT E PO CHEBI:70167
+pThr CHEBI:73636
+polyplex CHEBI:38077
+BMS-354825 CHEBI:49375
+[(3)H] thymidine CHEBI:17748
+1,5-diarylpyrazoles CHEBI:148437
+Kainate CHEBI:156548
+phenol CHEBI:15882
+terbinafine CHEBI:9448
+microgrewiapines A-C CHEBI:169902
+ridogrel CHEBI:135542
+Pulsatilla saponin D CHEBI:66790
+rimonabant CHEBI:34967
+Alcohol CHEBI:30879
+aryl CHEBI:64459
+triamcinolone CHEBI:9667
+acetylcholine CHEBI:15355
+oxandrolone CHEBI:7820
+EMEND CHEBI:36380
+phenothiazines CHEBI:38093
+4-n-nonylphenol CHEBI:34440
+vitamin B12 CHEBI:176843
+Phenelzine CHEBI:8060
+NAN CHEBI:278547
+Boron CHEBI:27560
+SNP CHEBI:77702
+tetraiodomercurate CHEBI:36576
+budesonide CHEBI:3207
+DAPI CHEBI:51231
+benzotriazepine CHEBI:39097
+ecstasy CHEBI:1391
+BSO CHEBI:36341
+manumycin A CHEBI:29623
+[(14)C]halothane CHEBI:5615
+SFAs CHEBI:26607
+Glivec CHEBI:31690
+EFAs CHEBI:59549
+naloxone CHEBI:7459
+Cl(-) CHEBI:17996
+ethylene glycol tetraacetic acid CHEBI:30740
+ethane dimethanesulfonate CHEBI:131331
+AA CHEBI:72816
+putrescine CHEBI:17148
+nitic oxide CHEBI:16480
+TYR CHEBI:32766
+hydrochlorothiazide CHEBI:5778
+beta-phenylethylamine CHEBI:18397
+TFEC CHEBI:42330
+Denufosol tetrasodium CHEBI:34617
+ortho-carborane CHEBI:38279
+triclosan CHEBI:164200
+N-methyl-N'-nitro-N-nitrosoguanidine CHEBI:21759
+prostaglandin CHEBI:26333
+5'-N-ethyl-carboxamidoadenosine CHEBI:73284
+Ecstasy CHEBI:1391
+glucose CHEBI:17234
+S33084 CHEBI:136049
+Mepindolol CHEBI:135082
+l-tetrahydro-2-furoic acid CHEBI:174846
+all-trans retinoic acid CHEBI:15367
+ortho-carboranylphenoxyacetanilides CHEBI:46171
+[(dihydroindenyl)oxy] alkanoic acid CHEBI:62406
+atracurium CHEBI:2914
+degarelix CHEBI:135961
+catalpol CHEBI:69797
+AMN107 CHEBI:52172
+Serine CHEBI:17115
+Olopatadine hydrochloride CHEBI:31933
+puromycin CHEBI:17939
+(+)-cocaine CHEBI:27958
+sialic acid CHEBI:26667
+Ribonucleotide CHEBI:26561
+carboxylic acids CHEBI:33575
+spermidine CHEBI:16610
+N6-phenyladenosines CHEBI:175603
+CysLT CHEBI:32456
+mercury CHEBI:16170
+procaine CHEBI:8430
+Thr CHEBI:30013
+phosphatidylhomoserine CHEBI:18303
+Carbacyclin CHEBI:173208
+ZnF CHEBI:37254
+spironolactone CHEBI:9241
+ferric nitrilotriacetate CHEBI:132238
+2Cl- CHEBI:77327
+ketorolac tromethamine CHEBI:6130
+SNO CHEBI:50091
+terazosin CHEBI:9445
+Br-Phe5 CHEBI:73632
+C-9 CHEBI:90225
+pyrimidine nucleoside CHEBI:26440
+Rp-cAMPS CHEBI:84622
+paclitaxel CHEBI:45863
+bradykinin CHEBI:3165
+alpha-cyano-4-hydroxycinnamic acid CHEBI:64340
+deoxycholate CHEBI:23614
+Yohimbine CHEBI:10093
+piroxicam CHEBI:8249
+dodecylammonium bromide CHEBI:135977
+Cyclodiene CHEBI:135365
+α-ketoglutarate CHEBI:24329
+medrogestone CHEBI:135446
+morphine CHEBI:17303
+d-methamphetamine CHEBI:132297
+aurothioglucose CHEBI:2930
+Propranolol CHEBI:8499
+7-ketosterol CHEBI:64294
+CXM CHEBI:131918
+AgNO3 CHEBI:32130
+dimethyldiguanide CHEBI:6801
+GABA CHEBI:16865
+ammonia CHEBI:16134
+As(III) CHEBI:25051
+D 9 - tetrahydrocannabinol CHEBI:66964
+bupropion CHEBI:3219
+PMA CHEBI:37537
+Leukotrienes CHEBI:25029
+boceprevir CHEBI:68621
+H(2)S CHEBI:86652
+Adrenaline CHEBI:33568
+indolinones CHEBI:51625
+thyroid hormones CHEBI:60311
+Thyroid Hormone CHEBI:60311
+cilazapril CHEBI:3698
+chlorogenic acid CHEBI:16112
+Mg CHEBI:25107
+11beta-hydroxysteroid CHEBI:35346
+MgATP CHEBI:30617
+Theophylline CHEBI:28177
+S-alkyl CHEBI:62204
+amino CHEBI:46882
+SDS CHEBI:8984
+glutamine CHEBI:28300
+denufosol tetrasodium CHEBI:34617
+N5-methyltetrahydrofolate CHEBI:25345
+quinidine CHEBI:28593
+2-methylene-1,3-dioxepane CHEBI:180409
+LiAlH(4) CHEBI:20339
+BAY43-9006 CHEBI:34936
+terpenoids CHEBI:26873
+2-deoxy glucose CHEBI:15866
+ferulic acid CHEBI:17620
+Xeloda CHEBI:31348
+tocopherols CHEBI:27013
+Ezetimibe CHEBI:49040
+H-7 CHEBI:83438
+EDTA-bis(tyramide) CHEBI:65504
+Minocycline CHEBI:50694
+adenosine monophosphate CHEBI:16027
+lysophosphatidylserine CHEBI:68510
+dihydroorotate CHEBI:30867
+docosahexaenoic acid CHEBI:36005
+levosalbutamol CHEBI:8746
+leukotrienes CHEBI:25029
+HCl CHEBI:17883
+2',4'-difluoro(1,1'-biphenyl)-4-yloxy acetic acid CHEBI:176474
+triglycerides CHEBI:17855
+flumazenil CHEBI:5103
+osmium arene azo- and imino-pyridine CHEBI:132363
+7-OH-DPAT CHEBI:73364
+bosentan CHEBI:51450
+[3H]dihydroalprenolol CHEBI:30268
+6-gingerol CHEBI:81133
+sulfone CHEBI:35850
+nitrotyrosine CHEBI:86267
+epirubicin CHEBI:47898
+Endomorphin-1 CHEBI:80156
+cicaprost CHEBI:135578
+benzo(a)pyrene CHEBI:29865
+Substance P CHEBI:80308
+ICI 182,780 CHEBI:146447
+proparacaine CHEBI:8485
+NAD CHEBI:13389
+Glutaraldehyde CHEBI:64276
+hydroxyamidine CHEBI:15429
+Sesquiterpene Lactones CHEBI:37667
+DOX CHEBI:30623
+γ-glutamylcysteine CHEBI:24195
+IRON CHEBI:9607
+Rg1 CHEBI:67987
+mevalonate CHEBI:25350
+5'-phosphate CHEBI:18367
+methamphetamine CHEBI:6809
+9-fluorenol CHEBI:16904
+NE CHEBI:73824
+troleandomycin CHEBI:45735
+coenzyme A CHEBI:15346
+N-acetyl cysteine CHEBI:28939
+isotretinoin CHEBI:6067
+(S)-2-amino-3-(3-hydroxy-5-methyl-4-isoxazolyl)propionic acid CHEBI:180998
+poly(3,4-ethylenedioxythiophene) CHEBI:53228
+rimcazole CHEBI:38597
+urethane CHEBI:17967
+Pemetrexed disodium CHEBI:63722
+1-cinnamoyl-3,11-dihydroxymeliacarpin CHEBI:176652
+xanthostigmine CHEBI:18107
+fibrate CHEBI:3750
+borate CHEBI:22908
+3-methylglutaconic CHEBI:144330
+asiatic acid CHEBI:2873
+CO2 CHEBI:16526
+7-hydroxy CHEBI:29191
+ornithine CHEBI:18257
+8-phenyl CHEBI:17097
+2,3-dimercaptosuccinate CHEBI:38712
+zuclopenthixol CHEBI:51364
+[3H]methyltrienolone CHEBI:167840
+Hcys CHEBI:15356
+[3H]-clozapine CHEBI:3766
+folates CHEBI:67011
+Zn²⁺ CHEBI:37254
+9-phenantrol CHEBI:28820
+Minaprine CHEBI:51038
+DNP CHEBI:53018
+poly(ethylene glycol) CHEBI:46793
+BDZ CHEBI:6704
+Hup A CHEBI:78330
+carbonyl iron CHEBI:23019
+pterin CHEBI:26374
+inorganic phosphate CHEBI:24838
+sesquiterpene lactones CHEBI:37667
+ambrisentan CHEBI:135949
+methysergide CHEBI:584020
+PGD(2) CHEBI:65180
+HVA CHEBI:545959
+proline CHEBI:26271
+EPA CHEBI:28364
+furosemide CHEBI:47426
+(+)- and (-)-dimethindene CHEBI:135222
+iminium CHEBI:37116
+sorafenib CHEBI:50924
+carnitine CHEBI:17126
+deoxycholic acid CHEBI:28834
+butoxamine CHEBI:82648
+S-(2-(1-pyrroline)methyl)cysteine CHEBI:78856
+cisatracurium CHEBI:140621
+2'CMP CHEBI:60875
+2-cyanopyrrolidine CHEBI:27837
+EVn-50 CHEBI:32139
+1-pyrenol CHEBI:16019
+BPA CHEBI:33216
+N6 CHEBI:29450
+Fe-NTA CHEBI:119915
+α-methyltyrosine CHEBI:183335
+Allicin CHEBI:28411
+Testosterone CHEBI:17347
+2,2',4,5'-tetrabromodiphenyl ether CHEBI:81583
+Br-Phe CHEBI:73632
+5-hydroxytryptophan CHEBI:28171
+cysteinyl-aspartate CHEBI:174210
+angiotensin II CHEBI:48432
+glucose-1-phosphate CHEBI:21008
+S-1 CHEBI:60094
+IP1 CHEBI:176501
+FeMo CHEBI:36340
+Polybrominated diphenyl ethers CHEBI:134094
+FAs CHEBI:76181
+(2)H CHEBI:29237
+Ala CHEBI:46217
+Nilotinib CHEBI:52172
+guggulsterone CHEBI:135338
+choline CHEBI:15354
+2-[1-(3-dimethylaminopropyl)-1H-indol-3-yl]-3-(1H-indol-3-yl) maleimide CHEBI:41072
+MCI-826 CHEBI:66242
+d-tubocurarine CHEBI:9774
+ΔCor CHEBI:33010
+R,R-eformoterol CHEBI:63081
+Diacylglycerol CHEBI:18035
+La CHEBI:33336
+phosphoserine CHEBI:37712
+diethylstilbestrol CHEBI:41922
+T0070907 CHEBI:85324
+PGE2 CHEBI:15551
+ethyl CHEBI:62801
+Lamisil CHEBI:77614
+Leu CHEBI:30006
+DMAs CHEBI:80197
+(-)-petrosynoic acids A-D CHEBI:37655
+methyl CHEBI:29309
+tetrahydrobiopterin CHEBI:59560
+cystathionine CHEBI:17755
+carbachol CHEBI:3385
+Isoproterenol CHEBI:8747
+doxazosin CHEBI:4708
+14C CHEBI:36927
+α, β-unsaturated carbonyl CHEBI:9878
+hydroxysteroid CHEBI:35350
+OSI-774 CHEBI:53509
+pemetrexed disodium CHEBI:63722
+D-Serine CHEBI:16523
+4-ABP CHEBI:30616
+maleimide PEG CHEBI:16072
+S1611 CHEBI:172343
+haloalkene-derived cysteine S-conjugates CHEBI:133066
+imperatorin CHEBI:5885
+maleimide CHEBI:16072
+amitriptyline CHEBI:2666
+5'-MABN CHEBI:175944
+Asparagine CHEBI:22653
+17-β-estrodiol CHEBI:42156
+2',4'-difluoro(1,1'-biphenyl)-4-yl acetic acid CHEBI:176474
+Prostaglandin E CHEBI:26338
+hexahydro-1,3,5-trinitro-1,3,5-triazine CHEBI:24556
+PGE1 CHEBI:15544
+AdoMet CHEBI:67040
+DOC CHEBI:16973
+topiramate CHEBI:63631
+Zuclopenthixol CHEBI:51364
+Meta-hydroxyephedrine CHEBI:61137
+hydrogen CHEBI:49637
+acrolein CHEBI:15368
+isamoltane CHEBI:36480
+p-chlorophenylalanine CHEBI:43103
+glutamate CHEBI:29987
+HgCl2 CHEBI:31823
+Nabumetone CHEBI:7443
+7-ketostigmasterol CHEBI:28824
+scopolamine CHEBI:16794
+cysteinyl leukotriene CHEBI:173771
+triamcinolone acetonide CHEBI:71418
+ABT-288 CHEBI:62880
+Camptothecin CHEBI:27656
+2-(4-Chloro-2-cyano-2-phenylbutyl)aziridines CHEBI:108549
+SDZ ENA 713 CHEBI:64358
+polypeptide CHEBI:15841
+thiol CHEBI:29256
+Formoterol CHEBI:5147
+ceftazidime CHEBI:3508
+nomegestrol acetate CHEBI:135564
+ascorbic acid CHEBI:22652
+quartz CHEBI:46727
+alpha-ketobutyrate CHEBI:16763
+xylose CHEBI:18222
+glucosinolates CHEBI:24279
+XL184 CHEBI:72319
+Long-chain alkanols CHEBI:83563
+AMPA CHEBI:28812
+bezafibrate CHEBI:47612
+OH CHEBI:29191
+Moxifloxacin CHEBI:63611
+triethylenetetramine CHEBI:39501
+2-Cyanopyrrolidine CHEBI:27837
+S-((2-pyrrole)methyl)cysteine CHEBI:156209
+AG490 CHEBI:131968
+Me-(3)H(3) CHEBI:90282
+carprofen CHEBI:364453
+azaheterobicyclic CHEBI:48847
+5HT CHEBI:28790
+Zinc CHEBI:29105
+tricarboxylic acid CHEBI:27093
+SB365 CHEBI:68709
+prolyl CHEBI:32874
+5-hydroxytryptamines CHEBI:139217
+rolipram CHEBI:104872
+reduced/oxidized glutathione CHEBI:177535
+tamsulosin CHEBI:9398
+prostaglandin E CHEBI:26338
+trimethylamine CHEBI:18139
+Fc11a CHEBI:87147
+TES CHEBI:39035
+Cembranoids CHEBI:60689
+quinone CHEBI:36141
+tyramine CHEBI:15760
+[(3)H]glutamate CHEBI:29988
+3-aryl acrylic amide CHEBI:23246
+prednisone CHEBI:8382
+Norepinephrine CHEBI:18357
+MPP(+) CHEBI:641
+IP3 CHEBI:16595
+tretinoin CHEBI:15367
+dfbp CHEBI:185863
+furanopyrimidine CHEBI:46910
+donepezil CHEBI:53289
+cyclic imine CHEBI:59692
+Triton WR 1339 CHEBI:141517
+sulfite CHEBI:17359
+TO901317 CHEBI:63626
+methoxy CHEBI:32772
+U46619 CHEBI:189875
+sucrose CHEBI:17992
+curcuminoid CHEBI:3962
+abarelix CHEBI:337298
+fluphenazine CHEBI:5123
+MXF CHEBI:53467
+Acetylcholine CHEBI:15355
+Fenofibrate CHEBI:5001
+Captopril CHEBI:3380
+catechin CHEBI:23053
+SoRI-20041 CHEBI:91224
+potassium CHEBI:26216
+17-ketogenic steroids CHEBI:19168
+isoimperatorin CHEBI:66071
+TH CHEBI:73663
+guanidine CHEBI:42820
+EDS CHEBI:73454
+12-ketoendrin CHEBI:175573
+Paracetamol CHEBI:46195
+retinoic acid CHEBI:26536
+limonene CHEBI:15384
+organotin (IV) CHEBI:39292
+tricresyl phosphate CHEBI:45927
+U50, 488H CHEBI:73358
+oestrogen CHEBI:50114
+Isoprenaline CHEBI:64317
+carbonates CHEBI:23016
+U50,488 CHEBI:73358
+vitamin CHEBI:33229
+7-Hydroxy levomepromazine CHEBI:143422
+carglumic acid CHEBI:71028
+olmesartan medoxomil CHEBI:31932
+SR 48692 CHEBI:97313
+[125I]neurotensin CHEBI:147362
+cAMP CHEBI:17489
+vitamin K epoxide CHEBI:28371
+rhamnose CHEBI:26546
+leuprorelin CHEBI:35940
+alkylphenols CHEBI:39826
+C-H CHEBI:86654
+sunitinib CHEBI:38940
+eformoterol CHEBI:5147
+imidazolidinone CHEBI:55370
+GBR 12935 CHEBI:64093
+rocuronium CHEBI:8884
+LNA CHEBI:48010
+Curcuminoid CHEBI:3962
+BTU CHEBI:138415
+Metal-pernitride CHEBI:18407
+theophylline CHEBI:28177
+1,1'-methylenebis{4-hydroxyiminomethyl}pyridinium dimethanesulfonate CHEBI:39036
+rauwolscine CHEBI:48562
+Aspirin CHEBI:15365
+9,11-epoxy MF CHEBI:84023
+<sc>l</sc>-carnitine CHEBI:189712
+CNT CHEBI:50594
+D-Phe CHEBI:29996
+androgens CHEBI:50113
+thialysine CHEBI:497734
+Irbesartan CHEBI:5959
+diethylcarbamazine CHEBI:4527
+fluoride CHEBI:17051
+AtO(+) CHEBI:33250
+chenodeoxycholic acid CHEBI:16755
+sodium iodide CHEBI:33167
+branched-chain alpha-keto acid CHEBI:22918
+aminoglycoside CHEBI:47779
+eptifibatide CHEBI:291902
+RU 26988 CHEBI:92897
+Diethylcarbamazine CHEBI:4527
+temsirolimus CHEBI:79699
+sulfonylurea CHEBI:76983
+elzasonan N-oxide CHEBI:136457
+AMP CHEBI:456215
+sodium chloride CHEBI:26710
+rivastigmine CHEBI:8874
+progestins CHEBI:59826
+(+)-chlorpheniramine CHEBI:4464
+mexiletine CHEBI:6916
+o-coumaric acid CHEBI:23401
+Glutathione CHEBI:16856
+TCP CHEBI:33991
+phenolic acids CHEBI:166890
+D-amphetamine CHEBI:2679
+formyl-met-leu-phe CHEBI:159393
+Arformoterol CHEBI:408174
+trans-stilbenoid CHEBI:36007
+taxane CHEBI:36064
+copper(I) CHEBI:134069
+Bisphenol A CHEBI:33216
+Fe3O4 CHEBI:75832
+Vatalanib CHEBI:90620
+(+/-)-tamsulosin CHEBI:9398
+syringic acid CHEBI:68329
+cysteine S-conjugates CHEBI:72461
+(+)-phenserine CHEBI:8080
+Ziprasidone CHEBI:10119
+Methionine CHEBI:16811
+phosphorus CHEBI:35895
+Rifampicin CHEBI:28077
+Amino acid CHEBI:33704
+dapsone CHEBI:4325
+Mg2+ CHEBI:18420
+oxime CHEBI:25750
+phenols CHEBI:33853
+imidazole CHEBI:14434
+hydroxyurea CHEBI:44423
+terpenic acids CHEBI:156546
+berberine CHEBI:16118
+Heterocyclic and aromatic amine CHEBI:48847
+normorphine CHEBI:7633
+AMG 221 CHEBI:90724
+Fondaparinux sodium CHEBI:31632
+phenoxybenzamine CHEBI:8077
+3-nitrotyrosine CHEBI:86269
+ginsenoside Rg1 CHEBI:67987
+pyrazole CHEBI:14973
+lisuride CHEBI:51164
+ribonucleoside diphosphates CHEBI:17668
+malonyl coenzyme A CHEBI:37002
+platinum CHEBI:33364
+PGs CHEBI:187788
+(15)N CHEBI:36934
+tacrine CHEBI:45980
+4-methoxy-2-naphthylamide CHEBI:90422
+aphidicolin CHEBI:2766
+[(3)H]5-hydroxytryptamine CHEBI:139069
+thromboxane CHEBI:26995
+dimethylamine N-oxide CHEBI:131762
+(-)-trans-6,7,7a,8,9,13b-hexahydro-3-chloro-2-hydroxy-N-methyl-5H -benzo [d]naphtho-(2,1-b)azepine CHEBI:182220
+lathyrane diterpene CHEBI:85247
+halogen CHEBI:24473
+pemetrexed CHEBI:63616
+Emedastine CHEBI:4779
+Wy-14643 CHEBI:103299
+prostaglandin E(2) CHEBI:190308
+arginine vasotocin CHEBI:78364
+phorbol 12-myristate,13-acetate CHEBI:37537
+norepinephrine CHEBI:33569
+cholesterol oxides CHEBI:28164
+glycinamide ribonucleotide CHEBI:24367
+[(3)H]Prazosin CHEBI:8364
+[(3)H]DA CHEBI:37388
+nitrendipine CHEBI:7582
+Duloxetine CHEBI:36796
+microcystin CHEBI:48041
+caprolactam CHEBI:28579
+poly(ketal amidoamine) CHEBI:53199
+Retinoid CHEBI:26537
+LY293558 CHEBI:34809
+BRL 44408 CHEBI:141521
+sulfonamides CHEBI:35358
+His-(D-Trp)-Ala-Trp-(D-Phe)-Lys-NH(2,) CHEBI:73010
+MN2 CHEBI:34827
+ivermectin CHEBI:6078
+alpha-linolenic acid CHEBI:27432
+hexamethonium CHEBI:5700
+tetrahydrofolate CHEBI:67016
+[(3)H]norepinephrine CHEBI:134857
+SP600125 CHEBI:90695
+ganglioside CHEBI:28892
+Arava CHEBI:6402
+homovanillic acid CHEBI:545959
+pyruvic acid CHEBI:32816
+formaldehyde CHEBI:16842
+TiN2 CHEBI:37116
+BH(4) CHEBI:65488
+AOH CHEBI:64983
+Piceatannol CHEBI:28814
+DPN CHEBI:16998
+methoxyimino-aminothiazolyl cephalosporin CHEBI:7265
+nitrooxyalkyl ethers CHEBI:47988
+phentolamine CHEBI:8081
+Cocaine CHEBI:27958
+alkylphenones CHEBI:6657
+SU 11248 CHEBI:101116
+citrate CHEBI:50744
+ATP CHEBI:15422
+methyltetrahydrofolate CHEBI:25345
+Moclobemide CHEBI:83531
+prallethrin CHEBI:39391
+Naloxone CHEBI:7459
+8-[2-[4-(2-methoxyphenyl)-1-piperazinyl]ethyl]-8-azaspiro[4.5]decane-7,9-dione dihydrochloride CHEBI:92539
+sulforaphane CHEBI:47807
+AML CHEBI:30151
+N-[2-(4-hydroxy-2-isopropyl-5-methylphenoxy)ethyl]-N-methylaminom CHEBI:104210
+pyrazolo[1,5-a]pyrimidine CHEBI:50092
+Nitrogen oxides CHEBI:35196
+arylsulfone CHEBI:135651
+alkanol CHEBI:174508
+Pranlukast CHEBI:77572
+Phenols CHEBI:33853
+histamines CHEBI:18295
+benzo[d]imidazole CHEBI:36622
+Ramipril CHEBI:8774
+pyruvate CHEBI:15361
+dinitrophenol CHEBI:39352
+nitrogen CHEBI:25555
+arylhydroxylamine CHEBI:15429
+l-Met CHEBI:157837
+progesterone CHEBI:17026
+cyclic-AMP CHEBI:71578
+crocin CHEBI:64627
+EGTA CHEBI:30740
+microcystins CHEBI:48041
+FLX CHEBI:138164
+malondealdehyde CHEBI:566274
+RU486 CHEBI:50692
+mifepristone CHEBI:50692
+Somatostatin CHEBI:64628
+stilbene CHEBI:26775
+(-)-epicatechin-3-gallate CHEBI:65848
+Ibuprofen CHEBI:5855
+5'-[p-(fluorosulfonyl)benzoyl]adenosine CHEBI:136554
+Anastrazole CHEBI:2704
+melperone CHEBI:59331
+ATR CHEBI:15377
+BrBK1-8 CHEBI:52459
+nomifensine CHEBI:116225
+doxorubicin CHEBI:28748
+NSC-613009 CHEBI:101646
+cysteines CHEBI:15356
+lysophosphatidic acid CHEBI:132742
+Proline CHEBI:26271
+BELVIQ CHEBI:66852
+sulfasalazine CHEBI:9334
+histidine CHEBI:27570
+Phenylephrine CHEBI:8093
+zileuton CHEBI:10112
+DHPG CHEBI:1387
+bile acid CHEBI:3098
+docetaxel CHEBI:59809
+WGPTCDGL(I)D CHEBI:59463
+prostaglandin E2 CHEBI:15551
+sodium dodecylsulfate CHEBI:8984
+Quinidine CHEBI:28593
+GLA CHEBI:28661
+8-oxo-7'8-dihydro-2'-deoxyguanosine CHEBI:40304
+3-keto-5-ene-steroid CHEBI:47907
+xylosides CHEBI:27350
+GF 109203X CHEBI:79615
+moclobemide CHEBI:83531
+4-hydroxymethyl ambrisentan CHEBI:28649
+ibuprofen CHEBI:5855
+ANE CHEBI:52497
+5-mercapto-1,3,4-thiadiazoles CHEBI:144324
+ergosterol CHEBI:16933
+N-benzyl-5-(4-isopropylthiophenol)-2-hydroxyl nicotinamide CHEBI:107654
+ecteinascidin CHEBI:144298
+MF CHEBI:74708
+8-azido-[alpha-32P]ATP CHEBI:59291
+thiocholine CHEBI:69052
+LY 53857 CHEBI:94547
+RTV CHEBI:75193
+brefeldin A CHEBI:48080
+phosphatidylglycerol CHEBI:17517
+serotonin CHEBI:28790
+prostacyclin CHEBI:8525
+PEVKEK CHEBI:53370
+Fluoride CHEBI:17051
+lignan CHEBI:25036
+(+)-catechin CHEBI:15600
+cinnamic aldehyde CHEBI:80762
+gamma-thio-ATP CHEBI:27575
+kampferol CHEBI:28499
+Dichlorofluorescein CHEBI:51596
+Sinapic acid CHEBI:77131
+LTB(4) CHEBI:16978
+5-HIAA CHEBI:27823
+(+)-3-methoxy-N-methylmorphinan CHEBI:4470
+isorhamnetin-3-O-galactoside CHEBI:183365
+JTH-601 CHEBI:185787
+L-3,4-dihydroxyphenylalanine CHEBI:91038
+phorone CHEBI:35572
+fexofenadine CHEBI:5050
+fexofenadine hydrochloride CHEBI:5051
+LPA CHEBI:60815
+Reboxetine CHEBI:135342
+GM6001 CHEBI:137236
+GnRH CHEBI:5520
+Galantamine CHEBI:42944
+Quinone CHEBI:16509
+Ca CHEBI:22984
+MTX CHEBI:44185
+butylated hydroxytoluene CHEBI:34247
+2,4,4',-trichloro-2'-hydroxydiphenylether CHEBI:79725
+Jaspamide CHEBI:66104
+leucyl CHEBI:32630
+dibutyryl cyclic GMP CHEBI:50095
+Bricanyl CHEBI:29306
+heroin CHEBI:27808
+TFP CHEBI:73662
+SR 142948A CHEBI:177458
+PE CHEBI:17553
+anastrozole CHEBI:2704
+BLM CHEBI:73584
+N-Aryl pyrido-quinazolines CHEBI:59535
+RU24969 CHEBI:50692
+desmopressin CHEBI:4450
+telmisartan CHEBI:9434
+microgrewiapine A 3-acetate CHEBI:2414
+5'-AMN CHEBI:90724
+ETB CHEBI:4883
+Acetyl-coenzyme A CHEBI:57287
+4-n-[3H]propyl-4'-ethynylbicycloorthobenzoate CHEBI:32063
+BrBK1-7 CHEBI:40953
+S-adenosylhomocysteine CHEBI:16680
+eicosapentaenoic acid CHEBI:36006
+C-5 dicarboxylates glutarate CHEBI:83389
+N-((Naltrindol-5-yl) methyl) pentanimidamide CHEBI:171892
+carboxyl CHEBI:33100
+Cys-Se-Se-Cys CHEBI:161253
+SU5416 CHEBI:91083
+lopinavir CHEBI:31781
+[3H]-NA CHEBI:58349
+[(11)C]SCH23390 CHEBI:23870
+(-)-Galanthamine CHEBI:42944
+reserpine CHEBI:28487
+sulfur CHEBI:26833
+arabinose CHEBI:22599
+(+)-, (-)-, (+/-)-gossypol CHEBI:28584
+amine CHEBI:32952
+seroquel CHEBI:15889
+ketorolac CHEBI:6129
+[(3)H](-)-CP 55,940 CHEBI:71197
+xanthurenic acid CHEBI:10072
+spironoclactone CHEBI:9241
+malate CHEBI:25115
+Arsenic CHEBI:27563
+upamostat CHEBI:135632
+S-adenosylmethionine CHEBI:15414
+kampferol-3-glucoside CHEBI:189575
+[alpha-32P]GTP azidoanilide CHEBI:78571
+DEHP CHEBI:17747
+PBDE CHEBI:134094
+p-aminobenzyl carbamate CHEBI:60903
+irinotecan CHEBI:80630
+bitolterol CHEBI:3133
+serines CHEBI:17822
+jaceosidin CHEBI:66103
+cymserine CHEBI:15356
+toluidine blue CHEBI:87647
+3'-OH CHEBI:29234
+posiphen CHEBI:82068
+[3H]zacopride CHEBI:177586
+SU11248 CHEBI:87158
+fisetin CHEBI:42567
+tryptanthrins CHEBI:9768
+5H-pyrrolo[2,3-b]pyrazine-2-phenyl ethers CHEBI:92890
+W7 CHEBI:29954
+quercetin CHEBI:16243
+pindolol CHEBI:8214
+isoprenaline CHEBI:64317
+1,25(OH)2 vitamin D3 CHEBI:178593
+Chalcones CHEBI:23086
+aldehyde CHEBI:17478
+GF109203 CHEBI:90304
+[(14)C]chenodeoxycholic acid CHEBI:16755
+dimethylarsinic acid CHEBI:48765
+EM-1 CHEBI:141326
+gonadotrophin-releasing hormone CHEBI:80298
+diphenhydramine CHEBI:4636
+ADP CHEBI:16761
+atenolol CHEBI:2904
+Bevantolol CHEBI:238698
+SDZ 21-009 CHEBI:138502
+L-arginine CHEBI:16467
+thioacetamide CHEBI:32497
+dimethocaine CHEBI:135154
+cyclopropyl-substituted phenylalanine CHEBI:141841
+(+/-) ketorolac CHEBI:6129
+vapreotide CHEBI:29300
+amidoxime CHEBI:65234
+stilbenes CHEBI:26776
+jaspamide CHEBI:66104
+dextran sulphate sodium CHEBI:8389
+DBDCT CHEBI:16130
+pyridoxine CHEBI:16709
+folate CHEBI:62501
+delphinidin 3-O-sambubioside-5-O-glucoside CHEBI:138820
+Vecuronium CHEBI:9939
+melatonin CHEBI:16796
+quinazoline tyrosine CHEBI:38530
+Mifepristone CHEBI:50692
+α-Amino-α´-halomethylketones CHEBI:48243
+fluconozole CHEBI:46081
+leucine CHEBI:25017
+PS CHEBI:73648
+salsalate CHEBI:9014
+minaprine CHEBI:51038
+8-hydroxydeoxyguanosine CHEBI:90031
+poly((L)-lysine) CHEBI:17917
+Jaceosidin CHEBI:66103
+fluoxetine CHEBI:5118
+molybdenum CHEBI:28685
+ritanserin CHEBI:64195
+fentanyl CHEBI:119915
+quinacrine CHEBI:8711
+muscimol CHEBI:7035
+Cl- CHEBI:17996
+3-substituted 1,5-diarylpyrroles CHEBI:51392
+7-hydroxy-N,N-di-propyl-2-aminotetralin CHEBI:143266
+prostaglandin F2 alpha CHEBI:141586
+oxygen CHEBI:25805
+RGO CHEBI:132889
+phosphoenolpyruvate CHEBI:18021
+disodium 4,4'-diisothiocyanatostilbene-2,2'-disulfonate CHEBI:36511
+Sorafenib CHEBI:50924
+ENA CHEBI:51688
+ICYP CHEBI:38559
+Lys-Asp-Glu-Leu CHEBI:138514
+DAGs CHEBI:73350
+fenclozic acid CHEBI:7968
+CDM CHEBI:63214
+DCVC CHEBI:149636
+flunixin CHEBI:76138
+Doxorubicin hydrochloride CHEBI:31522
+dihydropyridine CHEBI:50075
+disulfide CHEBI:48343
+[( 125I] ICYP) CHEBI:31708
+Y27632 CHEBI:75393
+Viagra CHEBI:58987
+Angiotensin II CHEBI:2719
+(35)S CHEBI:37983
+cyclic AMP CHEBI:71578
+PUFAs CHEBI:26208
+Tetrahydrofolate CHEBI:15635
+3,4-Dehydro-l-proline CHEBI:20056
+1,2,2-trimethyl-propylmethylphosphonofluoridate CHEBI:75873
+TAA CHEBI:73654
+delta DHEA CHEBI:183415
+pyrido[4,3,2-mn]acridine CHEBI:90914
+[H]-thymidine CHEBI:17748
+yohimbine CHEBI:10093
+8-iso-prostane CHEBI:138408
+Indomethacin CHEBI:49662
+orciprenaline CHEBI:82719
+iron CHEBI:18248
+Sodium fluoride CHEBI:28741
+heptacosan-1-ol CHEBI:133981
+thyroid hormone CHEBI:60311
+gentamicin C CHEBI:75616
+dasatinib CHEBI:70839
+niflumic acid CHEBI:34888
+gamma-linoleic acid CHEBI:28661
+cysteine S-conjugate CHEBI:72461
+Mesalamine CHEBI:6775
+thymidylate CHEBI:188672
+GHRP-6 CHEBI:135890
+cnidilin CHEBI:81139
+buthanol CHEBI:3242
+Bacitracin CHEBI:28669
+Olopatadine CHEBI:7769
+β-ionone CHEBI:49248
+curcumin CHEBI:3962
+2-(2,6-dimethoxyphenoxyethyl)aminomethyl-1,4-benzodioxane CHEBI:109790
+GR32191 CHEBI:79845
+Citalopram CHEBI:3723
+ethanol CHEBI:16236
+Denufosol CHEBI:27791
+GTP CHEBI:15996
+di-hydroxybenzenes CHEBI:82475
+Doxorubicin CHEBI:28748
+imidazo[1,2-c]pyrimidine CHEBI:35874
+hydroxocobalamin CHEBI:27786
+endo- and exo-2-aminomethyl-4-phenyl-1-azabicyclo[2.2.1]heptanes CHEBI:85716
+progestogens CHEBI:50745
+WB-4101 CHEBI:64098
+Gpp(NH)p CHEBI:78408
+Hg CHEBI:16170
+ursolic CHEBI:176139
+ketoconazole CHEBI:47519
+cobicistat CHEBI:72291
+fluvoxamine CHEBI:5138
+Zactima CHEBI:49960
+mometasone furoate CHEBI:47564
+methylenedioxymethamphetamine CHEBI:1391
+corticosterone CHEBI:16827
+PAHs CHEBI:33848
+[3H]DADLE CHEBI:57667
+squalene CHEBI:15440
+RES 701-1 CHEBI:52830
+pyrrolo-isoxazole CHEBI:52883
+7-trifluoromethyl-4(4 methyl-1-pyrolo[1,2-a]-quinoxaline malate CHEBI:64053
+fatty acid CHEBI:35366
+maltopentaose CHEBI:62006
+DHT CHEBI:16330
+(pyridin-3-yl) benzoxazinyl-oxazolidinones CHEBI:120965
+mesalamine CHEBI:6775
+tetrodotoxin CHEBI:9506
+indolizines CHEBI:38485
+toloxatone CHEBI:134870
+mepindolol CHEBI:135082
+phenserine CHEBI:8080
+MTA CHEBI:17509
+2,4-diamino-6-piperidinopyrimidine-3-oxyde CHEBI:92128
+ETYA CHEBI:61030
+BTCP CHEBI:64145
+chloroquine CHEBI:3638
+suxamethonium CHEBI:45652
+astatine(III) CHEBI:174263
+oestradiol CHEBI:23965
+forskolin CHEBI:42471
+flupentixol CHEBI:5121
+sulfamates CHEBI:131822
+Leukotriene CHEBI:25029
+8-(2-[(18)F]fluroethyl)2beta-carbomethoxy-3beta-(4-chlorophenyl)nortropane CHEBI:188463
+NH CHEBI:29339
+WB4101 CHEBI:64098
+emedastine CHEBI:4779
+Xanthine CHEBI:17712
+adenosylhomocysteine CHEBI:16680
+LA CHEBI:73527
+cipamfylline CHEBI:177777
+octanol CHEBI:37868
+estrogens CHEBI:50114
+nitric-oxide CHEBI:16480
+bevantolol CHEBI:238698
+Neoechinulin A CHEBI:68794
+6-Ethyl-N-[1-(hydroxyacetyl)piperidin-4-yl]-1-methyl-4-oxo-5-(2-oxo-2-phenylethyl)-3-(2,2,2-trifluoroethoxy)-4,5-dihydro-1H-pyrrolo[3,2-c]pyridine-2-carboxamide CHEBI:106273
+HCO3 CHEBI:17544
+PEA CHEBI:71464
+droloxifene CHEBI:34731
+7-O-galloyl-d-sedoheptulose CHEBI:16802
+[3H]norepinephrine CHEBI:134857
+[5-bromo-6-[2-imidazolin-2-ylamino]-quinoxaline CHEBI:92199
+acetonitrile CHEBI:38472
+polyamines CHEBI:51349
+testosterone CHEBI:17347
+raclopride CHEBI:135552
+histidyl CHEBI:32535
+2-hydroxypyridine CHEBI:16540
+corynanthine CHEBI:92122
+norbinaltorphimine CHEBI:81529
+pranlukast CHEBI:77572
+carboplatin CHEBI:31355
+steroid hormone CHEBI:26764
+Dopamine CHEBI:18243
+saframycin CHEBI:2790
+dimemorfan CHEBI:135048
+HED CHEBI:72848
+[(3)H]prazosin CHEBI:8364
+(+/-)-gossypol acetic acid CHEBI:180329
+ORN CHEBI:75092
+NHOH-4-ABP CHEBI:41132
+leflunomide CHEBI:6402
+T3 CHEBI:18258
+inosine 5'-monophosphate CHEBI:55554
+benzoquinonoid ansamycin CHEBI:137246
+Alkylideno/arylideno-bis-ureas CHEBI:36955
+butaprost CHEBI:180617
+PAG CHEBI:185450
+Apomorphine CHEBI:48538
+Polyamine CHEBI:51349
+CEP-701 CHEBI:89029
+EDTA CHEBI:64755
+[3H]neurotensin CHEBI:147362
+3-methylglutaconic acid CHEBI:144330
+phenformin CHEBI:8064
+Dimethylarsinic acid CHEBI:48765
+guanidinosuccinate CHEBI:131444
+Iressa CHEBI:49668
+branched-chain amino acid CHEBI:22918
+phospho CHEBI:48108
+delphinidin glycoside CHEBI:189576
+1,1'-trimethylenebis{4-hydroximinomethyl}pyridinium dibromide CHEBI:44691
+oxalate CHEBI:132952
+SU101 CHEBI:46238
+MEC CHEBI:38472
+UK-14304 CHEBI:180692
+[3H]-ACh CHEBI:51383
+Δ(6)-flunisolide CHEBI:5106
+promethazine CHEBI:8461
+phosphomolybdic acid CHEBI:15907
+PKC412 CHEBI:63452
+alpha-chloroenethiolate CHEBI:51841
+PLZ CHEBI:30367
+tropisetron CHEBI:32269
+1,3-dialkyl-8-phenyl xanthines CHEBI:43253
+staurosporine CHEBI:15738
+monounsaturated fatty acids CHEBI:25413
+ketanserin CHEBI:6123
+(111) Indium CHEBI:30433
+CP-101,606 CHEBI:157534
+pirenzepine CHEBI:8247
+l-dopa CHEBI:15765
+Anandamide CHEBI:2700
+pseudoephedrine CHEBI:51209
+Thymidylate CHEBI:17013
+NA CHEBI:33696
+α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid CHEBI:180998
+[1'-(3)H], [1'-(14)C], [2'-(3)H], [4'-(3)H], [5'-(3)H(2)], [9-(15)N], and [Me-(3)H(3)] MTAs CHEBI:52787
+3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide CHEBI:53233
+BrBK2-9 CHEBI:40953
+phenylaminopyrimidine CHEBI:38338
+purine CHEBI:35584
+cimetidine CHEBI:3699
+(PhTe)(2) CHEBI:165778
+PGI2 CHEBI:15552
+pSer CHEBI:71029
+L-serine CHEBI:17115
+[(1-13)C]glutamine CHEBI:17061
+Na CHEBI:26708
+TXB2 CHEBI:28728
+carbon CHEBI:33415
+benzoxazinyl-oxazolidinone CHEBI:145233
+Ser CHEBI:29999
+N-methyl-D-aspartate CHEBI:21753
+guanosine 5'-O-(2-thiodiphosphate) CHEBI:58115
+[(14)C]-fenclozic acid CHEBI:32380
+piperazine CHEBI:28568
+cyclodepsipeptide CHEBI:35213
+beta-hydroxy fatty acid CHEBI:59845
+thalidomide CHEBI:9513
+7'-(3',4'-dihydroxyphenyl)-N-[4-methoxyphenyl)ethyl]propenamide CHEBI:186951
+geldanamycin CHEBI:5292
+TxA2 CHEBI:165349
+adenylate CHEBI:25147
+Estramustine CHEBI:4868
+isoproterenol CHEBI:64317
+Lintitript CHEBI:16301
+COZAAR CHEBI:57287
+sertraline CHEBI:9123
+SoRI-9804 CHEBI:90185
+D-myo-inositol 1 monophosphate CHEBI:25446
+flufenamic acid CHEBI:42638
+pancuronium bromide CHEBI:7908
+[3H]CP-101,606 CHEBI:130910
+5-aminolevulinate CHEBI:12109
+11C CHEBI:36929
+5-hydroxyelzasonan CHEBI:2198
+gossypol CHEBI:28584
+vecuronium CHEBI:9939
+atorvastatin CHEBI:39548
+SB 207266 CHEBI:8976
+indatraline CHEBI:134939
+UK14,304 CHEBI:180692
+pyrilamine CHEBI:72290
+MK-801 CHEBI:176788
+flurbiprofen CHEBI:5130
+POHA CHEBI:82035
+Serotonin CHEBI:28790
+[3H]-N-methyl-4-phenylpyridinium CHEBI:641
+Xanthines CHEBI:15318
+Agomelatine CHEBI:134990
+tannins CHEBI:26848
+C-6 CHEBI:33007
+5-methoxy-3-[1,2,3,6-tetrahydropyridin-4-yl]-1H-indole CHEBI:92005
+N-methyl-phosphatidylserine CHEBI:18303
+Losartan CHEBI:6541
+1,2-bis(o-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid CHEBI:30740
+linezolid CHEBI:63607
+rivaroxaban CHEBI:68579
+Cannabinoid CHEBI:67194
+graphene oxide CHEBI:132889
+Co CHEBI:27638
+DMAs(V) CHEBI:81071
+adenine CHEBI:16708
+phenytoin CHEBI:8107
+Clomipramine CHEBI:47780
+Dasatinib CHEBI:61390
+pentetrazole CHEBI:34910
+(-)-chlorpheniramine CHEBI:52013
+fipronil CHEBI:5063
+all-trans retinol CHEBI:17336
+amrubicinol CHEBI:156204
+sugar CHEBI:20873
+polycyclic aromatic hydrocarbons CHEBI:33848
+DIOA CHEBI:63558
+methylmercury CHEBI:30785
+SCH 900229 CHEBI:87185
+(+)- and (-)-chlorpheniramine CHEBI:4464
+5-nitro-2-(3-phenylpropylamino)benzoic acid CHEBI:34457
+PGF2 alpha CHEBI:77174
+bromfenac sodium CHEBI:140536
+ketamine CHEBI:6121
+naproxen CHEBI:7476
+n-propyl CHEBI:26308
+terfenadine CHEBI:9453
+neurotensin CHEBI:7542
+endomorphin-1 CHEBI:80156
+Alprenolol CHEBI:51211
+4-tertoctylphenol CHEBI:34432
+metoprolol CHEBI:6904
+Lisuride CHEBI:51164
+AMG CHEBI:59404
+Arg CHEBI:29952
+sulpiride CHEBI:32168
+Tamsulosin CHEBI:9398
+Fc11a-2 CHEBI:29108
+Terbutaline CHEBI:9449
+2-deoxythymidine-5-monophosphate CHEBI:39789
+n-butanol CHEBI:22951
+Telmisartan CHEBI:9434
+ΔDHEA CHEBI:89608
+TAK-441 CHEBI:68847
+triterpenic acids CHEBI:132337
+THC CHEBI:9384
+wogonin CHEBI:10043
+11β-hydroxysteroid CHEBI:36841
+BrBK2-8 CHEBI:52459
+[(18)F]setoperone CHEBI:34166
+enalapril CHEBI:4784
+flavones CHEBI:24043
+polyethyleneimine CHEBI:53231
+N-(Diphenylmethyl)-2-phenyl-4-quinazolinamine CHEBI:94275
+acyl-CoA CHEBI:17984
+Orlistat CHEBI:94686
+Swertiamarin CHEBI:9370
+metformin CHEBI:6801
+Di-n-butyl-di-(4-chlorobenzohydroxamato) Tin (IV) CHEBI:38451
+2,2(')-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid CHEBI:90402
+ethyl secondary amide CHEBI:33257
+S(-)-timolol CHEBI:188157
+phosphatidylhydroxypropionate CHEBI:174534
+tetradecasaccharides CHEBI:50126
+irbesartan CHEBI:5959
+N(ε)-carboxymethyllisine CHEBI:53014
+Atorvastatin CHEBI:39548
+TMB-4 CHEBI:175944
+1,3-dipropyl-8-phenylxanthines CHEBI:16760
+mirtazapine CHEBI:6950
+phosphocreatine CHEBI:17287
+AII CHEBI:15932
+(13)C(3)Ala-GHRP-6 CHEBI:148946
+cisplatin CHEBI:27899
+vitamin E CHEBI:33234
+fluorouracil CHEBI:46345
+arachidonyl fluorophosphonate CHEBI:188708
+carbohydrate CHEBI:16646
+camptothecin CHEBI:27656
+cabozantinib CHEBI:72317
+PBDEs CHEBI:39043
+Flavin CHEBI:30527
+biltoterol CHEBI:3133
+triprolidine hydrochloride CHEBI:84119
+carbonyl CHEBI:23019
+benzydamine CHEBI:94563
+hydrogen peroxide CHEBI:16240
+arformoterol CHEBI:408174
+diorganotin (IV) CHEBI:91088
+PLP CHEBI:18405
+Salmeterol CHEBI:9011
+MMC CHEBI:27504
+quinonoid CHEBI:82175
+naltrindole CHEBI:81528
+N-propargyl-l(R)-aminoindan CHEBI:45357
+HAL CHEBI:30134
+H CHEBI:29979
+Amisulpride CHEBI:64045
+liriodenine CHEBI:70649
+Gd(3+) CHEBI:49618
+Dimemorfan CHEBI:135048
+Se CHEBI:27568
+bleomycin CHEBI:22907
+BDE-49 CHEBI:81583
+nelfinavir CHEBI:7496
+fluvastatin CHEBI:38561
+fiveamino acid CHEBI:35987
+saligenin CHEBI:185828
+aldamine CHEBI:30449
+125I-labeled d-lysergic acid diethylamide CHEBI:6605
+keoxifene CHEBI:92511
+cefpirome CHEBI:3503
+3 beta-hydroxysteroid CHEBI:36836
+nitrooxyalkyl ester and ether CHEBI:85107
+pyrene CHEBI:39106
+long-chain fatty acyl-CoA CHEBI:33184
+Dox CHEBI:30623
+5-HT CHEBI:28790
+NS-398 CHEBI:73458
+Mg(2+) CHEBI:18420
+Zn CHEBI:27363
+2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine CHEBI:76290
+pyrimidine CHEBI:16898
+ZD1694 CHEBI:5847
+denufosol CHEBI:27791
+fluoropyrimidine CHEBI:46910
+[3H]R1881 CHEBI:379896
+SB-277011-A CHEBI:135593
+WIN35428 CHEBI:79385
+dimethylsulfoxide CHEBI:28262
+drospirenone CHEBI:50838
+diazepam CHEBI:49575
+Quercetin CHEBI:16243
+[3H]aldosterone CHEBI:27584
+malonyl CoA CHEBI:15531
+5-dimethyl-2-phenyl-4-[(pyridin-2-ylmethylene)-amino]-1,2-dihydro-pyrazol-3-one CHEBI:119881
+Polyunsaturated fatty acids (PUFA) n-3 CHEBI:26208
+tritiated diprenorphine CHEBI:4650
+homocyst(e)ine CHEBI:17485
+porphobilinogen CHEBI:17381
+losartan CHEBI:6541
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine CHEBI:17963
+vitamin D CHEBI:27300
+elzasonan CHEBI:6062
+Gemcitabine CHEBI:175901
+A-54741 CHEBI:66494
+NaBH4 CHEBI:50985
+cefuroxime axetil CHEBI:3516
+R-flurbiprofen CHEBI:38666
+formerly CHEBI:5147
+haloalkenes CHEBI:5610
+DEC CHEBI:23574
+CysLTs CHEBI:157810
+thiobarbituric acid CHEBI:33202
+Glucosamine CHEBI:5417
+l-cysteine CHEBI:17561
+polyesters CHEBI:26178
+captopril CHEBI:3380
+dithiothreitol CHEBI:18320
+sodium sulfate CHEBI:32149
+MAC13243 CHEBI:75218
+carbonitrile CHEBI:133638
+citric acid CHEBI:30769
+DR CHEBI:73445
+lintitript CHEBI:16301
+Erlotinib CHEBI:114785
+Asp CHEBI:29958
+D-myo-inositol 1,4,5-trisphosphate CHEBI:46647
+triterpenes CHEBI:35191
+PLL CHEBI:53412
+desipramine CHEBI:47781
+copper(I) Schiff base CHEBI:50229
+HI-6 CHEBI:37003
+moxonidine CHEBI:7009
+[3H]SR 142948A CHEBI:177458
+cystodytin CHEBI:65710
+Rolipram CHEBI:104872
+Rosiglitazone CHEBI:50122
+coumarin CHEBI:28794
+LiCl CHEBI:48607
+1OH-BaP CHEBI:37420
+cholesterol CHEBI:16113
+diisopropylfluorophosphate CHEBI:17941
+Prostacyclin CHEBI:15552
+R,R-formoterol CHEBI:63081
+poly(styrenesulfonate) CHEBI:53277
+N-hydroxy-PhIP CHEBI:133920
+SB 227122 CHEBI:8978
+aromatic sulfonamides CHEBI:87228
+chlorethylclonidine CHEBI:169632
+(2R)-IKM-159 CHEBI:103248
+PGH2 CHEBI:15554
+valproic acid CHEBI:39867
+penfluridol CHEBI:82181
+spirobenzodiazepine CHEBI:71329
+3,4-dihydroxyphenylglycol CHEBI:1387
+pyrrole CHEBI:35556
+NAD+ CHEBI:15846
+AHGDM CHEBI:150863
+EHT CHEBI:62801
+monocarboxylic acids CHEBI:25384
+chlorothiazide CHEBI:3640
+gentianine CHEBI:28981
+3-methylglutaconyl-CoA CHEBI:15488
+Atropine CHEBI:16684
+8-alkynyl-HNE CHEBI:50982
+INS37217 CHEBI:132337
+phenolic CHEBI:15882
+trifluoperazine CHEBI:45951
+ibutyryl cyclic AMP CHEBI:71578
+d-sotalol CHEBI:63647
+imatinib CHEBI:45783
+[-]-Hup A CHEBI:78330
+diclofenac CHEBI:47381
+17β-oestradiol CHEBI:16469
+acetate CHEBI:30089
+perindopril CHEBI:8024
+nabilone CHEBI:135574
+silodosin CHEBI:135929
+[(35)S]-GTPγS CHEBI:57600
+norcocaine CHEBI:178585
+glimepiride CHEBI:5383
+BG-12 CHEBI:156296
+benzythiouracile CHEBI:134902
+glycidyl methacrylate CHEBI:132844
+1-Cinnamoyl-3,11-Dihydroxymeliacarpin CHEBI:176652
+ethers CHEBI:25698
+selegiline CHEBI:50217
+cadmium CHEBI:22977
+fatty acids CHEBI:35366
+isoflavonoids CHEBI:50753
+PAH CHEBI:53305
+AtO(OH) CHEBI:30188
+Arsenic trioxide CHEBI:49900
+ziprasidone CHEBI:10119
+Ca2+ CHEBI:29108
+quinuclidine CHEBI:38420
+H+ CHEBI:15378
+Lidocaine CHEBI:6456
+Oxymetazoline CHEBI:7862
+piperidine alkaloids CHEBI:26147
+Al(OH)3 CHEBI:33130
+pyridoxal 5 phosphate CHEBI:18405
+ethyl acetate CHEBI:27750
+jasplakinolide CHEBI:68271
+quinpirole CHEBI:75401
+Nexavar CHEBI:50928
+dihydrotestosterone CHEBI:16330
+CI-1033 CHEBI:61399
+PFYAVKC CHEBI:53427
+diazinon CHEBI:34682
+polyester CHEBI:26178
+esters CHEBI:35701
+procainamide CHEBI:8428
+nicotinic acid CHEBI:15940
+Sumatriptan CHEBI:10650
+p-OH-phenylacetic acid CHEBI:30745
+triptorelin CHEBI:63633
+acridin CHEBI:36420
+Miglustat CHEBI:50381
+chloro-procaine CHEBI:3636
+trans-dicarboxylate fumarate CHEBI:83389
+trans-dihydromorin CHEBI:36377
+[+]-Hup A CHEBI:78330
+Salicylic acid CHEBI:16914
+delphinidin 3,5-O-diglucoside CHEBI:189576
+toremifene CHEBI:9635
+ketoenamine CHEBI:48004
+okadaic acid CHEBI:44658
+tetrabenazine CHEBI:9467
+cefepime CHEBI:478164
+amino acids CHEBI:33709
+17beta-hydroxysteroid CHEBI:35343
+[(2S, 3S)trans-epoxysuccinyl-L-leucylamido-3-methylbutane ethyl ester or chloroquine] CHEBI:116506
+rapamycin CHEBI:9168
+N-diethylnitrosamine CHEBI:75143
+aspirin CHEBI:2883
+chromanol 293B CHEBI:34637
+3-thiophenyl acrylic amide CHEBI:40443
+DDT CHEBI:16130
+Gefitinib CHEBI:49668
+acetylthiocholine CHEBI:15355
+(99m) Tc CHEBI:33371
+DMI CHEBI:47781
+vitamins CHEBI:33229
+kynurenine CHEBI:28683
+imidazo[1,2-a]pyrazine CHEBI:37846
+AVT CHEBI:78364
+amisulpride CHEBI:64045
+tiapride CHEBI:3720
+citrizine CHEBI:3561
+Salicylates CHEBI:26596
+clotrimazole CHEBI:3764
+17α-ethynylestradiol CHEBI:4903
+PI CHEBI:74790
+[(125)I]iodoarylazidoprazosin CHEBI:37846
+Mn(2+) CHEBI:29035
+edrophonium CHEBI:251408
+Ambrisentan CHEBI:135949
+Lignans CHEBI:25036
+purines CHEBI:26401
+22Na CHEBI:31860
+Lorcaserin CHEBI:65353
+N-methyl CHEBI:29309
+[3H]-MPP+ CHEBI:53013
+memantine CHEBI:64312
+S-(4-chlorobenzyl)isothiourea CHEBI:43379
+Gossypol CHEBI:28584
+kainate CHEBI:156548
+Histamine CHEBI:18295
+sterol CHEBI:15889
+codeine CHEBI:16714
+agmatine CHEBI:17431
+7-O-p-cyanobenzoyl pyripyropene A CHEBI:149710
+amino acid CHEBI:33709
+decamethonium CHEBI:41934
+PG CHEBI:64716
+guanfacine CHEBI:5558
+para-tyramine CHEBI:89626
+sodium taurocholate CHEBI:36276
+triglyceride CHEBI:17855
+BK CHEBI:3165
+fluorescein isothiocyanate CHEBI:37926
+dFdC CHEBI:156331
+2',2'-difluorodeoxyuridine CHEBI:174466
+[3H]DHA CHEBI:72608
+pyridyl CHEBI:38887
+CoA CHEBI:57287
+[(3)H]-diprenorphine CHEBI:4650
+WAY-100635 CHEBI:72583
+C CHEBI:29950
+p-Hydroxybenzoic acid CHEBI:24676
+Isoflavones CHEBI:38757
+NAD(P)H CHEBI:13392
+levomepromazine CHEBI:6838
+PGE(2) CHEBI:30549
+dimethylnitrosamine CHEBI:17170
+levosimendan CHEBI:50567
+alpha-difluoroalkylthiolate CHEBI:41948
+moxifloxacin CHEBI:63611
+Gleevec CHEBI:31690
+acetazolamide CHEBI:27690
+4-methylpyrazole CHEBI:59025
+Na2SeO3 CHEBI:86477
+glycerol CHEBI:17754
+thromboxane A2 CHEBI:15627
+guanosine-5'-O-(3-[35S]-thio) triphosphate CHEBI:43000
+(125)I-Cyanopindolol CHEBI:187894
+UFT CHEBI:73636
+amtolmetin guacyl CHEBI:135678
+2-PAM CHEBI:8354
+Cabozantinib CHEBI:72317
+sodium selenite CHEBI:48843
+phosphoinositide CHEBI:18179
+isoxazole CHEBI:35595
+lycopene CHEBI:15948
+S-(1,2-dichlorovinyl)-L-cysteine CHEBI:46650
+Lys-C CHEBI:157810
+polyplexes CHEBI:48121
+Thalidomide CHEBI:9513
+isobutylmethylxanthine CHEBI:48518
+monocarboxylate CHEBI:38609
+Zomig CHEBI:10124
+Omapatrilat CHEBI:135660
+1-methyl-4-phenyl pyridinium CHEBI:641
+phenylephrine CHEBI:8093
+5,8,11,14-eicosatetraynoic acid CHEBI:94483
+nitrooxyalkyl CHEBI:29329
+M = Ru(II) or Os(II) CHEBI:145196
+norketamine CHEBI:6121
+FSA CHEBI:71032
+NAc-Cys-Pro-Cys amide CHEBI:161251
+HMGCoA CHEBI:31793
+anthocyanidins CHEBI:16366
+hyperoside CHEBI:135825
+naloxone-steroid hybrid azine CHEBI:50160
+cyclic guanosine monophosphate CHEBI:28072
+Dexmedetomidine CHEBI:4466
+K+ CHEBI:29103
+Tryptophan CHEBI:16828
+Ara-C CHEBI:28680
+Estrogen CHEBI:50114
+Caerulein CHEBI:171741
+selenium CHEBI:27568
+acetyl-CoA CHEBI:15351
+bupranolol CHEBI:135123
+lithium chloride CHEBI:48607
+palmitic and stearic acids CHEBI:168544
+PD153035 CHEBI:91076
+LSD CHEBI:6605
+21-nortriamcinolone acetonide CHEBI:71418
+3-thiomorpholin-8-oxo-8H-acenaphtho [1,2-b] pyrrole-9-carbonitrile CHEBI:116936
+glucosyl CHEBI:37624
+methoxamine CHEBI:6839
+stearoyl-CoA CHEBI:15541
+N-methyl-d-aspartate CHEBI:21753
+levocabastine CHEBI:135679
+Progestin CHEBI:59826
+N-methylanthraniloyl-nucleotides CHEBI:30305
+androgen CHEBI:50113
+sinapic acid CHEBI:77131
+malondialdehyde CHEBI:566274
+X ═ Cl or I CHEBI:172535
+Poly (ADP-ribose) CHEBI:61151
+flutamide CHEBI:5132
+17β-estradiol benzoate CHEBI:77006
+1, 3-diphenyl-2-propen-1-one CHEBI:93674
+Simvastatin CHEBI:9150
+SB431542 CHEBI:91108
+3,4-methylenedioxymethamphetamine CHEBI:1391
+Teriflunomide CHEBI:68540
+prednisolone CHEBI:8378
+AH 6809 CHEBI:80009
+WX-UK1 CHEBI:75366
+phorbol esters CHEBI:37532
+Triclosan CHEBI:164200
+probenecid CHEBI:8426
+Sunitinib CHEBI:38940
+retinol CHEBI:50211
+5-hydroxytryptamine CHEBI:139217
+LEVOTHYROXINE CHEBI:18332
+Caffeine CHEBI:27732
+sulfonylureas CHEBI:76983
+spiperone CHEBI:9233
+1,12-diamino-3,6,9-triazadodecane CHEBI:168529
+Norethisterone CHEBI:7627
+Bosutinib CHEBI:39112
+warfarin CHEBI:10033
+allicin CHEBI:28411
+mecamylamine CHEBI:6706
+Flavonoid CHEBI:47916
+thiourea CHEBI:36946
+vinblastine CHEBI:135954
+p-chloroamphetamine CHEBI:180535
+mazindol CHEBI:6702
+pramipexole CHEBI:8356
+NAC CHEBI:7421
+swertiamarin CHEBI:9370
+curcuminoids CHEBI:3962
+2,2',4,4'-tetrabromodiphenyl ether CHEBI:81584
+(1)H CHEBI:29236
+LY294002 CHEBI:65329
+bisphosphonates CHEBI:77383
+2'-O-methyl CHEBI:90108
+CAR CHEBI:90239
+SpmTrien CHEBI:80954
+acetaminophen CHEBI:143107
+idazoxan CHEBI:5862
+Na(+) CHEBI:29101
+acetic acid CHEBI:15366
+Mn CHEBI:18291
+quinine CHEBI:15854
+acetylprocainamide CHEBI:60728
+4-iodo-N-[2-[4-(methoxyphenyl)-1-piperazinyl]ethyl]-N-2-pyridynyl-benzamide hydrochloride CHEBI:64099
+propargylamine CHEBI:39870
+caffeic acid CHEBI:36281
+Sulfonamide CHEBI:35358
+saturated fatty acids CHEBI:26607
+(+/-)-[125I]-iodocyanopindolol CHEBI:73370
+hydrochloride CHEBI:36807
+LV CHEBI:73579
+Topotecan CHEBI:63632
+alantolides CHEBI:2542
+substance P CHEBI:80308
+topotecan CHEBI:63632
+[(14)C] AMG 221 CHEBI:139650
+phenylalkylamines CHEBI:60977
+ribonucleotide CHEBI:26561
+secondary and tertiary linker amides CHEBI:33257
+miconazole CHEBI:6923
+SeCys CHEBI:30000
+125I-BE2254 CHEBI:30497
+N-hydroxy-4-aminobiphenyl CHEBI:16580
+imidazo[1,2-a]pyrazines CHEBI:37846
+Flupentixol CHEBI:5121
+meta-hydroxyephedrine CHEBI:61137
+miglustat CHEBI:50381
+4-hydroxy-2-nonenal CHEBI:142593
+aminohexylgeldanamycin CHEBI:189018
+levothyroxine CHEBI:18332
+BH3 CHEBI:30149
+ergotamine CHEBI:64318
+1-azabicyclo[2.2.1]heptanes CHEBI:35988
+Mannich bases CHEBI:33977
+methylatropine CHEBI:134749
+IKM-159 CHEBI:188130
+Sb(III) CHEBI:66497
+AD4 CHEBI:73803
+MPEP CHEBI:64159
+sphingosine-1-phosphate CHEBI:37550
+5-fluoro-2'-deoxyuridine CHEBI:60761
+(3)H-CGP 12177A CHEBI:73288
+DZN CHEBI:37254
+Amino acids CHEBI:33704
+AR323 CHEBI:79384
+[57Co]Cbl CHEBI:176578
+GW4064 CHEBI:70778
+hydroxylamines CHEBI:24709
+N-acetylglutamate CHEBI:44337
+taurine CHEBI:15891
+cobalamin CHEBI:30411
+norelgestromin CHEBI:135398
+5H-pyrrolo[2,3-b]pyrazine CHEBI:131256
+chlorate CHEBI:49709
+Ca(2+) CHEBI:29108
+Peginesatide CHEBI:66889
+L-glutamate CHEBI:29988
+[CuCl(PPh3)L] CHEBI:71608
+duroquinone CHEBI:42023
+epigallocatechin gallate CHEBI:4806
+dFdU CHEBI:60761
+aryl hydrocarbon CHEBI:24472
+MK-886 CHEBI:97507
+Bambuterol CHEBI:553827
+(3)H-inositolmonophosphate CHEBI:55554
+[3H]zolmitriptan CHEBI:10124
+DMN CHEBI:35807
+di-tert-butylsilylene acetal CHEBI:31328
+ticlopidine CHEBI:9588
+SC-51089 CHEBI:94415
+l-histidine CHEBI:15971
+indoramin CHEBI:135470
+GW-572016 CHEBI:73726
+CN-Cbl CHEBI:17439
+oxytocin CHEBI:7872
+BrBK1-5 CHEBI:20552
+fludrocortisone CHEBI:50885
+3H-quinuclidinyl benzilate CHEBI:93847
+allyl CHEBI:30361
+(-) Epicatechin CHEBI:90
+polyvinyl chloride CHEBI:53243
+oxyresveratrol CHEBI:7870
+Cu CHEBI:28694
+n-3 PUFA CHEBI:80640
+chenodeoxycholate CHEBI:36234
+PP2 CHEBI:78331
+terbutaline CHEBI:9449
+gardiquimod CHEBI:36706
+MDMA CHEBI:1391
+amphetamine CHEBI:2679
+Nicorandil CHEBI:31905
+aldehydes CHEBI:17478
+Gossypol acetic acid CHEBI:180329
+p-coumaric acid CHEBI:36090
+motuporin CHEBI:9437
+malonate CHEBI:15792
+Vitamin E CHEBI:18145
+N-methyl-α-methyldopamine CHEBI:173516
+Pt CHEBI:75318
+DL-propranolol CHEBI:8499
+oleanolic CHEBI:29658
+carboxy CHEBI:46883
+HMG-CoA CHEBI:15467
+docosahexaenoyl-CoA CHEBI:90817
+acyl-coenzyme A CHEBI:57287
+APAP CHEBI:46195
+3-methoxytyramine CHEBI:1582
+salbutamol CHEBI:8746
+Wogonin CHEBI:10043
+vitamin-E CHEBI:33234
+neostigmine CHEBI:7514
+arsenic trioxide CHEBI:30621
+dimethindene CHEBI:135222
+L-cysteine CHEBI:17561
+Cresyl saligenin phosphate CHEBI:9003
+Schiff base CHEBI:50229
+phenyl CHEBI:30396
+Orzel CHEBI:31905
+glibenclamide CHEBI:5441
+sodium CHEBI:26708
+calcium CHEBI:29320
+11-dehydro-TXB2 CHEBI:28667
+gemcitabine CHEBI:175901
+piceatannol CHEBI:28814
+Prostaglandin E2 CHEBI:15551
+zosuquidar CHEBI:31248
+Pt(n)(+) CHEBI:63526
+[(3)H]SR141716A CHEBI:34967
+Esmolol CHEBI:4856
+paracetamol CHEBI:46195
+PTK787 CHEBI:90620
+flavonols CHEBI:28802
+[(3)H]1-methyl-4-phenylpyridinium CHEBI:641
+α-methyldopamine CHEBI:182772
+methotrexate CHEBI:44185
+5-morpholino-7H-thieno[3,2-b]pyran-7-one CHEBI:187241
+Pt(n) CHEBI:63526
+ARC-239 CHEBI:78961
+Cr CHEBI:28073
+Glutamate CHEBI:16015
+PEDOT CHEBI:53228
+Selenium CHEBI:27568
+Phe CHEBI:29997
+ozone CHEBI:25812
+4-methoxy-7-nitroindolinyl CHEBI:48973
+ketoprofen CHEBI:6128
+S-Nitrosothiols CHEBI:59637
+Cisplatin CHEBI:27899
+Ser-Glu-Pro CHEBI:163086
+creatine CHEBI:16919
+bexarotene CHEBI:50859
+cyclohexene CHEBI:36404
+clozapine CHEBI:3766
+(-)-galanthamine CHEBI:42944
+Ti CHEBI:33341
+GW660511X CHEBI:143121
+lumiracoxib CHEBI:73044
+mCPP CHEBI:34603
+formoterol fumarate CHEBI:31633
+H(+) CHEBI:15378
+[125I]iodocyanopindolol CHEBI:73370
+1-naphthol CHEBI:10319
+Polyplex CHEBI:38077
+nicotinate CHEBI:32544
+phenylpropanoid CHEBI:26004
+(-)-Epicatechin-3-gallate CHEBI:65848
+Halotestin CHEBI:2608
+DOI CHEBI:29898
+DM CHEBI:141426
+pancuronium CHEBI:7907
+5-methyl-urapidil CHEBI:69445
+hydroperoxide CHEBI:35923
+5-FU CHEBI:46345
+Pyrilamine CHEBI:6762
+(+)-tubocurarine CHEBI:9774
+BAY 43-9006 CHEBI:34936
+inositol phosphates CHEBI:24846
+meta-chlorophenylpiperazine CHEBI:10588
+methazolamide CHEBI:6822
+tricyclic bispyran sulfone CHEBI:51119
+OH-Cbl CHEBI:27786
+PAEMH CHEBI:61364
+UDPGA CHEBI:17659
+(R,R)-eformoterol CHEBI:63081
+Acetone CHEBI:15347
+Prexige CHEBI:73044
+glutathione CHEBI:16856
+equol CHEBI:34741
+Gemfibrozil CHEBI:5296
+3H-nisoxetine CHEBI:73410
+hydrocodone CHEBI:5779
+Auranofin CHEBI:2922
+l-lactic acid CHEBI:42111
+Polyphenols CHEBI:26195
+NMDA CHEBI:31882
+nodularin-V CHEBI:80043
+[(125)I]RTI-55 CHEBI:41688
+DOTA CHEBI:61028
+wortmannin CHEBI:52289
+enolimine CHEBI:157611
+furan CHEBI:35559
+(R)-2-amino-2-(4-methoxyphenyl)ethanol CHEBI:125361
+hydroxyproline CHEBI:24741
+apo-14'-lycopenoic acid CHEBI:83043
+clobetasol CHEBI:205919
+SFA CHEBI:26607
+aspartic acids CHEBI:22660
+D3G5G CHEBI:136742
+Sildenafil CHEBI:9139
+5-carboxyamidotryptamine HCl CHEBI:48292
+androstane CHEBI:35509
+GW9662 CHEBI:79993
+[beta-mercapto-beta,beta-cyclopenta-methylenepropionyl1, O-Me-Tyr2, Arg8] vasopressin CHEBI:31312
+darunavir CHEBI:367163
+aristolochic acid CHEBI:2825
+deoxycytidine CHEBI:15698
+esmolol CHEBI:4856
+propidium iodide CHEBI:51240
+p-aminobenzamidine CHEBI:64042
+5'-(2-aminomethyl) naltrindole CHEBI:28437
+DTAB CHEBI:295756
+2,5-disubstituted-1,3,4-oxadiazoles CHEBI:75425
+8-OHdG CHEBI:40304
+picrotoxin CHEBI:134126
+Monoamine CHEBI:63534
+Glc1P CHEBI:4170
+GBR 12909 CHEBI:64089
+[57Co]CN-Cbl CHEBI:17439
+His CHEBI:29979
+Tyrosine CHEBI:17895
+nimesulide CHEBI:44445
+Warfarin CHEBI:10033
+progestin CHEBI:59826
+Acrolein CHEBI:15368
+microcosamine A CHEBI:67316
+valproyl-CoA CHEBI:156457
+SCH 39166 CHEBI:66178
+cGMP CHEBI:16356
+lactacystin CHEBI:52722
+Zn(II) CHEBI:29105
+lovastatin CHEBI:40303
+aflatoxin CHEBI:22271
+GR127935 CHEBI:64114
+pyridox(am)ine 5'-phosphate CHEBI:18405
+BrBK CHEBI:15858
+NaHS CHEBI:16908
+flavin CHEBI:30527
+Fe-S CHEBI:73509
+Dextromethorphan CHEBI:4470
+(+/-)-3,4-methylenedioxyamphetamine CHEBI:166520
+dichlorodiphenyltrichloroethane CHEBI:16130
+capsaicin CHEBI:3374
+xyloside CHEBI:27350
+carbamazepine CHEBI:3387
+monosaccharides CHEBI:35381
+methylphenidate CHEBI:6887
+EZETIMIBE CHEBI:49040
+DIDS CHEBI:4286
+acyl glucuronide CHEBI:87248
+cannabinoid CHEBI:67194
+poly(amidoamine) CHEBI:53199
+Bay 43-9006 CHEBI:34936
+sodium hydrosulphide CHEBI:32145
+nitric oxide CHEBI:16480
+formoterol CHEBI:5147
+FECNT CHEBI:50594
+SU5402 CHEBI:63449
+dihydromicrocystin-LA CHEBI:144399
+pernitride CHEBI:50882
+physostigmine CHEBI:27953
+[3H]-5-hydroxytryptamine CHEBI:139069
+β-lactam CHEBI:24995
+GSSG CHEBI:17858
+SP CHEBI:74820
+aromatic/heterocyclic sulfonamides CHEBI:90852
+mitomycin C CHEBI:27504
+pimozide CHEBI:8212
+1,25-dihydroxyvitamin D(3) CHEBI:89079
+ALA CHEBI:16449
+imidazoquinoline CHEBI:38776
+Cys CHEBI:29950
+Ginsenoside Rg1 CHEBI:67987
+(-)-propranolol CHEBI:8499
+OXA CHEBI:53076
+MG-132 CHEBI:75142
+triprolidine CHEBI:84116
+CP80,633 CHEBI:135938
+cyclic nucleotide CHEBI:23447
+ether CHEBI:25698
+rilmenidine CHEBI:8862
+astatine(III) hydroxide CHEBI:30418
+mianserin CHEBI:51137
+alprenolol CHEBI:51211
+o-hydroxybenzyl CHEBI:24675
+(chloroethyl)amine CHEBI:37599
+mibefradil CHEBI:6920
+thioether CHEBI:51277
+Me-Cbl CHEBI:64700
+arginine CHEBI:29016
+arsenic CHEBI:27563
+p-aminohippurate CHEBI:64703
+indapamide CHEBI:5893
+PNU-120596 CHEBI:75399
+polyphenol CHEBI:26195
+inositol monophosphate CHEBI:25446
+dopamine CHEBI:18243
+A 77 1726 CHEBI:68540
+prostaglandins CHEBI:26333
+anandamide CHEBI:2700
+[(14)C]tetraethylammonium CHEBI:44296
+Cisapride CHEBI:3720
+citalopram CHEBI:3723
+Go 6976 CHEBI:51913
+Hydrogen sulphide CHEBI:16136
+PJ34 CHEBI:167900
+sulindac sulfide CHEBI:75408
+Cinitapride CHEBI:135642
+simvastatin CHEBI:9150
+perphenazine CHEBI:8028
+Terbinafine CHEBI:9448
+6-Dehydroshogaol CHEBI:174624
+Monoacylglycerol CHEBI:17408
+free amino CHEBI:134792
+γ-aminobutyric acid CHEBI:16865
+indoles CHEBI:24828
+salicylates CHEBI:26596
+phosphotyrosine CHEBI:74956
+ICI 82,780 CHEBI:60782
+steroid CHEBI:35341
+pyridoxal 5'-phosphate CHEBI:18405
+polysialic acid CHEBI:26206
+1H CHEBI:49637
+gamma-glutamyl-conjugated tetrahydrofolate CHEBI:75305
+MeHg CHEBI:6617
+2-aminobenzothizole CHEBI:167751
+dextromethorphan CHEBI:4470
+poly(2-aminoethylmethacrylate hydrochloride) CHEBI:61354
+(3)H CHEBI:29238
+zolmitriptan CHEBI:10124
+gamma-aminobutyric acid CHEBI:16865
+Afinitor((R)) Novartis CHEBI:68478
+glycine CHEBI:15428
+melarsoprol CHEBI:6729
+trilostane CHEBI:32260
+SCH23390 CHEBI:90681
+STZ CHEBI:141393
+methionine CHEBI:16811
+nitrate CHEBI:17632
+halothane CHEBI:5615
+diacylglycerol CHEBI:76578
+S-nitrosocysteine CHEBI:24610
+leukotriene C(4) CHEBI:133597
+Medroxyprogesterone acetate CHEBI:6716
+Tyr CHEBI:46858
+mannose CHEBI:37684
+TCA CHEBI:30956
+zimeldine CHEBI:135357
+pernitrides CHEBI:50882
+phosphatidylserine-O-methyl ester CHEBI:138915
+pizotifen CHEBI:50212
+raltitrexed CHEBI:71223
+SB203580 CHEBI:90705
+8-azido-ATP CHEBI:189100
+3 beta-Hydroxy-5-ene-steroid CHEBI:36836
+reduced glutathione CHEBI:177535
+essential fatty acids CHEBI:59549
+DPPH(·) CHEBI:60069
+streptozotocin CHEBI:9288
+sodium nitroprusside CHEBI:29321
+tirofiban CHEBI:9605
+Celecoxib CHEBI:41423
+2,4,6-trinitrobenzene sulfonic acid CHEBI:53053
+duloxetine CHEBI:36796
+Atrazine CHEBI:15930
+LY 293284 CHEBI:79404
+4'-(3)H CHEBI:29476
+3H-D-Ala2-Leu5-enkephalin CHEBI:89656
+N-nitroso CHEBI:76551
+fluorine CHEBI:30236
+carbenoxolone CHEBI:41462
+cortisol CHEBI:17650
+jolkinol D CHEBI:67705
+5-ASA CHEBI:6775
+PEG CHEBI:46793
+bacitracin CHEBI:28669
+WB 4101 CHEBI:64098
+4-aminobiphenyl CHEBI:22496
+lysine CHEBI:25094
+estrogen CHEBI:50114
+bosutinib CHEBI:39112
+indomethacin CHEBI:49662
+CP55,940 CHEBI:37563
+Inosine 5'-monophosphate CHEBI:17202
+alternariol CHEBI:64983
+(R)-βPro CHEBI:73645
+H1'-C1'-C2'-H2' CHEBI:73456
+tetrazolium CHEBI:149726
+pyridostigmine CHEBI:8665
+indole CHEBI:35581
+roziglitazone CHEBI:50122
+LTC4 CHEBI:16978
+dihydoxyphenylglycol CHEBI:75210
+(RS )-glucoraphanin CHEBI:79311
+temazepam CHEBI:9435
+etomidate CHEBI:4910
+AZC CHEBI:53088
+thiols CHEBI:29256
+quinolone CHEBI:23765
+4-CF(3) CHEBI:189377
+Troglitazone CHEBI:9753
+BRL 41992 CHEBI:94341
+Sr CHEBI:33324
+Pyridoxal 5'-phosphate CHEBI:18405
+celecoxib CHEBI:41423
+rosiglitazone CHEBI:50122
+CBDP CHEBI:17239
+leukotriene CHEBI:25029
+AG337 CHEBI:138885
+poly-L-lysine CHEBI:17917
+AWD 12-281 CHEBI:83766
+butylated hydroxyanisole CHEBI:76359
+cholesterol ester CHEBI:17002
+Arg-Gly-Asp CHEBI:158966
+naphthoic acid CHEBI:25483
+adenylyl CHEBI:22263
+chlorido CHEBI:17996
+triiodothyronine CHEBI:24864
+sulfate CHEBI:16189
+cocaethylene CHEBI:174315
+Methylenetetrahydrofolate CHEBI:25345
+1'-(14)C CHEBI:139975
+Disulfide CHEBI:48343
+moxidectin CHEBI:183811
+LiAlH₄ CHEBI:30133
+fenofibrate CHEBI:5001
+haloperidol CHEBI:5613
+ritodrine CHEBI:8872
+Vitamin A CHEBI:12777
+methyl alpha-D-glucopyranoside CHEBI:320061
+beta-funaltrexamine CHEBI:81527
+steroidal CHEBI:35341
+polyphosphoinositides CHEBI:18179
+S3226 CHEBI:167650
+Cysteinyl leukotriene CHEBI:173771
+Chlorpromazine CHEBI:3647
+[+] and [-]-Huperzine A CHEBI:178022
+leci-thin CHEBI:61995
+remoxipride CHEBI:32271
+Acular LS CHEBI:132403
+tolmetin CHEBI:71941
+12-O-tetradecanoyl-phorbol-13-acetate CHEBI:70536
+15-hydroxy-5c,8c,11c,13t-eicosatetraenoic acid CHEBI:72785
+fructose CHEBI:28757
+phenylalanine CHEBI:28044
+boronophenylalanine CHEBI:22933
+2-MeSADP CHEBI:87518
+pheniramine CHEBI:134848
+Androgen CHEBI:50113
+ATO CHEBI:33250
+5-Hydroxytryptamine CHEBI:28790
+3-hydroxy-3-methylglutaryl coenzyme A CHEBI:11814
+NS-187 CHEBI:34878
+epsilon-amino CHEBI:35958
+methacholine CHEBI:6804
+superoxide CHEBI:18421
+risperidone CHEBI:8871
+clopidogrel CHEBI:37941
+cefotaxime CHEBI:204928
+bilirubin CHEBI:16990
+paroxetine CHEBI:7936
+CT53518 CHEBI:90237
+CGP 12177A CHEBI:73288
+Bambec CHEBI:3231
+Mesupron CHEBI:36345
+HPMA CHEBI:53440
+thiazide CHEBI:50264
+ristocetin CHEBI:85129
+(-)-phenserine CHEBI:8080
+Leucyl CHEBI:32630
+glycochenodeoxycholic acid CHEBI:36274
+N'-2-(4-benzylpiperidin-/piperazin-1-yl)acylhydrazone CHEBI:121832
+gallic acid CHEBI:30778
+Peroxynitrite CHEBI:25941
+(+)-N-methyl-3-(1-naphthalenyloxy)-2 thiophenepropanamine CHEBI:139060
+vanadate CHEBI:46442
+PUFAs n-3 CHEBI:26208
+N-carbamylglutamate CHEBI:21649
+propranolol CHEBI:8499
+methoctramine CHEBI:73339
+isradipine CHEBI:6073
+morphinan CHEBI:35649
+benzamide CHEBI:28179
+salmeterol CHEBI:9011
+GTX2,3 CHEBI:57600
+ECG CHEBI:70255
+anthranilic acid sulfonamides CHEBI:30754
+BAPTA CHEBI:60888
+Dimethocaine CHEBI:135154
+5-(and-6)-chloromethyl-2,7-dichlorodihydro fluorescein diacetate acetyl ester CHEBI:90122
+(+/-)-Tamsulosin CHEBI:9398
+auranofin CHEBI:2922
+RS -GRA CHEBI:143514
+DHEA CHEBI:89608
+Cl CHEBI:23116
+arachidonoyl-CoA CHEBI:15514
+tranylcypromine CHEBI:9652
+5'-(3)H(2) CHEBI:63543
+butylated hydroxyl toluene CHEBI:76359
+3-hydroxy levomepromazine CHEBI:143424
+pyridox(am)ine phosphate CHEBI:597326
+phalloidin CHEBI:8040
+I CHEBI:30009
+rosuvastatin CHEBI:38545
+Gentianine CHEBI:28981
+everolimus CHEBI:68478
+doxycycline CHEBI:50845
+3-Methylglutaconic CHEBI:144330
+phytosterol oxides CHEBI:26125
+aminoglutethimide CHEBI:2654
+cytochalasin B CHEBI:23527
+[3H]dopamine CHEBI:18243
+PKAA CHEBI:131579
+benzodiazepine CHEBI:22720
+clomipramine CHEBI:47780
+Progesterone CHEBI:17026
+GW572016 CHEBI:73726
+catecholamine CHEBI:33567
+stigmasterol CHEBI:28824
+cyclic adenosine 3',5'-monophosphate CHEBI:17985
+RTI-55 CHEBI:61377
+methimazole CHEBI:50673
+phenelzine CHEBI:8060
+K CHEBI:25094
+2-aminomethyl-4-phenyl-1-azabicyclo[2.2.1]heptanes CHEBI:85716
+(S)-Phenylalanine CHEBI:28044
+alkaline CHEBI:18310
+acyl CHEBI:46887
+troglitazone CHEBI:9753
+Amiloride CHEBI:2639
+phosphatidylserine CHEBI:18303
+Torasemide CHEBI:9637
+Bitolterol CHEBI:3133
+SB 244525 CHEBI:92422
+abscisic acid CHEBI:62431
+strychnine CHEBI:28973
+selenocysteine CHEBI:9093
+17β-estradiol CHEBI:16469
+LY 344864 CHEBI:94241
+perlapine CHEBI:31983
+H2C CHEBI:50315
+inositol CHEBI:24848
+periodate CHEBI:49826
+vitamin K CHEBI:28384
+PD98059 CHEBI:77954
+N'-2-(4-Benzylpiperidin-/piperazin-1-yl)acylhydrazones CHEBI:121832
+CGS 12066B CHEBI:64053
+flavanol glucoside CHEBI:85938
+ALD CHEBI:38729
+acetone CHEBI:15347
+clemastine CHEBI:3738
+CDCA CHEBI:16755
+Geldanamycin CHEBI:5292
+nicorandil CHEBI:31905
+nicotinamide adenine dinucleotide CHEBI:183817
+potassium-chloride CHEBI:32588
+leukotriene (LT) B(4), C(4) and E(4) CHEBI:88456
+pentyl carbamate CHEBI:76606
+L-Ser CHEBI:17115
+Ozone CHEBI:25812
+Lactate CHEBI:24996
+D-65476 CHEBI:51966
+amino or hydroxy acids CHEBI:24662
+U0126 CHEBI:90693
+chloroethylclonidine CHEBI:169632
+(+/-)-bupranolol CHEBI:135123
+peroxynitrite CHEBI:25941
+Phosphatidylserine CHEBI:18303
+[3H] gentamicin CHEBI:81279
+styelsamines B and D CHEBI:63866
+(ph)Map CHEBI:73631
+Fibrates CHEBI:22910
+palmitoyl-CoA CHEBI:15525
+JZL184 CHEBI:72319
+retinoic acid) CHEBI:26536
+prilocaine CHEBI:8404
+n-6 PUFA CHEBI:76567
+HNE CHEBI:32585
+disodium 4-acetamido-4'-isothiocyanato-stilben-2,2'-disulfonate CHEBI:34383
+[(3)H]glucosamine CHEBI:17315
+trichostatin CHEBI:39146
+galactose CHEBI:28260
+etodolac CHEBI:4909
+histamine CHEBI:18295
+prostanoid CHEBI:26347
+lavendustin A CHEBI:69822
+asenapine CHEBI:71253
+alpha-endosulfan CHEBI:4791
+isoflavone CHEBI:18220
+amoxapine CHEBI:2675
+tocopherol CHEBI:27013
+[(125)I]3beta-(4'-iodophenyl)tropan-2beta-carboxylic acid methyl ester CHEBI:188463
+HATU CHEBI:82256
+cinitapride CHEBI:135642
+W13 CHEBI:75366
+Imatinib mesylate CHEBI:85995
+[57Co]cyanocobalamin CHEBI:17439
+(2S,3S)-2,3-trans-dihydromorin-7-O-β-d-glucoside CHEBI:4853
+sesquiterpene latones CHEBI:37667
+5-Methylurapidil CHEBI:69445
+N-acetyl-l-aspartyl-l-glutamate CHEBI:17583
+thiazolidinediones CHEBI:50990
+flunisolide CHEBI:5106
+Anastrozole CHEBI:2704
+[(3)H]dopamine CHEBI:18243
+midazolam CHEBI:6931
+BDE-47 CHEBI:81584
+S-nitrosoglutathione CHEBI:50091
+Mifepriston'e CHEBI:50692
+p-ABZ CHEBI:53554
+RAD001 CHEBI:68478
+D3S5G CHEBI:28159
+VB1 CHEBI:177890
+1-methyl-5-(2,4,6-trimethoxy-phenyl)-1H-pyrazole CHEBI:119921
+α,β-unsaturated carbonyl CHEBI:9878
+ALIMTA CHEBI:184021
+flecainide CHEBI:75984
+aminobenzothiazole CHEBI:167751
+telaprevir CHEBI:68595
+TEST CHEBI:39035
+triton CHEBI:29234
+Tykerb CHEBI:49603
+xanthines CHEBI:15318
+picrotoxinin CHEBI:8206
+Etodolac CHEBI:4909
+Abarelix CHEBI:337298
+CORT CHEBI:3898
+PCP CHEBI:8058
+Phenserine CHEBI:8080
+bisphosphonate CHEBI:77383
+Iron CHEBI:18248
+sulphate CHEBI:16189
+long-chain alkanol CHEBI:83563
+123I-iodobenzamide CHEBI:32348
+C31-C33 polyacetylenes CHEBI:53331
+Ferulic acid CHEBI:17620
+methylcobalamin CHEBI:28115
+NADH CHEBI:16908
+amlodipine CHEBI:2668
+Cu(I) CHEBI:29036
+Superoxide CHEBI:18421
+Quinpirole CHEBI:75401
+ephedrine CHEBI:15407
+Phentolamine CHEBI:8081
+6-DHSG CHEBI:52371
+di(2-ethylhexyl) phthalate CHEBI:17747
+sulfonylurea glibenclamide CHEBI:76983
+testolactone CHEBI:9460
+pyrido[4,3,2-mn]acridin-4-one CHEBI:151053
+long-chain alkanols CHEBI:83563
+carbonylcyanide p-trifluoromethoxyphenylhydrazone CHEBI:75458
+triterpenoid CHEBI:36615
+Syprine CHEBI:9706
+ABTS CHEBI:147402
+silica CHEBI:30563
+MUFAs CHEBI:25413
+5-fluorouracil CHEBI:46345
+noradrenaline CHEBI:33569
+sulfhydryl CHEBI:29825
+CFT CHEBI:73636
+4-Hydroxynonenal CHEBI:32585
+organophosphate CHEBI:71285
+5-(N,N-dimethyl)-amiloride CHEBI:138016
+tetramethylammonium CHEBI:46020
+phenylbutazone CHEBI:48574
+Delta(1)-pyrroline-5-carboxylate CHEBI:15893
+uronic acid CHEBI:27252
+CLS CHEBI:61159
+ciprostene CHEBI:177626
+diphosphate CHEBI:33019
+timolol CHEBI:39465
+hexahydro-1,3,5-trinitroso-1,3,5-triazine CHEBI:24557
+Glycylsarcosine CHEBI:155876
+xanthine CHEBI:15318
+nodularins CHEBI:80043
+graphene CHEBI:36973
+Cembranoid CHEBI:60689
+avermectin CHEBI:50344
+(2-furyl)Map CHEBI:19586
+acetyl-coenzyme A CHEBI:57287
+thapsigargin CHEBI:9516
+Ketamine CHEBI:6121
+glucose-6-phosphate CHEBI:14314
+Triphosphate nucleotides CHEBI:17326
+[(3)H]cefadroxil CHEBI:53669
+isocitrate CHEBI:16087
+fluoxymesterone CHEBI:5120
+enoyl-CoA CHEBI:20012
+MTT CHEBI:53233
+lithium CHEBI:30145
+alpha-difluoromethylornithine CHEBI:41948
+neoechinulin A CHEBI:68794
+L-alanine CHEBI:16977
+fluticasone propionate CHEBI:31441
+N CHEBI:50347
+Sutent CHEBI:38940
+dihydropyridines CHEBI:50075
+NEM CHEBI:44485
+Tarceva CHEBI:53509
+progesterone (P4) CHEBI:17026
+anorexigen CHEBI:80319
+PVP K30 CHEBI:183318
+estrone sulfate CHEBI:17474
+NG-nitro-L-arginine CHEBI:27960
+amantadine CHEBI:2618
+NaB[3H]4 CHEBI:29476
+GS-6-DHSG CHEBI:144039
+1,5-diarylpyrrole nitrooxyalkyl ethers CHEBI:59982
+[M(p-cymene)(azo/imino-pyridine)X](+) CHEBI:34385
+ajmaline CHEBI:28462
+AG1296 CHEBI:76379
+citral CHEBI:23316
+[H]-Cholesterol CHEBI:16113
+androstenedione CHEBI:34386
+KCl CHEBI:32588
+sterols CHEBI:15889
+C1-tetrahydrofolate CHEBI:67016
+folylpolyglutamate CHEBI:183936
+Dmt CHEBI:28969
+ICI-118,551 CHEBI:73289
+Tamoxifen CHEBI:41774
+imidazo[1,2-c]pyrimidines CHEBI:35874
+vasopressin CHEBI:9937
+Map CHEBI:87194
+DHEAS CHEBI:16814
+Steroid CHEBI:35341
+1,5-dihydrobenzo[b][1,4]diazepine-2,4-dione CHEBI:81310
+mycophenolic acid CHEBI:168396
+anisomycin CHEBI:338412
+L-carnitine CHEBI:11060
+(-)-dimethindene CHEBI:135222
+Ketoconazole CHEBI:47519
+Curcuminoids CHEBI:3962
+para-fluoro-hexahydro-sila-difenidol CHEBI:31481
+phenylethyl isothiocyanate CHEBI:351346
+threonine CHEBI:26986
+4-tert-OP CHEBI:26374
+DMAs(III) CHEBI:63450
+dehydroascorbate CHEBI:58539
+methyltrienelone CHEBI:167840
+TSA CHEBI:46024
+H2O2 CHEBI:16240
+Sodium CHEBI:29101
+monoflavonoid CHEBI:71971
+2-(1H-7-azabenzotriazol-1-yl)-1,1,3,3-tetramethyl hexafluorophosphate methanaminium uronium CHEBI:104046
+E-4031 CHEBI:34732
+PSS CHEBI:53277
+L-methionine CHEBI:16643
+11-dehydro-thromboxane B2 CHEBI:28667
+VP-16 CHEBI:4911
+HCO CHEBI:186771
+Triethylenetetramine CHEBI:39501
+PCBs CHEBI:53156
+buserelin CHEBI:135907
+yo pro-1 CHEBI:51225
+(S)-phenylalanine CHEBI:28044
+amiloride CHEBI:2639
+Asn CHEBI:50347
+MUFA CHEBI:25413
+H20 CHEBI:29293
+Phenformin CHEBI:8064
+remikiren CHEBI:8803
+[(11)C]-doxepin CHEBI:36691
+muscarine CHEBI:7034
+chloride CHEBI:17996
+Δ(9)-tetrahydrocannabinol CHEBI:66964
+Coumarins CHEBI:23403
+Cysteine CHEBI:15356
+antazoline CHEBI:84115
+apo-lycopenoic acids CHEBI:83043
+ester CHEBI:35701
+Ba CHEBI:32594
+Alendronate CHEBI:2567
+halogenated and polycyclic aromatic hydrocarbons CHEBI:33848
+[(3)H]taurocholic acid CHEBI:28865
+Rofecoxib CHEBI:8887
+heme CHEBI:30413
+UDP CHEBI:17659
+α-Amino-α´-Halomethylketones CHEBI:48243
+ritonavir CHEBI:45409
+succinate CHEBI:26806
+cephalexin CHEBI:3534
+aromatic amine CHEBI:33860
+Gln CHEBI:30011
+17beta-estradiol CHEBI:16469
+promegestone CHEBI:73390
+hexosamine CHEBI:24586
+WAY-100135 CHEBI:15367
+bicycloorthobenzoate CHEBI:23133
+Levomepromazine CHEBI:6838
+Bile acid CHEBI:22868
+cDDP CHEBI:17239
+triazolam CHEBI:9674
+[3H]EBOB CHEBI:51882
+adenosine CHEBI:16335
+Ritodrine CHEBI:8872
+SB-207266 CHEBI:8976
+Thymitag CHEBI:17821
+24-OHC CHEBI:79146
+cis-dicarboxylate maleate CHEBI:61336
+[3H]tenocyclidine CHEBI:64610
+atrazine CHEBI:15930
+ezetimibe CHEBI:49040
+isovaleryl-CoA CHEBI:15487
+N-substituted-5-(4-isopropylthiophenol)-2-hydroxynicotinamide CHEBI:65111
+orlistat CHEBI:94686
+racemosalactones A-E CHEBI:171753
+GDP CHEBI:17552
+RTI-76 CHEBI:18422
+nucleoside CHEBI:33838
+Stearoyl-CoA CHEBI:15541
+efonidipine CHEBI:135859
+Curcumin CHEBI:3962
+1,25D CHEBI:76110
+Cilazapril CHEBI:3698
+methanol CHEBI:17790
+2'-cytidine monophosphate CHEBI:60377
+oleic and palmitic acids CHEBI:168544
+desoxycorticosterone CHEBI:16973
+[(3)H]MPP(+) CHEBI:174528
+methylmalonyl-CoA CHEBI:16625
+Adenine CHEBI:16708
+adapalene CHEBI:31174
+Cbl CHEBI:28911
+imidazoles CHEBI:24780
+malonyl-coenzyme A CHEBI:37002
+alpha-bromoacetoxyprogesterone CHEBI:34476
+eseroline CHEBI:48845
+pyridoxal phosphate CHEBI:18405
+meloxicam CHEBI:6741
+vitamin B6 CHEBI:27306
+bile acids CHEBI:138366
+biotin CHEBI:15956
+felodipine CHEBI:585948
+[125I]ICYP CHEBI:31708
+7-hydroxy-N,N-dipropyl-2-aminotetralin CHEBI:137845
+B-HT 920 CHEBI:38272
+tetraphenylborate CHEBI:50939
+acetaldehyde CHEBI:15343
+dimethyl sulfoxide CHEBI:28262
+3H-dihydromorphine CHEBI:4575
+[(14)C]CDCA CHEBI:131933
+NaF CHEBI:28741
+Fenoterol CHEBI:149226
+kampferol-3-galactoside CHEBI:168037
+(+)-amphetamine CHEBI:4469
+N-ethylmaleimide CHEBI:44485
+nucleotide CHEBI:36976
+[5-14C]DFMO CHEBI:48650
+pinosylvin CHEBI:36011
+aromatic L-amino acid CHEBI:33856
+isothiocyanates CHEBI:52221
+2',2'-difluorodeoxycytidine CHEBI:174466
+deoxyribonucleoside diphosphates CHEBI:17955
+5-nitro-2-(3-phenylpropylamino) benzoic acid CHEBI:34457
+Trichostatin A CHEBI:46024
+clerosterol CHEBI:166817
+Adenosine CHEBI:16335
+hisphosphonates CHEBI:26066
+MPP+ CHEBI:641
+SF1126 CHEBI:50002
+anthocyanins CHEBI:35218
+aflatoxin B(1) CHEBI:2504
+ABTS(•+) CHEBI:147402
+candesartan CHEBI:3347
+Racemic IKM-159 CHEBI:26849
+Crocin CHEBI:64627
+diaryltriazole CHEBI:141155
+4-(m-chlorophenyl-carbamoyloxy)-2-butynyltrimethylammonium CHEBI:33421
+Xibrom CHEBI:135416
+Laquinimod CHEBI:134738
+LEX CHEBI:140911
+Acetaminophen CHEBI:46195
+polySia CHEBI:8305
+ketosteroid CHEBI:188204
+6-hydroxyl CHEBI:29191
+[3H]TCP CHEBI:57481
+FITC CHEBI:37926
+tryptanthrin CHEBI:9768
+adenosine 5'-monophosphate CHEBI:16027
+capecitabine CHEBI:31348
+Vapreotide CHEBI:29300
+[D-Ala2, D-Leu5]enkephalin CHEBI:89656
+valdecoxib CHEBI:63634
+5-azacytidine CHEBI:2038
+indolocarbazoles CHEBI:51915
+glycocholic acid CHEBI:17687
+Dfbp-o CHEBI:173072
+Thiol CHEBI:29256
+bumetanide CHEBI:3213
+microgrewiapine A CHEBI:169902
+sorbitol CHEBI:15963
+anthracycline CHEBI:48120
+ceramides CHEBI:17761
+corticosteroids CHEBI:50858
+phosphatidylinositol CHEBI:28874
+2-thiazolylethylamine CHEBI:81388
+o-quinones CHEBI:25622
+2,2- and 2,3-dimethylsuccinate CHEBI:58851
+1-ethyl-5-methyl-2-phenyl-1H-benzo[d]imidazole CHEBI:78692
+IMG CHEBI:27506
+sumatriptan CHEBI:10650
+rasagiline CHEBI:63620
+Methylenedioxymethamphetamine CHEBI:1391
+rofecoxib CHEBI:8887
+C-11 CHEBI:156510
+atropine CHEBI:16684
+batimastat CHEBI:50662
+quinazoline CHEBI:36621
+3 beta-hydroxy-5-ene-steroid CHEBI:36836
+Morphinans CHEBI:35649
+LPV CHEBI:46895
+oligonucleotides CHEBI:7754
+MDZ CHEBI:6704
+3-hydroxykynurenine CHEBI:1547
+delta cortisol CHEBI:23396
+tertiary amine N-oxides CHEBI:134363
+chalcone CHEBI:27618
+A23187 CHEBI:136847
+idoxifene CHEBI:188870
+inorganic arsenic CHEBI:24834
+DPCPX CHEBI:73282
+veratridine CHEBI:28051
+serine CHEBI:17822
+EROD CHEBI:35341
+N-acetyl CHEBI:46887
+quinoxaline CHEBI:36616
+Fulvestrant CHEBI:31638
+NADPH CHEBI:16474
+(+)-3-methyl-N-methylmorphinan CHEBI:7303
+lipoxins CHEBI:6497
+Lanthanum (III) CHEBI:37317
+reboxetine CHEBI:135342
+Carvedilol CHEBI:3441
+sitagliptin CHEBI:40237
+amines CHEBI:32952
+STI571 CHEBI:172325
+123I-IBZM CHEBI:31708
+(-)-epicatechin CHEBI:90
+Fe CHEBI:18248
+Br CHEBI:22972
+phorbol 12-myristate 13-acetate CHEBI:37537
+kahalalide Y CHEBI:188770
+estradiol CHEBI:23965
+Tetracaine CHEBI:9468
+o-cresol CHEBI:28054
+phenanthrene CHEBI:28851
+CdCl2 CHEBI:35456
+Creatine CHEBI:16919
+eicosanoyl-5-hydroxytryptamide CHEBI:67029
+BrBK4-8 CHEBI:52459
+Phenoxybenzamine CHEBI:8077
+ASC CHEBI:73394
+O CHEBI:25805
+minocycline CHEBI:50694
+4(3H)-quinazolinone CHEBI:182576
+GMC CHEBI:73890
+caffeine CHEBI:27732
+chloroprocaine CHEBI:3636
+17-phenyl trinor PGE2 CHEBI:165308
+PhIP CHEBI:76290
+fenoldopam CHEBI:5002
+Oxytocin CHEBI:7872
+fenfluramine CHEBI:5000
+saturated fatty acid CHEBI:26607
+formalin CHEBI:85577
+O(2) CHEBI:29194
+[(3)H]Nicotinate CHEBI:32544
+aprepitant CHEBI:499361
+Bumetanide CHEBI:3213
+l-lactate CHEBI:24996
+somatostatin CHEBI:64628
+thyroid-hormone CHEBI:60311
+tetracycline CHEBI:27902
+cefadroxil CHEBI:3479
+alendronate CHEBI:50647
+prostaglandin I2 CHEBI:15552
+N-acetyl-beta-D-glucosamidase CHEBI:28009
+3-N-[(11)C]methylspiperone CHEBI:188895
+Etoposide CHEBI:4911
+DL-alpha-difluoromethylornithine CHEBI:41948
+clonidine CHEBI:46631
+dimethylarsinous acid CHEBI:23808
+spiroperidol CHEBI:4717
+maltotetraose CHEBI:28460
+Risperidone CHEBI:8871
+4-n-NP CHEBI:73326
+Trp CHEBI:29954
+prostaglandin D(2) CHEBI:186015
+aldosterone CHEBI:27584
+Corticosteroids CHEBI:50858
+PCA CHEBI:62248
+Phenothiazines CHEBI:38093
+MnCl2 CHEBI:6636
+glutarate CHEBI:24329
+bestatin CHEBI:3070
+arginine vasopressin CHEBI:9937
+Fingolimod CHEBI:63115
+asparagine CHEBI:22653
+omapatrilat CHEBI:135660
+Valproic acid CHEBI:39867
+bile salt CHEBI:22868
+phosphatidylcholine CHEBI:64482
+eicosanoid CHEBI:23899
+torasemide CHEBI:9637
+MPTP CHEBI:17963
+N-(3,3-diphenylpropyl)-2-phenyl-4-quinazolinamine CHEBI:114872
+bile salts CHEBI:22868
+Flutamide CHEBI:5132
+Mitotane CHEBI:6954
+copper CHEBI:30052
+pitavastatin CHEBI:32020
+spiroxatrine CHEBI:9242
+Acyl-CoA CHEBI:17984
+ethylacetate CHEBI:132097
+deoxynucleotide triphosphates CHEBI:16516
+1,2,4-oxadiazol-5(4H)-one CHEBI:46809
+angiotensin CHEBI:48433
+Pro CHEBI:50342
+D-Ala2-Leu5-enkephalin CHEBI:89656
+Angiotensin CHEBI:2719
+AMROH CHEBI:38531
+nifedipine CHEBI:7565
+cilomilast CHEBI:47619
+[3H]ketanserin CHEBI:183638
+oxygens CHEBI:15379
+Mo CHEBI:28685
+Catalpol CHEBI:69797
+3OH-BaP CHEBI:36361
+C1 CHEBI:85033
+tetracaine CHEBI:9468
+cys CHEBI:32456
+phosphate CHEBI:26020
+[(11)C]raclopride CHEBI:188152
+methyllycaconitine CHEBI:43931
+8-hydroxy-2-(di-n-propylamino)tetralin CHEBI:27992
+adriamycin CHEBI:165223
+BD 1047 CHEBI:183656
+Nle CHEBI:18347
+chlorpheniramine CHEBI:52010
+nandrolone CHEBI:7466
+trypan blue CHEBI:78897
+Ethanol CHEBI:16236
+ethylenediamine tetraacetic acid CHEBI:42191
+proflavin CHEBI:17015
+iloprost CHEBI:63916
+fondaparinux sodium CHEBI:31632
+Cefepime CHEBI:478164
+8-Oxo-7'8-dihydro-2'-deoxyguanosine CHEBI:40304
+Vinblastine CHEBI:27375
+arachidonic acid CHEBI:15843
+lindane CHEBI:37911
+pregnane CHEBI:8386
+TRZ CHEBI:74825
+olmesartan CHEBI:48416
+TxB2 CHEBI:28728
+polyamine CHEBI:88061
+inositol phosphate CHEBI:24846
+amphetamines CHEBI:35338
+5-methoxytryptamine CHEBI:2089
+hexahydro-1,3-dinitroso-5-nitro-1,3,5-triazine CHEBI:24558
+Upamostat CHEBI:135632
+MMB-4 CHEBI:175944
+mZIENT CHEBI:10111
+N-(piperidin-1-yl)-5-(4-chlorophenyl)-4-methyl-1H-pyrazole-3-carboxyamide CHEBI:123255
+Tacrine CHEBI:45980
+Phenylbutazone CHEBI:48574
+superoxide anion CHEBI:18421
+99mTc-sulfur CHEBI:29832
+guanabenz CHEBI:5553
+adenosine triphosphate CHEBI:22256
+alpha-ketoglutarate CHEBI:16810
+N-(2,2-diphenylethyl)-2-phenyl-4-quinazolinamine CHEBI:94275
+Desipramine CHEBI:47781
+taurochenodeoxycholic acid CHEBI:16525
+nitroso CHEBI:35801
+α-tocopherol CHEBI:27013
+H(2)O(2) CHEBI:79374
+glyceraldehyde-3-phosphate CHEBI:17138
+mitoxantrone CHEBI:50729
+butoxy CHEBI:81901
+cisapride CHEBI:3720
+Bile-acid CHEBI:3098
+apomorphine CHEBI:48538
+[+]-Huperzine A CHEBI:78330
+Z-Gly-Gly-Arg-7-amino-4-trifluoromethylcoumarin CHEBI:84832
+monoamine CHEBI:63534
+l-amino acid CHEBI:33709
+N(4)-(5-(2/3/4-substituted-phenyl)-1,3,4-oxadiazol-2-yl)-N(1)-(3,7-dimethylocta-3,6-dienylidene)-semicarbazide CHEBI:107487
+Everolimus CHEBI:68478
+NAG CHEBI:44337
+Prostaglandins CHEBI:26333
+Lys CHEBI:18019
+phencyclidine CHEBI:8058
+CM-H2DCFDA CHEBI:90122
+Epi CHEBI:3750
+Ellagic acid CHEBI:4775
+lactate CHEBI:24996
+GW 842470 CHEBI:9451
+gemfibrozil CHEBI:5296
+1-(2-ethoxyethyl)-2-(4-methyl-1-homopiperazinyl)- benzimidazole difumarate CHEBI:131292
+chrysin CHEBI:75095
+α/β-tauromuricholic acid CHEBI:145227
+fluconazole CHEBI:46081
+glycerophosphoserine CHEBI:35766
+thyroxine CHEBI:30660
+R1881 CHEBI:379896
+MF-8622 CHEBI:88912
+isoquercitrin CHEBI:17558
+olopatadine hydrochloride CHEBI:7769
+Fisetin CHEBI:42567
+17 beta-estradiol CHEBI:16469
+RU 24969 CHEBI:90952
+triethylene glycol CHEBI:44926
+homocysteine CHEBI:17230
+amrubicin CHEBI:135779
+5'-deoxyadenosylcobalamin CHEBI:18408
+UK 14304 CHEBI:180692
+tolfenamic acid CHEBI:32243
+α-methylene-β-aminopropanoic acids CHEBI:180595
+polybrominated diphenyl ethers CHEBI:134094
+(+)-Posiphen CHEBI:82068
+celocoxib CHEBI:41423
+ICRF-187 CHEBI:21183
+cytarabine CHEBI:28680
+DA CHEBI:73826
+NHR CHEBI:48373
+agomelatine CHEBI:134990
+(NH4)2SO4 CHEBI:62946
+catecholamines CHEBI:33567
+quetiapine CHEBI:8707
+Gd CHEBI:73893
+[3H]-5-HT CHEBI:89575
+N-acetyl glucosamine CHEBI:59640
+DPPH CHEBI:60069
+nucleosides CHEBI:33838
+SKF-104078 CHEBI:3441
+salicylate CHEBI:30762
+carboxylic acid CHEBI:33575
+ramipril CHEBI:8774
+mono-xylosides CHEBI:27350
+SoRI-20040 CHEBI:72449
+MET CHEBI:141319
+atRA CHEBI:173193
+PCB CHEBI:53156
+thromboxane B2 CHEBI:28728
+tert-butylhydroquinone CHEBI:78886
+Imatinib CHEBI:45783
+JMC08-4 CHEBI:59331
+arachidic acid CHEBI:28822
+iodido CHEBI:16382
+GT-2331 CHEBI:101279
+Gly CHEBI:15428
+AMPH CHEBI:186632
+enkephalins CHEBI:89656
+N-Me-α-MeDA CHEBI:44003
+PNU-282987 CHEBI:5556
+gonyautoxin 2,3 CHEBI:80769
+5' phosphate CHEBI:18367
+5-morpholino-7H-thieno[3,2-b]pyran-7-ones CHEBI:187241
+[-]-Huperzine A CHEBI:78330
+oxymetazoline CHEBI:7862
+gamma-aminobutyrate CHEBI:30566
+etoposide CHEBI:4911
+NHOH-PhIP CHEBI:187503
+5-hydroxyindolacetic acid CHEBI:136927
+arachidonate CHEBI:32395
+clofilium CHEBI:34649
+Asenapine CHEBI:71253
+cytidine CHEBI:17562
+cystodytin iminoquinone alkaloids CHEBI:47009
+glassy carbon CHEBI:23016
+dydrogesterone CHEBI:31527
+doxazolidine CHEBI:38330
+carbonic CHEBI:28976
+betaine CHEBI:3080
+Asiatic acid CHEBI:2873
+N-methyl-pyrrolidine CHEBI:145240
+5-Fluorouracil CHEBI:46345
+7-ketocholesterol CHEBI:64294
+D-myo-inositol 1,4,5-tris phosphate CHEBI:84141
+clofibrate CHEBI:3750
+sn-2,3-glycerol CHEBI:75524
+4-phenyl-1-(quinuclidin-3-ylmethyl)quinolin-2(1H)-one CHEBI:105978
+Prostaglandin E(2) CHEBI:190308
+leukotriene B4 CHEBI:15647
+LT4 CHEBI:18332
+H18 CHEBI:186515
+dizocilpine CHEBI:34725
+N-EH CHEBI:63057
+dimethylarsenic CHEBI:48765
+carbohydrates CHEBI:16646
+chlorpromazine CHEBI:3647
+indanyloxyacetic acid 94 CHEBI:27240
+DL-propargylglycine CHEBI:43797
+heterocyclic amine CHEBI:51369
+Hydrogen sulfide CHEBI:16136
+Sar CHEBI:15611
+Met CHEBI:16044
+progestogen CHEBI:50745
+Tomudex CHEBI:5847
+peginesatide CHEBI:66889
+p-OH-benzoic acid CHEBI:30746
+1-ethoxypentacosane CHEBI:178228
+UTP CHEBI:15713
+entacapone CHEBI:4798
+thioacyl halide CHEBI:29290
+N(4)-(5-(2/3/4-substituted-phenyl)-1,3,4-oxadiazol-2-yl)-N(1)-(2-methyl-5-(prop-1-en-2-yl)cyclohex-2-enylidene)semicarbazide CHEBI:107359
+TETA CHEBI:61030
+2-[(hydroxyimino)methyl]-1-methylpyridin-1-ium chloride CHEBI:74727
+ketotifen CHEBI:92511
+pyrido-quinazolines CHEBI:38921
+Catecholamine CHEBI:33567
+PUFA CHEBI:76567
+goserelin CHEBI:5523
+(+)-1-(5-isoquinolinesulfonyl)-2-methylpiperazine dihydrochloride CHEBI:82739
+buthionine sulfoximine CHEBI:28714
+tBuBHQ CHEBI:78886
+prazosin CHEBI:8364
+soman CHEBI:9195
+PMAA CHEBI:53429
+Iloprost CHEBI:63916
+METH CHEBI:29309
+nicotine CHEBI:18723
+Hoechst 33342 CHEBI:51232
+cembranoid CHEBI:60687
+HU CHEBI:46627
+adamantane CHEBI:40519
+galantamine CHEBI:42944
+pantoprazole CHEBI:7915
+digitonin CHEBI:27729
+[3H]-acetylcholine CHEBI:15355
+CEC CHEBI:156047
+quinones CHEBI:36141
+caerulein CHEBI:59219
+311C90 CHEBI:10124
+pellynols A (5), C (6), D (7), F (8), and I CHEBI:31624
+imiquimod CHEBI:36704
+N-acetylcysteine CHEBI:28939
+diglycerides CHEBI:18035
+metyrapone CHEBI:44241
+p-hydroxybenzoic acid CHEBI:30763
+Pinosylvin CHEBI:36011
+triamterene CHEBI:9671
+S-((2-pyrrolidine)methyl)cysteine CHEBI:131426
+magnesium oxide CHEBI:31794
+thymidine CHEBI:17748
+valsartan CHEBI:9927
+DiR CHEBI:52033
+K-Cl CHEBI:51564
+coumarins CHEBI:23403
+secondary amine CHEBI:32863
+AuF CHEBI:30327
+d-amphetamine CHEBI:4469
+cocaine CHEBI:27958
+Ketorolac CHEBI:6129
+Zolmitriptan CHEBI:10124
+normetanephrine CHEBI:89951
+ellagic acid CHEBI:4775
+Forskolin CHEBI:42471
+6beta-OH MF CHEBI:133052
+phenothiazine CHEBI:37932
+thioxanthene CHEBI:51056
+La(III) CHEBI:17826
+flavonoid CHEBI:47916
+alcohol CHEBI:30879
+AdoHcy CHEBI:16680
+foradile CHEBI:135240
+dexamethasone CHEBI:41879
+prochlorperazine CHEBI:8435
+zinc CHEBI:30185
+Creatinine CHEBI:16737
+TC-[57Co]CN-Cbl CHEBI:176578
+estramustine CHEBI:4868
+Cd CHEBI:22977
+mikanolide CHEBI:6936
+alcohols CHEBI:30879
+2beta-carbomethoxy-3beta-(3'-((Z)-2-iodoethenyl)phenyl)nortropane CHEBI:71185
+polyglutamate CHEBI:53376
+poly (methacrylic acid) CHEBI:25219
+tamoxifen CHEBI:41774
+EtOAc CHEBI:27750
+dihydrofolate CHEBI:67014
+PtdSer CHEBI:29998
+SH CHEBI:29312
+meclofenamic acid CHEBI:6710
+BMY-7378 CHEBI:51544
+3H-mepyramine CHEBI:6762
+alosetron CHEBI:253342
+ACh CHEBI:15355
+TAGs CHEBI:73350
+pyridoxal CHEBI:17310
+Canertinib CHEBI:61399
+NET CHEBI:44296
+oximes CHEBI:25750
+carbacyclin CHEBI:173208
+11-cis retinal CHEBI:16066
+glutaraldehyde CHEBI:64276
+clenbuterol CHEBI:174690
+7-ketosterols CHEBI:64294
+KA CHEBI:85092
+CPT CHEBI:27656
+mZBrENT CHEBI:78306
+4-phenyl-5-pyridin-4-yl-2,3-dihydro-3H-1,2,4-triazole-3-thiones CHEBI:116541
+SB 206553 CHEBI:8977
+A-II CHEBI:47040
+Paclitaxel CHEBI:45863
+rosmarinic acid CHEBI:17226
+β-sitosterol CHEBI:27693
+2beta-carbomethoxy-3beta-(3'-((Z)-2-bromoethenyl)phenyl)nortropane CHEBI:93074
+pyrethroid CHEBI:8661
+vitamin A CHEBI:12777
+3-phenylpropanamide CHEBI:39940
+hydroxyl CHEBI:29191
+4-methoxy-2,5,6-trimethylphenol hemifumarate CHEBI:172423
+chalcones CHEBI:23086
+diphosphopyridine nucleotides CHEBI:26442
+carvedilol CHEBI:3441
+glutamic acid CHEBI:18237
+Fenoldopam CHEBI:5002
+retinyl ester CHEBI:16179
+diterpenes CHEBI:35190
+bafilomycin A(1) CHEBI:22689
+[3H]-DHPG CHEBI:89363
+8-oxo-dG CHEBI:63223
+Mometasone furoate CHEBI:47564
+2-amino-1-methyl-6-phenylimidazo [4,5-b] pyridine CHEBI:138825
+fumarate CHEBI:29806
+GAL CHEBI:5206
+(99m) Tc- EDTA-bis(tyramide) CHEBI:89626
+piperazonyl quinazoline CHEBI:93368
+OH-PAHs CHEBI:84425
+Sterols CHEBI:15889
+GTX2,3-aldehyde CHEBI:145078
+Betamethasone CHEBI:3077
+[(3)H]TCA CHEBI:75944
+corticosteroid CHEBI:50858
+bis(1H-2-indolyl)-1-methanone CHEBI:50182
+fenoterol CHEBI:149226
+pravastatin CHEBI:63618
+minoxidil CHEBI:6942
+BRL 52974 CHEBI:8863
+Leflunomide CHEBI:6402
+dyclonine CHEBI:4724
+imipramine CHEBI:47499
+dithiane CHEBI:47843
+dieldrin CHEBI:34696
+1, 3-Diphenyl-2-propen-1-one CHEBI:93674
+imino sugar CHEBI:28963
+sulphur CHEBI:17909
+LTC(4) CHEBI:29434
+Nitrooxy CHEBI:84879
+L-leucine CHEBI:15603
+chloroform CHEBI:35255
+phenolics CHEBI:33853
+cycloheximide CHEBI:27641
+creatinine CHEBI:16737
+dexmedetomidine CHEBI:4466
+L-thyroxine sodium salt CHEBI:90872
+Adapalene CHEBI:31174
+TXA2 CHEBI:15627
+prostaglandin IF2 alpha CHEBI:141586
+MgADP CHEBI:87194
+PPD CHEBI:51403
+SDM CHEBI:25682
+sn-1,2-glycerol CHEBI:64683
+Rasagiline CHEBI:63620
+Sulfonylureas CHEBI:76983
+GW2331 CHEBI:141346
+catechol CHEBI:18135
+AA-861 CHEBI:2340
+hydralazine CHEBI:5775
+propyl CHEBI:26308
+sulforhodamine CHEBI:52275
+GSH CHEBI:16856
+retinyl esters CHEBI:16179
+ribosyl zwitterion CHEBI:147392
+deoxycorticosterone pivalate CHEBI:50782
+NaAsO2 CHEBI:29678
+H4 CHEBI:29440
+TSN CHEBI:73664
+phosphatidic acid CHEBI:16337
+MNI CHEBI:30399
+Actinomycin D CHEBI:27666
+glucosamine CHEBI:5417
+LY541850 CHEBI:31736
+Phenytoin CHEBI:8107
+1,10-phenanthroline CHEBI:44975
+S-(+)-METH CHEBI:73613
+bambuterol CHEBI:553827
+1, 1'-dioctadecyl-3,3,3',3'-tetramethyl-indocarbocyanine iodide CHEBI:52818
+retinoid CHEBI:26537
+Chloroethylclonidine CHEBI:169632
+apo-10'-lycopenoic acid CHEBI:83043
+LAV CHEBI:73527
+H2 CHEBI:18276
+Diazinon CHEBI:34682
+mono- and bisquaternary ammonium CHEBI:35267
+para-aminobenzoic acid CHEBI:30753
+cyclic adenosine monophosphate CHEBI:175195
+bis- and tris-xylosides CHEBI:47846
+retinal CHEBI:15035
+radio-iodine CHEBI:33445
+styelsamine CHEBI:66470
+brompheniramine CHEBI:3183
+poly-l-arginine CHEBI:61487
+PtdEtn CHEBI:16038
+nitrite CHEBI:16301
+verapamil CHEBI:9948
+AMR CHEBI:73376
+7-hydroxy fluphenazine CHEBI:5126
+aspartate CHEBI:132943
+6-dehydroshogaol CHEBI:174624
+spermine CHEBI:15746
+(+)-dimethindene CHEBI:135222
+tBuBQ CHEBI:30355
+resveratrol amide CHEBI:36002
+5'-methylthioadenosine CHEBI:74046
+isoxazolines CHEBI:87553
+trichloroethylene CHEBI:16602
+hexahydro-1-nitroso-3,5-dinitro-1,3,5-triazine CHEBI:24559
+DADLE CHEBI:16598
+retinoids CHEBI:26537
+lorcaserin CHEBI:65353
+CdCl₂ CHEBI:85365
+ZD1839 CHEBI:49668
+11-[(Z)-3-(dimethylamino)propylidene]-6,11-dihydrodibenz[b,e]oxepin-2-acetic acid monohydrochloride CHEBI:36804
+pentacyclic triterpene CHEBI:25872
+S CHEBI:29999
+SCH 23390 CHEBI:73297
+Toosendanin CHEBI:136467
+WAY100635 CHEBI:187859
+Chlorate CHEBI:17322
+molybdate CHEBI:36264
+DMA CHEBI:16223
+sulfadimethoxine CHEBI:32161
+saponins CHEBI:26605
+carbons CHEBI:23016
+TEA CHEBI:35026
+NO CHEBI:16480
+SNOs CHEBI:29394
+Ajmaline CHEBI:28462
+REV 5901 CHEBI:5128
+silver CHEBI:9141
+111In-DTPA CHEBI:35745
+metocurine CHEBI:6900
+sodium salicylate CHEBI:9180
+anthocyanin CHEBI:38697
+Licofelone CHEBI:184981
+calpeptin CHEBI:3330
+guaiacol CHEBI:28591
+phosphatidylethanolamine CHEBI:16038
+α-MeDA CHEBI:32850
+4-Br CHEBI:65488
+(125)I CHEBI:65824
+6-shogaol CHEBI:10138
+PDE4 CHEBI:30614
+MDA CHEBI:566274
+4-amino-1-hydroxybutylidene-1,1-bisphosphonate CHEBI:29144
+15-HETE CHEBI:64017
+polychlorinated biphenyls CHEBI:53156
+urea CHEBI:16199
+phosphomolybdenum CHEBI:30282
+U50,488H CHEBI:73358
+2-[[5-(2,6-dimethoxyphenyl)-1-(4-(N-(3-dimethylaminopropyl)-N-methyl carbamoyl)-2-isopropylphenyl)-1H-pyrazole-3-carbonyl]-amino]-ad amantane-2-carboxylic acid, hydrochloride CHEBI:93589
+steroids CHEBI:35341
+8-[4-(carboxymethyloxy)phenyl 1]1,3-dipropylxanthine CHEBI:76162
+Cd(2+) CHEBI:48775
+(18) fluorodeoxyglucose CHEBI:23623
+5 alpha-NET CHEBI:34461
+exelon CHEBI:134985
+3H-ethylketocyclazocine CHEBI:4901
+pyridox(am)ine-5'-phosphate CHEBI:18405
+AR678 CHEBI:142005
+lysergic acid diethylamide CHEBI:6605
+Metformin CHEBI:6801
+naloxone estrone azine CHEBI:68051
+CP 55,940 CHEBI:71197
+rifampicin CHEBI:28077
+ZK 222584 CHEBI:90623
+bromfenac CHEBI:240107
+para-hydroxyamphetamine CHEBI:76833
+Prazosin CHEBI:8364
+diethylglyoxal bis-(guanylhydrazone) CHEBI:78028
+DMSO CHEBI:28262
+S-warfarin CHEBI:87738
+etorphine CHEBI:4912
+9-(15)N CHEBI:36934
+125I-labeled LSD CHEBI:158590
+UK 14,304 CHEBI:180692
+pregnenolone CHEBI:16581
+Choline CHEBI:15354
+ferrous CHEBI:51005
+4-fluoroquinuclidine CHEBI:38420
+cefoperazone CHEBI:3493
+PHH CHEBI:15882
+lanthanum CHEBI:33336
+3β-hydroxysteroid CHEBI:36834
+tertiary amine CHEBI:32876
+DF CHEBI:73830
+prostaglandin H2 CHEBI:15554
+alkyl CHEBI:22339
+ThioTEPA CHEBI:9570
+BHA CHEBI:76359
+nucleotides CHEBI:36976
+potassium iodide CHEBI:8346
+tricyclic CHEBI:64266
+Remikiren CHEBI:8803
+Thyroid hormone CHEBI:60311
+Nicotine CHEBI:17688
+dibucaine CHEBI:247956
+arformoterol tartrate CHEBI:63108
+linoleic acid CHEBI:17351
+17 beta hydroxysteroid CHEBI:35343
+dextrorphan CHEBI:29133
+ferric CHEBI:5019
+peroxide CHEBI:44785
+DFMO CHEBI:41948
+Graphene CHEBI:36973
+sildenafil CHEBI:9139
+reduced graphene oxide CHEBI:132889
+Rivastigmine CHEBI:8874
+imidazoline CHEBI:53094
+cysteine CHEBI:15356
+tyrosine CHEBI:18186
+Verapamil CHEBI:9948
+COOH CHEBI:79974
+lidocaine CHEBI:6456
+(R)-YM-12617 CHEBI:9399
+17864 CHEBI:134805
+Oxazolidinone CHEBI:55374
+3H CHEBI:29234
+CO(2) CHEBI:31330
+olopatadine CHEBI:7769
+[(3)H]nicotinate CHEBI:32544
+[3H]-prazosin CHEBI:8364
+Bzf CHEBI:22733
+semicarbazones CHEBI:87210
+alcoholic CHEBI:30879
+tetrafluoroethylene CHEBI:38866
+123I-3-iodo-6-methoxybenzamide CHEBI:141349
+McN-A-343 CHEBI:30324
+6-Methoxy-2-naphthylacetic acid CHEBI:35628
+cholestyramine CHEBI:35516
+medroxyprogesterone acetate CHEBI:6716
+RU-486 CHEBI:50692
+ryanodine CHEBI:8925
+3-hydroxybenzylhydrazine CHEBI:173335
+polyphenols CHEBI:26195
+monoacylglycerol CHEBI:17408
+(3S,4aR,6R,8aR)-6-[2-(1(2)H-tetrazole-5-yl)ethyl]decahydroisoquinoline-3-carboxylic acid CHEBI:44093
+benztropine CHEBI:3048
+nabumetone CHEBI:7443
+N(1)-acetylspermine CHEBI:17312
+Tertiary amine CHEBI:32876
+Alternariol CHEBI:64983
+Growth Hormone-Releasing Peptide 6 CHEBI:80328
+NS398 CHEBI:73458
+adrenaline CHEBI:33568
+2-[[1-(7-chloroquinolin-4-yl)-5-(2,6-dimethoxyphenyl)-1H-pyrazole -3-carbonyl]amino]-adamantane-2-carboxylic acid CHEBI:125516
+SR 141716A CHEBI:34967
+epinephrine CHEBI:28918
+(+)-niguldipine CHEBI:7572
+D-myo-inositol 1-phosphate CHEBI:18297
+[3H]inositol phosphates CHEBI:24846
+(R,R)-formoterol CHEBI:408174
+cyclophosphamide CHEBI:4027
+RX 821002 CHEBI:73287
+dihydropyrimidine CHEBI:50075
+oxaliplatin CHEBI:31941
+pentylenetrtrazole CHEBI:34910
+DPPH(•) CHEBI:60069
+(+/-)pindolol CHEBI:8214
+BHT CHEBI:34247
+sulfo CHEBI:29922
+5'-azacytidine CHEBI:2038
+(13)C CHEBI:36928
+venlafaxine CHEBI:9943
+Ethyl acetate CHEBI:27750
+licofelone CHEBI:184981
+ethylene glycol CHEBI:30742
+l-buthionine sulfoxime CHEBI:94288
+ZD6474 CHEBI:49960
+n-3 and n-6 PUFA CHEBI:77333
+manganese CHEBI:35154
+amide CHEBI:32988
+5-methylurapidil CHEBI:69445
+INNO-406 CHEBI:88600
+Squaraine Dye CHEBI:52271
+Bile acids CHEBI:138366
+5-carboxyamidotryptamine CHEBI:48292
+24(S)-hydroxycholesterol CHEBI:34310
+Evn-50 CHEBI:32139
+steppogenin CHEBI:135129
+O(2)(-) CHEBI:29194
+dabigatran CHEBI:70752
+Lapatinib CHEBI:49603
+rutin CHEBI:28527
+Relafen CHEBI:7443
+halide CHEBI:37578
+pyripyropene A CHEBI:64695
+N-(2-hydroxypropyl)methacrylamide CHEBI:53440
+L-glutamic acid CHEBI:16015
+chlorido ruthenium CHEBI:34956
+DEGBG CHEBI:136742
+avermectins CHEBI:50344
+epoxy-functionalized polyester CHEBI:60684
+Sterol CHEBI:15889
+2-(4-chloro-2-cyano-2-phenylbutyl)aziridines CHEBI:108549
+latamoxef CHEBI:599928
+(R/S)-βPro CHEBI:157888
+K(+) CHEBI:29103
+3 beta,5 alpha-NET CHEBI:18533
+Na+ CHEBI:29101
+keto CHEBI:17087
+Glu CHEBI:29972
+apixaban CHEBI:72296
+n-3 and n-6 polyunsaturated fatty acids CHEBI:76567
+carbon-11 labeled 2beta-carbomethoxy-3beta-(3'-((Z)-2-haloethenyl)phenyl)nortropanes CHEBI:107092
+flavonoids CHEBI:72544
+Lapatinib ditosylate CHEBI:79034
+guanine nucleotide CHEBI:61292
+betaCIT CHEBI:3080
+(-) epicatechin CHEBI:90
+alanine CHEBI:16449
+Squalene CHEBI:15440
