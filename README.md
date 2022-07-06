@@ -1,7 +1,5 @@
 # BOE: BiOnt Enhanced (DrugProt corpus)
 
----
-
 Download the [DrugProt corpus](https://zenodo.org/record/5042151)
 
 The aim of this project was to get better results on the DrugProt (drug and chemical-protein interactions) corpus, through the adaptation of the [BiOnt](https://github.com/lasigeBioTM/BiOnt) system, by enhancing it with improved ontologies from Gene Ontology (GO) and Chemical Entities of Biological Interest (ChEBI), and by reducing significantly the amount of time spent on the preprocessing steps. 
@@ -9,8 +7,6 @@ The aim of this project was to get better results on the DrugProt (drug and chem
 It can now capture more entities, allowing overlapping entities to be recognized by spacy, but unfortunately this step failed to improve the results.
 
 ## Enhancements
-
----
 
 - Ontology mapping and Ancestor linking are multiprocessed;
 - Added faster sentence segmenter (pysbd);
@@ -22,12 +18,12 @@ It can now capture more entities, allowing overlapping entities to be recognized
 
 ## Results (Micro-averaged)
 
----
-
 Principal variations between the models shown below are as follows:
 
-[baseline](https://github.com/lasigeBioTM/biocreativeVII): Model generated using a modified version of the BiOnt system used in the BioCreative VII Track 1 challenge.
+[**baseline**](https://github.com/lasigeBioTM/biocreativeVII): Model generated using a modified version of the BiOnt system used in the BioCreative VII Track 1 challenge.
+
 **main ents**: The largest term from the previously identified overlapping entities is used, while the rest are discarded.
+
 **extra ents**: Creates new sentences that incorporate one GENE term and one CHEMICAL term mentioned in the original sentence.
 
 | Model | Precision | Recall | F1-Score |
@@ -39,8 +35,6 @@ Principal variations between the models shown below are as follows:
 Micro-averaged results of the three models predicting the relations of the DrugProt development dataset.
 
 ## Preprocessing
-
----
 
 - $2: type_of_action 
 - $3: pair_type 
@@ -57,8 +51,6 @@ python3 src/ontologies_embeddings.py preprocess DRUG-GENE test corpora/drug_gene
 
 ## Training
 
----
-
 - $2: type_of_action 
 - $3: pair_type 
 - $4: model_name 
@@ -72,8 +64,6 @@ python3 src/ontologies_embeddings.py train DRUG-GENE model words wordnet concate
 ```
 
 ## Predicting
-
----
 
 - $2: type_of_action 
 - $3: pair_type 
@@ -89,8 +79,6 @@ python3 src/ontologies_embeddings.py test DRUG-GENE model corpora/drug_gene/test
 ```
 
 ## Evaluating
-
----
 
 Coverting the result file into a friendly format to be evaluated
 
