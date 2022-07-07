@@ -18,10 +18,16 @@ for line in res:
 
     if arg1[0][1:] not in res_rel:
         res_rel[arg1[0][1:]] = {}
-    if len(arg1) < 4:
-        res_rel[arg1[0][1:]][(arg1[2][1:], arg2[2][1:])] = rel_type
-    else:
-        res_rel[arg1[0][1:]][(arg1[3][1:], arg2[3][1:])] = rel_type
+
+    for i in range(len(arg1)):
+        if 'uT' in arg1[i]:
+            ent1 = arg1[i]
+
+    for i in range(len(arg2)):
+        if 'uT' in arg2[i]:
+            ent2 = arg2[i]
+
+    res_rel[arg1[0][1:]][(ent1[1:], ent2[1:])] = rel_type
 print('Results processed')
 
 outfile = open(sys.argv[2], 'w', encoding='utf-8')
