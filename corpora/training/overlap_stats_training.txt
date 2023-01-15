@@ -1,0 +1,19 @@
+1409 Abstracts w/ Relations & Overlapped Entities
+932 Abstracts w/ Overlapped Entities w/ Relations
+
+8089 Overlapped Entities in Abstracts w/ Relations
+
+2563 Overlapped Relations
+23 Multiple Overlapped Relations w/ Overlapped Entities
+INHIBITOR	722	
+SUBSTRATE	393	
+ACTIVATOR	214	
+INDIRECT-DOWNREGULATOR	63	
+ANTAGONIST	242	
+AGONIST	90	
+PRODUCT-OF	296	
+PART-OF	134	
+DIRECT-REGULATOR	326	
+INDIRECT-UPREGULATOR	70	
+SUBSTRATE_PRODUCT-OF	9	
+AGONIST-INHIBITOR	4	
