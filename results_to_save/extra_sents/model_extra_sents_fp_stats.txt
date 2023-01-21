@@ -1,0 +1,29 @@
+PRODUCT-OF	chem_names	71	chem_ids	67	gene_names	96	gene_ids	83	
+36	INHIBITOR	chem_names	3	chem_ids	6	gene_names	22	gene_ids	29
+40	SUBSTRATE	chem_names	10	chem_ids	12	gene_names	35	gene_ids	39
+2	ANTAGONIST	chem_names	1	chem_ids	1	gene_names	0	gene_ids	3
+21	DIRECT-REGULATOR	chem_names	3	chem_ids	6	gene_names	3	gene_ids	9
+
+ACTIVATOR	chem_names	138	chem_ids	122	gene_names	132	gene_ids	113	
+100	INHIBITOR	chem_names	25	chem_ids	26	gene_names	42	gene_ids	63
+22	DIRECT-REGULATOR	chem_names	14	chem_ids	19	gene_names	14	gene_ids	32
+6	AGONIST	chem_names	13	chem_ids	13	gene_names	7	gene_ids	13
+1	INDIRECT-DOWNREGULATOR	chem_names	19	chem_ids	20	gene_names	13	gene_ids	30
+
+INDIRECT-DOWNREGULATOR	chem_names	137	chem_ids	120	gene_names	164	gene_ids	120	
+96	INHIBITOR	chem_names	41	chem_ids	42	gene_names	39	gene_ids	49
+4	AGONIST	chem_names	12	chem_ids	14	gene_names	1	gene_ids	8
+14	DIRECT-REGULATOR	chem_names	7	chem_ids	11	gene_names	8	gene_ids	22
+1	SUBSTRATE	chem_names	5	chem_ids	4	gene_names	5	gene_ids	18
+
+AGONIST	chem_names	81	chem_ids	74	gene_names	65	gene_ids	49	
+22	INHIBITOR	chem_names	4	chem_ids	4	gene_names	3	gene_ids	17
+17	DIRECT-REGULATOR	chem_names	7	chem_ids	10	gene_names	8	gene_ids	19
+
+INDIRECT-UPREGULATOR	chem_names	132	chem_ids	123	gene_names	186	gene_ids	155	
+77	INHIBITOR	chem_names	21	chem_ids	27	gene_names	18	gene_ids	43
+12	INDIRECT-DOWNREGULATOR	chem_names	34	chem_ids	35	gene_names	47	gene_ids	51
+9	DIRECT-REGULATOR	chem_names	7	chem_ids	11	gene_names	8	gene_ids	22
+4	SUBSTRATE	chem_names	9	chem_ids	9	gene_names	10	gene_ids	25
+5	AGONIST	chem_names	5	chem_ids	6	gene_names	1	gene_ids	9
+
