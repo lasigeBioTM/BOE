@@ -99,7 +99,7 @@ def get_fp_stats(entities_file, relations_file, predictions_file, chemicals_file
 
 def write_fp_stats(entities_file, relations_file, predictions_file, chemicals_file, genes_file, outfile):
     d = get_fp_stats(entities_file, relations_file, predictions_file, chemicals_file, genes_file)
-    case_study = ["PRODUCT-OF", "ACTIVATOR", "INDIRECT-DOWNREGULATOR", "AGONIST", "INDIRECT-UPREGULATOR"]
+    case_study = ['PART-OF', 'INDIRECT-DOWNREGULATOR', 'INDIRECT-UPREGULATOR', 'ACTIVATOR', 'AGONIST', 'PRODUCT-OF']
     entities_stats_d = d[0]
     relations_stats_d = d[1]
     for t, pd_t_d in relations_stats_d.items():

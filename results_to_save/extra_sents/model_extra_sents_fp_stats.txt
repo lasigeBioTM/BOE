@@ -10,6 +10,12 @@ ACTIVATOR	chem_names	138	chem_ids	122	gene_names	132	gene_ids	113
 6	AGONIST	chem_names	13	chem_ids	13	gene_names	7	gene_ids	13
 1	INDIRECT-DOWNREGULATOR	chem_names	19	chem_ids	20	gene_names	13	gene_ids	30
 
+PART-OF	chem_names	67	chem_ids	56	gene_names	136	gene_ids	112	
+101	DIRECT-REGULATOR	chem_names	7	chem_ids	7	gene_names	17	gene_ids	26
+47	INHIBITOR	chem_names	1	chem_ids	2	gene_names	14	gene_ids	35
+6	AGONIST	chem_names	0	chem_ids	0	gene_names	2	gene_ids	10
+3	SUBSTRATE	chem_names	10	chem_ids	10	gene_names	8	gene_ids	17
+
 INDIRECT-DOWNREGULATOR	chem_names	137	chem_ids	120	gene_names	164	gene_ids	120	
 96	INHIBITOR	chem_names	41	chem_ids	42	gene_names	39	gene_ids	49
 4	AGONIST	chem_names	12	chem_ids	14	gene_names	1	gene_ids	8

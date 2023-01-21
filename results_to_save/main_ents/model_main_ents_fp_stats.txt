@@ -29,6 +29,11 @@ INDIRECT-UPREGULATOR	chem_names	132	chem_ids	123	gene_names	186	gene_ids	155
 2	ANTAGONIST	chem_names	4	chem_ids	8	gene_names	2	gene_ids	12
 5	SUBSTRATE	chem_names	9	chem_ids	9	gene_names	10	gene_ids	25
 
+PART-OF	chem_names	67	chem_ids	56	gene_names	136	gene_ids	112	
+84	DIRECT-REGULATOR	chem_names	7	chem_ids	7	gene_names	17	gene_ids	26
+25	INHIBITOR	chem_names	1	chem_ids	2	gene_names	14	gene_ids	35
+5	ANTAGONIST	chem_names	0	chem_ids	1	gene_names	3	gene_ids	13
+
 AGONIST	chem_names	81	chem_ids	74	gene_names	65	gene_ids	49	
 16	ANTAGONIST	chem_names	8	chem_ids	9	gene_names	28	gene_ids	23
 18	DIRECT-REGULATOR	chem_names	7	chem_ids	10	gene_names	8	gene_ids	19
