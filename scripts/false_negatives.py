@@ -1,5 +1,5 @@
 # This script outputs, for each relation type, 
-# the number of false positives by relation type in the predictions. 
+# the number of false negatives by relation type in the predictions. 
 # Then, for each relation type, 
 # the number of entities present in both relation types by name and ontology id.
 import sys
@@ -60,7 +60,7 @@ def get_ontology(ontology_file):
     
     return ontology_d
 
-def get_fp_stats(entities_file, relations_file, predictions_file, chemicals_file, genes_file):
+def get_fn_stats(entities_file, relations_file, predictions_file, chemicals_file, genes_file):
     gs_entities_d = get_entities(entities_file)
     gs_relations_d = get_relations(relations_file)
     chemicals_d = get_ontology(chemicals_file)
@@ -97,8 +97,8 @@ def get_fp_stats(entities_file, relations_file, predictions_file, chemicals_file
                             relations_stats_d[t] = {pd_t: 1}
     return entities_stats_d, relations_stats_d
 
-def write_fp_stats(entities_file, relations_file, predictions_file, chemicals_file, genes_file, outfile):
-    d = get_fp_stats(entities_file, relations_file, predictions_file, chemicals_file, genes_file)
+def write_fn_stats(entities_file, relations_file, predictions_file, chemicals_file, genes_file, outfile):
+    d = get_fn_stats(entities_file, relations_file, predictions_file, chemicals_file, genes_file)
     case_study = ['PART-OF', 'INDIRECT-DOWNREGULATOR', 'INDIRECT-UPREGULATOR', 'ACTIVATOR', 'AGONIST', 'PRODUCT-OF']
     entities_stats_d = d[0]
     relations_stats_d = d[1]
@@ -109,12 +109,12 @@ def write_fp_stats(entities_file, relations_file, predictions_file, chemicals_fi
             outfile.write('%s\tchem_names\t%d\tchem_ids\t%d\tgene_names\t%d\tgene_ids\t%d\t\n' % 
                     (t, len(t_c[0]), len(t_c[1]), len(t_g[0]), len(t_g[1])))
             
-            for t_fp, t_fp_count in pd_t_d.items():
-                if t_fp != 'NO_RELATION':
-                    t_fp_c = (entities_stats_d[t_fp]['chemical_names'], entities_stats_d[t_fp]['chemical_ids'])
-                    t_fp_g = (entities_stats_d[t_fp]['gene_names'], entities_stats_d[t_fp]['gene_ids'])
+            for t_fn, t_fn_count in pd_t_d.items():
+                if t_fn != 'NO_RELATION':
+                    t_fn_c = (entities_stats_d[t_fn]['chemical_names'], entities_stats_d[t_fn]['chemical_ids'])
+                    t_fn_g = (entities_stats_d[t_fn]['gene_names'], entities_stats_d[t_fn]['gene_ids'])
                     outfile.write('%d\t%s\tchem_names\t%d\tchem_ids\t%d\tgene_names\t%d\tgene_ids\t%d\n' % 
-                    (t_fp_count, t_fp, len(t_c[0]&t_fp_c[0]), len(t_c[1]&t_fp_c[1]), len(t_g[0]&t_fp_g[0]), len(t_g[1]&t_fp_g[1])))
+                    (t_fn_count, t_fn, len(t_c[0]&t_fn_c[0]), len(t_c[1]&t_fn_c[1]), len(t_g[0]&t_fn_g[0]), len(t_g[1]&t_fn_g[1])))
             outfile.write('\n')
 
 ent_file = open(sys.argv[1], 'r', encoding='utf-8')
@@ -124,4 +124,4 @@ c_file = open(sys.argv[4], 'r', encoding='utf-8')
 g_file = open(sys.argv[5], 'r', encoding='utf-8')
 outfile = open(sys.argv[6], 'w', encoding='utf-8')
 
-write_fp_stats(ent_file, rel_file, pred_file, c_file, g_file, outfile)
+write_fn_stats(ent_file, rel_file, pred_file, c_file, g_file, outfile)
