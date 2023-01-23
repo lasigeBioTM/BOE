@@ -109,12 +109,20 @@ def write_fn_stats(entities_file, relations_file, predictions_file, chemicals_fi
             outfile.write('%s\tchem_names\t%d\tchem_ids\t%d\tgene_names\t%d\tgene_ids\t%d\t\n' % 
                     (t, len(t_c[0]), len(t_c[1]), len(t_g[0]), len(t_g[1])))
             
+            share_c = (set(), set())
+            share_g = (set(), set())
             for t_fn, t_fn_count in pd_t_d.items():
                 if t_fn != 'NO_RELATION':
                     t_fn_c = (entities_stats_d[t_fn]['chemical_names'], entities_stats_d[t_fn]['chemical_ids'])
+                    share_c[0].update(t_c[0]&t_fn_c[0])
+                    share_c[1].update(t_c[1]&t_fn_c[1])
                     t_fn_g = (entities_stats_d[t_fn]['gene_names'], entities_stats_d[t_fn]['gene_ids'])
+                    share_g[0].update(t_g[0]&t_fn_g[0])
+                    share_g[1].update(t_g[1]&t_fn_g[1])
                     outfile.write('%d\t%s\tchem_names\t%d\tchem_ids\t%d\tgene_names\t%d\tgene_ids\t%d\n' % 
                     (t_fn_count, t_fn, len(t_c[0]&t_fn_c[0]), len(t_c[1]&t_fn_c[1]), len(t_g[0]&t_fn_g[0]), len(t_g[1]&t_fn_g[1])))
+            outfile.write('%s\tshared_chem_names\t%d\tshared_chem_ids\t%d\tshared_gene_names\t%d\tshared_gene_ids\t%d\t\n' % 
+                    (t, len(share_c[0]), len(share_c[1]), len(share_g[0]), len(share_g[1])))
             outfile.write('\n')
 
 ent_file = open(sys.argv[1], 'r', encoding='utf-8')
