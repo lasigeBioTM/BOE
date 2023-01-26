@@ -1,0 +1,56 @@
+ANTAGONIST	chem_names	564	chem_ids	458	gene_names	358	gene_ids	200	
+15	INHIBITOR	chem_names	140	chem_ids	153	gene_names	59	gene_ids	93
+ANTAGONIST	relations	758	INHIBITOR	relations	1312
+11	DIRECT-REGULATOR	chem_names	59	chem_ids	65	gene_names	72	gene_ids	46
+ANTAGONIST	relations	146	DIRECT-REGULATOR	relations	507
+1	AGONIST	chem_names	21	chem_ids	14	gene_names	44	gene_ids	15
+ANTAGONIST	relations	32	AGONIST	relations	159
+1	SUBSTRATE	chem_names	4	chem_ids	5	gene_names	1	gene_ids	5
+ANTAGONIST	relations	5	SUBSTRATE	relations	20
+ANTAGONIST	shared_chem_names	224	shared_chem_ids	237	shared_gene_names	176	shared_gene_ids	159	
+
+SUBSTRATE	chem_names	726	chem_ids	602	gene_names	895	gene_ids	552	
+69	INHIBITOR	chem_names	135	chem_ids	157	gene_names	236	gene_ids	259
+SUBSTRATE	relations	1503	INHIBITOR	relations	3157
+29	DIRECT-REGULATOR	chem_names	64	chem_ids	71	gene_names	37	gene_ids	41
+SUBSTRATE	relations	184	DIRECT-REGULATOR	relations	354
+2	ACTIVATOR	chem_names	27	chem_ids	26	gene_names	16	gene_ids	12
+SUBSTRATE	relations	36	ACTIVATOR	relations	100
+3	INDIRECT-UPREGULATOR	chem_names	7	chem_ids	6	gene_names	10	gene_ids	20
+SUBSTRATE	relations	39	INDIRECT-UPREGULATOR	relations	72
+8	ANTAGONIST	chem_names	3	chem_ids	5	gene_names	1	gene_ids	6
+SUBSTRATE	relations	3	ANTAGONIST	relations	20
+1	AGONIST	chem_names	3	chem_ids	5	gene_names	0	gene_ids	1
+SUBSTRATE	relations	2	AGONIST	relations	17
+SUBSTRATE	shared_chem_names	239	shared_chem_ids	270	shared_gene_names	300	shared_gene_ids	339	
+
+DIRECT-REGULATOR	chem_names	1054	chem_ids	873	gene_names	883	gene_ids	515	
+44	INHIBITOR	chem_names	290	chem_ids	315	gene_names	193	gene_ids	225
+DIRECT-REGULATOR	relations	1725	INHIBITOR	relations	3648
+5	ANTAGONIST	chem_names	59	chem_ids	65	gene_names	72	gene_ids	46
+DIRECT-REGULATOR	relations	214	ANTAGONIST	relations	452
+12	ACTIVATOR	chem_names	65	chem_ids	69	gene_names	49	gene_ids	33
+DIRECT-REGULATOR	relations	107	ACTIVATOR	relations	328
+1	SUBSTRATE	chem_names	52	chem_ids	51	gene_names	35	gene_ids	30
+DIRECT-REGULATOR	relations	53	SUBSTRATE	relations	353
+1	AGONIST	chem_names	29	chem_ids	29	gene_names	26	gene_ids	13
+DIRECT-REGULATOR	relations	39	AGONIST	relations	152
+DIRECT-REGULATOR	shared_chem_names	495	shared_chem_ids	529	shared_gene_names	375	shared_gene_ids	347	
+
+INHIBITOR	chem_names	1984	chem_ids	1583	gene_names	1501	gene_ids	797	
+1	INDIRECT-UPREGULATOR	chem_names	201	chem_ids	209	gene_names	142	gene_ids	186
+INHIBITOR	relations	3069	INDIRECT-UPREGULATOR	relations	1095
+73	ANTAGONIST	chem_names	125	chem_ids	128	gene_names	48	gene_ids	56
+INHIBITOR	relations	376	ANTAGONIST	relations	541
+4	INDIRECT-DOWNREGULATOR	chem_names	167	chem_ids	150	gene_names	101	gene_ids	65
+INHIBITOR	relations	607	INDIRECT-DOWNREGULATOR	relations	551
+62	DIRECT-REGULATOR	chem_names	159	chem_ids	164	gene_names	125	gene_ids	89
+INHIBITOR	relations	594	DIRECT-REGULATOR	relations	692
+3	ACTIVATOR	chem_names	51	chem_ids	48	gene_names	92	gene_ids	45
+INHIBITOR	relations	129	ACTIVATOR	relations	392
+2	AGONIST	chem_names	13	chem_ids	14	gene_names	4	gene_ids	0
+INHIBITOR	relations	10	AGONIST	relations	35
+2	SUBSTRATE	chem_names	50	chem_ids	52	gene_names	131	gene_ids	98
+INHIBITOR	relations	283	SUBSTRATE	relations	653
+INHIBITOR	shared_chem_names	766	shared_chem_ids	765	shared_gene_names	643	shared_gene_ids	539	
+

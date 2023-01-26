@@ -60,76 +60,115 @@ def get_ontology(ontology_file):
     
     return ontology_d
 
-def get_fn_stats(entities_file, relations_file, predictions_file, chemicals_file, genes_file):
-    gs_entities_d = get_entities(entities_file)
-    gs_relations_d = get_relations(relations_file)
-    chemicals_d = get_ontology(chemicals_file)
-    genes_d = get_ontology(genes_file)
+def get_false_negatives(predictions_file):
     pd_relations_d = get_relations(predictions_file)
-    entities_stats_d = dict()
-    relations_stats_d = dict()
-    for abstract, arg1_d in gs_relations_d.items():
+    fn_relations_d = dict()
+    for abstract, arg1_d in dev_relations_d.items():
         for arg1, arg2_d in arg1_d.items():
             for arg2, relations in arg2_d.items():
                 for t in relations:
-                    c_name = gs_entities_d[abstract][arg1]
-                    c_id = chemicals_d[c_name]
-                    g_name = gs_entities_d[abstract][arg2]
-                    g_id = genes_d[g_name]
-                    if t not in entities_stats_d:
-                        entities_stats_d[t]={'chemical_names': set(),
-                                              'chemical_ids': set(),
-                                              'gene_names': set(),
-                                              'gene_ids': set()}
-                    entities_stats_d[t]['chemical_names'].add(c_name)
-                    entities_stats_d[t]['chemical_ids'].add(c_id)
-                    entities_stats_d[t]['gene_names'].add(g_name)
-                    entities_stats_d[t]['gene_ids'].add(g_id)
-
                     if abstract in pd_relations_d and arg1 in pd_relations_d[abstract] \
                         and arg2 in pd_relations_d[abstract][arg1] and t not in pd_relations_d[abstract][arg1][arg2]:
                         pd_t = pd_relations_d[abstract][arg1][arg2][0]
-                        if t in relations_stats_d and pd_t in relations_stats_d[t]:
-                            relations_stats_d[t][pd_t] += 1
-                        elif t in relations_stats_d:
-                            relations_stats_d[t][pd_t] = 1
+                        if t in fn_relations_d and pd_t in fn_relations_d[t]:
+                            fn_relations_d[t][pd_t] += 1
+                        elif t in fn_relations_d:
+                            fn_relations_d[t][pd_t] = 1
                         else:
-                            relations_stats_d[t] = {pd_t: 1}
-    return entities_stats_d, relations_stats_d
+                            fn_relations_d[t] = {pd_t: 1}
+    
+    return fn_relations_d
 
-def write_fn_stats(entities_file, relations_file, predictions_file, chemicals_file, genes_file, outfile):
-    d = get_fn_stats(entities_file, relations_file, predictions_file, chemicals_file, genes_file)
-    case_study = ['PART-OF', 'INDIRECT-DOWNREGULATOR', 'INDIRECT-UPREGULATOR', 'ACTIVATOR', 'AGONIST', 'PRODUCT-OF']
-    entities_stats_d = d[0]
-    relations_stats_d = d[1]
-    for t, pd_t_d in relations_stats_d.items():
+def get_train_entities():
+    entities_d = dict()
+    for abstract, arg1_d in train_relations_d.items():
+        for arg1, arg2_d in arg1_d.items():
+            for arg2, relations in arg2_d.items():
+                for t in relations:
+                    if t not in entities_d:
+                        entities_d[t] = {'chemical_names': set(),
+                                        'chemical_ids': set(),
+                                        'gene_names': set(),
+                                        'gene_ids': set()}
+                    c_name = train_entities_d[abstract][arg1]
+                    c_id = chemicals_d[c_name]
+                    g_name = train_entities_d[abstract][arg2]
+                    g_id = genes_d[g_name]
+                    entities_d[t]['chemical_names'].add(c_name)
+                    entities_d[t]['chemical_ids'].add(c_id)
+                    entities_d[t]['gene_names'].add(g_name)
+                    entities_d[t]['gene_ids'].add(g_id)
+    return entities_d
+
+def get_train_relations(c_entities, g_entities, type, false_negative_type):
+    relations_d = dict()
+    for abstract, arg1_d in train_relations_d.items():
+        for arg1, arg2_d in arg1_d.items():
+            for arg2, relations in arg2_d.items():
+                for t in relations:
+                    if t in [type, false_negative_type]:
+                        if t not in relations_d:
+                            relations_d[t] = set()
+                        c_name = train_entities_d[abstract][arg1]
+                        c_id = chemicals_d[c_name]
+                        g_name = train_entities_d[abstract][arg2]
+                        g_id = genes_d[g_name]
+                        condition = c_name in c_entities[0] or \
+                                    g_name in g_entities[0] or \
+                                    c_id in c_entities[1] or \
+                                    g_id in g_entities[1]                                    
+                        if condition:
+                            relations_d[t].add(str(abstract + arg1 + arg2))
+    return relations_d
+
+def write_fn_stats(predictions, outfile):
+    fn_relations_d = get_false_negatives(predictions)
+    case_study = ['PART-OF', 'INDIRECT-DOWNREGULATOR', 'INDIRECT-UPREGULATOR', 'ACTIVATOR', 'AGONIST', 'PRODUCT-OF', 'AGONIST-ACTIVATOR', 'AGONIST-INHIBITOR', 'SUBSTRATE_PRODUCT-OF']
+    train_entities_d = get_train_entities()
+    for t, pd_t_d in fn_relations_d.items():
         if t in case_study:
-            t_c = (entities_stats_d[t]['chemical_names'], entities_stats_d[t]['chemical_ids'])
-            t_g = (entities_stats_d[t]['gene_names'], entities_stats_d[t]['gene_ids'])
+            train_t_c = (train_entities_d[t]['chemical_names'], train_entities_d[t]['chemical_ids'])
+            train_t_g = (train_entities_d[t]['gene_names'], train_entities_d[t]['gene_ids'])
+            
             outfile.write('%s\tchem_names\t%d\tchem_ids\t%d\tgene_names\t%d\tgene_ids\t%d\t\n' % 
-                    (t, len(t_c[0]), len(t_c[1]), len(t_g[0]), len(t_g[1])))
+                    (t, len(train_t_c[0]), len(train_t_c[1]), len(train_t_g[0]), len(train_t_g[1])))
             
             share_c = (set(), set())
             share_g = (set(), set())
+            common_relations_train_t = set()
             for t_fn, t_fn_count in pd_t_d.items():
                 if t_fn != 'NO_RELATION':
-                    t_fn_c = (entities_stats_d[t_fn]['chemical_names'], entities_stats_d[t_fn]['chemical_ids'])
-                    share_c[0].update(t_c[0]&t_fn_c[0])
-                    share_c[1].update(t_c[1]&t_fn_c[1])
-                    t_fn_g = (entities_stats_d[t_fn]['gene_names'], entities_stats_d[t_fn]['gene_ids'])
-                    share_g[0].update(t_g[0]&t_fn_g[0])
-                    share_g[1].update(t_g[1]&t_fn_g[1])
+                    train_t_fn_c = (train_entities_d[t_fn]['chemical_names'], train_entities_d[t_fn]['chemical_ids'])
+                    train_t_fn_g = (train_entities_d[t_fn]['gene_names'], train_entities_d[t_fn]['gene_ids'])
+                    train_common_chemical = (train_t_c[0]&train_t_fn_c[0], train_t_c[1]&train_t_fn_c[1])
+                    train_common_gene = (train_t_g[0]&train_t_fn_g[0], train_t_g[1]&train_t_fn_g[1])
+                    unique_chemical = (train_common_chemical[0]-share_c[0], train_common_chemical[1]-share_c[1])
+                    unique_gene = (train_common_gene[0]-share_g[0], train_common_gene[1]-share_g[1])
+                    share_c[0].update(train_common_chemical[0])
+                    share_c[1].update(train_common_chemical[1])
+                    share_g[0].update(train_common_gene[0])
+                    share_g[1].update(train_common_gene[1])
+
                     outfile.write('%d\t%s\tchem_names\t%d\tchem_ids\t%d\tgene_names\t%d\tgene_ids\t%d\n' % 
-                    (t_fn_count, t_fn, len(t_c[0]&t_fn_c[0]), len(t_c[1]&t_fn_c[1]), len(t_g[0]&t_fn_g[0]), len(t_g[1]&t_fn_g[1])))
+                    (t_fn_count, t_fn, len(unique_chemical[0]), len(unique_chemical[1]), len(unique_gene[0]), len(unique_gene[1])))
+                    
+                    relations_train = get_train_relations(unique_chemical, unique_gene, t, t_fn)
+                    unique_relations_train_t = relations_train[t] - common_relations_train_t
+                    common_relations_train_t.update(relations_train[t])
+                    
+                    outfile.write('%s\trelations\t%d\t%s\trelations\t%d\n' % (t, len(unique_relations_train_t), t_fn, len(relations_train[t_fn])))
+                    
             outfile.write('%s\tshared_chem_names\t%d\tshared_chem_ids\t%d\tshared_gene_names\t%d\tshared_gene_ids\t%d\t\n' % 
                     (t, len(share_c[0]), len(share_c[1]), len(share_g[0]), len(share_g[1])))
             outfile.write('\n')
 
-ent_file = open(sys.argv[1], 'r', encoding='utf-8')
-rel_file = open(sys.argv[2], 'r', encoding='utf-8')
-pred_file = open(sys.argv[3], 'r', encoding='utf-8')
-c_file = open(sys.argv[4], 'r', encoding='utf-8')
-g_file = open(sys.argv[5], 'r', encoding='utf-8')
-outfile = open(sys.argv[6], 'w', encoding='utf-8')
+dev_relations_d = get_relations(open('./corpora/development/drugprot_development_relations.tsv', 'r', encoding='utf-8'))
+train_entities_d = get_entities(open('./corpora/training/drugprot_training_entities.tsv', 'r', encoding='utf-8'))
+train_relations_d = get_relations(open('./corpora/training/drugprot_training_relations.tsv', 'r', encoding='utf-8'))
 
-write_fn_stats(ent_file, rel_file, pred_file, c_file, g_file, outfile)
+chemicals_d = dict(get_ontology(open('./corpora/training/t_c_ents.txt', 'r', encoding='utf-8')),
+            **get_ontology(open('./corpora/development/dev_c_ents.txt', 'r', encoding='utf-8')))
+genes_d = dict(get_ontology(open('./corpora/training/t_g_ents.txt', 'r', encoding='utf-8')),
+            **get_ontology(open('./corpora/development/dev_g_ents.txt', 'r', encoding='utf-8')))
+
+write_fn_stats(open(sys.argv[1], 'r', encoding='utf-8'), open(sys.argv[2], 'w', encoding='utf-8'))
