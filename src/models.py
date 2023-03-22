@@ -2,7 +2,7 @@ import keras
 from keras.layers import Input, Bidirectional, Dropout, GlobalMaxPooling1D, Embedding, SpatialDropout1D, LSTM, Dense
 from keras.models import Model
 from keras.optimizers import Adam
-from keras import backend as K
+from tensorflow.python.keras import backend as K
 
 # Input Parameters (Model Architecture)
 n_classes = 14
@@ -15,21 +15,9 @@ LSTM_units = 100
 ontology_embedding_size = 100
 sigmoid_units = 10
 
-# --------------------------------------------------------------
-#                          WORD VECTORS
-# --------------------------------------------------------------
-
 
 def get_words_channel_conc(words_input, embedding_matrix):
-    """
-
-    :param words_input:
-    :param embedding_matrix:
-    :return:
-    """
-
-    concatenate = keras.layers.concatenate([words_input[0], words_input[1]],
-                                           axis=-1)
+    concatenate = keras.layers.concatenate([words_input[0], words_input[1]], axis=-1)
     e_words = embedding_matrix
     e_words = e_words(concatenate)
 
@@ -45,19 +33,7 @@ def get_words_channel_conc(words_input, embedding_matrix):
     return words_pool
 
 
-# --------------------------------------------------------------
-#                  CONTENATION OF ANCESTORS
-# --------------------------------------------------------------
-
-
 def get_ontology_concat_channel(ontology_input, id_to_index):
-    """
-
-    :param ontology_input:
-    :param id_to_index:
-    :return:
-    """
-
     e_ancestors_left = Embedding(len(id_to_index),
                                  ontology_embedding_size,
                                  input_length=max_ancestors_length,
@@ -89,52 +65,7 @@ def get_ontology_concat_channel(ontology_input, id_to_index):
     return ancestors_pool_left, ancestors_pool_right
 
 
-# --------------------------------------------------------------
-#          COMMON ANCESTORS (IF SAME TYPE OF ANCESTORS)
-# -------------------------------------------------------------
-
-
-def get_ontology_common_channel(ontology_input, id_to_index):
-    """
-
-    :param ontology_input:
-    :param id_to_index:
-    :return:
-    """
-
-    e_ancestors = Embedding(len(id_to_index),
-                            ontology_embedding_size,
-                            input_length=max_ancestors_length * 2,
-                            trainable=True)
-    e_ancestors.build((None, ))
-    e_ancestors = e_ancestors(ontology_input)
-    e_ancestors = Dropout(0.5)(e_ancestors)
-
-    ancestors_lstm = LSTM(LSTM_units,
-                          input_shape=(max_ancestors_length * 2,
-                                       ontology_embedding_size),
-                          return_sequences=True)(e_ancestors)
-
-    ancestors_pool = GlobalMaxPooling1D()(ancestors_lstm)
-
-    return ancestors_pool
-
-
-# --------------------------------------------------------------
-#                             MODEL
-# --------------------------------------------------------------
-
-
 def get_model(embedding_matrix, channels, wordnet_emb, id_to_index):
-    """
-
-    :param embedding_matrix:
-    :param channels:
-    :param wordnet_emb:
-    :param id_to_index:
-    :return:
-    """
-
     inputs = []
     pool_layers = []
 
@@ -146,8 +77,7 @@ def get_model(embedding_matrix, channels, wordnet_emb, id_to_index):
 
         inputs += [words_input_left, words_input_right]
 
-        words_pool = get_words_channel_conc(
-            (words_input_left, words_input_right), embedding_matrix)
+        words_pool = get_words_channel_conc((words_input_left, words_input_right), embedding_matrix)
 
         pool_layers += [words_pool]
 
@@ -202,17 +132,10 @@ def get_model(embedding_matrix, channels, wordnet_emb, id_to_index):
 
         inputs += [ancestors_input_left, ancestors_input_right]
 
-        ancestors_pool_left, ancestors_pool_right = get_ontology_concat_channel(
-            (ancestors_input_left, ancestors_input_right), id_to_index)
+        ancestors_pool_left, ancestors_pool_right = \
+        get_ontology_concat_channel((ancestors_input_left, ancestors_input_right), id_to_index)
+        
         pool_layers += [ancestors_pool_left, ancestors_pool_right]
-
-    if 'common_ancestors' in channels:
-        ancestors_common = Input(shape=(max_ancestors_length * 2, ),
-                                 name='common_ancestors')
-        inputs += [ancestors_common]
-        ancestors_pool = get_ontology_common_channel(ancestors_common,
-                                                     id_to_index)
-        pool_layers.append(ancestors_pool)
 
     if len(pool_layers) > 1:
         concatenate = keras.layers.concatenate(pool_layers, axis=-1)
@@ -229,8 +152,7 @@ def get_model(embedding_matrix, channels, wordnet_emb, id_to_index):
     model = Model(inputs=inputs, outputs=[output])
 
     model.compile(
-        loss=
-        'categorical_crossentropy',  # options: categorical | binary_crossentropy
+        loss='categorical_crossentropy',  # options: categorical | binary_crossentropy
         optimizer=Adam(0.001),  # options: RMSprop(0.0001) | SGD(0.1)
         # sample_weight_mode = None,  # optional
         # weighted_metrics = [recall],  # optional
