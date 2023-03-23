@@ -1,0 +1,4 @@
+# Evaluation Library
+wget -q https://github.com/tonifuc3m/drugprot-evaluation-library/archive/refs/heads/main.zip
+unzip -q master.zip/
+rm -f master.zip/

@@ -1,0 +1,13 @@
+# Obonet
+wget -q https://github.com/dpavot/obonet/archive/refs/heads/master.zip
+unzip -q master.zip/
+rm -f master.zip/
+# SuperSenseTagger
+wget -q https://sourceforge.net/projects/supersensetag/files/sst-light/sst-light-0.4/sst-light-0.4.tar.gz/
+tar xvf sst-light-0.4.tar.gz/
+rm -f sst-light-0.4.tar.gz/
+'''Open /sst-light-0.4/LIB/hash_stuff/hash_stuff.h and add this:
+#include <cstring>
+Open Makefile and add the flag -Wall:
+CFLAGS = -Wall -g -O1 -DPIC -fPIC -ILIB -I.
+'''

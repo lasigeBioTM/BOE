@@ -1,0 +1,6 @@
+# Chemical Entities of Biological Interest
+wget -q ftp://ftp.ebi.ac.uk/pub/databases/chebi/ontology/chebi.obo
+# Gene Ontology
+wget -q http://purl.obolibrary.org/obo/go.obo
+# PubMed Word2Vec embeddings
+wget -q http://evexdb.org/pmresources/vec-space-models/PubMed-w2v.bin
