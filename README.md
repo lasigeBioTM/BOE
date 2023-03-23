@@ -1,8 +1,10 @@
 # BOE: BiOnt Enhanced (DrugProt corpus)
 
-Download the [DrugProt corpus](https://zenodo.org/record/5042151)
+The motivation behind this project was to get better results, on the [DrugProt corpus](https://zenodo.org/record/5042151) (drug and chemical-protein interactions), through the adaptation of the [BiOnt](https://github.com/lasigeBioTM/BiOnt) system.
 
-The motivation behind this project was to get better results, on the DrugProt (drug and chemical-protein interactions) corpus, through the adaptation of the [BiOnt](https://github.com/lasigeBioTM/BiOnt) system.
+## Installation
+
+Pursue the steps of requirements.txt in the folders: **bin**; **data**; **drugprot-evaluation-library**.
 
 ## Enhancements
 
@@ -25,7 +27,7 @@ Principal variations between the models shown below are as follows:
 **extra ents**: Creates new sentences that incorporate one GENE term and one CHEMICAL term mentioned in the original sentence.
 
 | Model | Precision | Recall | F1-Score |
-| ------ | ------ | ------ | ------ |
+| ------ | :------: | :------: | :------: |
 | baseline | **0.618** | 0.097 | 0.168 |
 | main ents | 0.24 | 0.293 | 0.264 |
 | extra ents | 0.149 | 0.262 | 0.19 |
